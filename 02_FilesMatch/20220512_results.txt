@@ -1,0 +1,3910 @@
+OR	Ubiquitin and ubiquitin-like proteins	12
+J	60s ribosomal protein L39	4
+J	Ubiquitin/60s ribosomal protein L40 fusion	6
+J	Ubiquitin/40S ribosomal protein S27a fusion	4
+DO	Ubiquitin-like protein	1
+O	E3 ubiquitin-protein ligase (Parkin protein)	0
+A	Splicing factor 3a, subunit 1	3
+K	Transcription initiation factor TFIID, subunit TAF1	2
+JO	Ubiquitin-like/40S ribosomal S30 protein fusion	4
+OR	Ubiquitin-like protein	3
+L	Nucleotide excision repair factor NEF2, RAD23 component	3
+L	DNA damage inducible protein	2
+S	Uncharacterized conserved protein	460
+K	MADS box transcription factor	35
+K	Regulator of arginine metabolism and related MADS box-containing transcription factors	1
+I	Enoyl-CoA hydratase/isomerase	2
+R	FOG: Transposon-encoded proteins with TYA, reverse transcriptase, integrase domains in various combinations	174
+D	Structural maintenance of chromosome protein 1 (sister chromatid cohesion complex Cohesin, subunit SMC1)	3
+O	Molecular chaperone (HSP90 family)	12
+O	Endoplasmic reticulum glucose-regulated protein (GRP94/endoplasmin), HSP90 family	4
+Q	Glutathione synthetase	1
+Q	Alcohol dehydrogenase, class III	13
+Q	Alcohol dehydrogenase, class V	16
+Q	Sorbitol dehydrogenase	8
+KC	Zn2+-binding dehydrogenase (nuclear receptor binding factor-1)	2
+E	Anthranilate synthase, beta chain	3
+T	Calmodulin and related proteins (EF-Hand superfamily)	32
+ZD	Ca2+-binding protein (centrin/caltractin), EF-Hand superfamily protein	5
+Q	Amine oxidase	11
+Z	Myosin essential light chain, EF-Hand protein superfamily	1
+Z	Myosin regulatory light chain, EF-Hand protein superfamily	1
+T	Ca2+/calmodulin-dependent protein kinase, EF-Hand protein superfamily	38
+T	Ca2+/calmodulin-dependent protein phosphatase (calcineurin subunit B), EF-Hand superfamily protein	7
+Z	Ca2+-binding actin-bundling protein (actinin), alpha chain (EF-Hand protein superfamily)	2
+F	Predicted mitochondrial carrier protein	4
+T	Ca2+-binding protein, EF-Hand protein superfamily	2
+R	Ca2+-binding kinase interacting protein (KIP) (EF-Hand protein superfamily)	0
+PQ	Ferric reductase, NADH/NADPH oxidase and related proteins	16
+Z	Ca2+-binding actin-bundling protein (spectrin), alpha chain (EF-Hand protein superfamily)	1
+R	Predicted Ca2+-binding protein, EF-Hand protein superfamily	0
+C	Glycerol-3-phosphate dehydrogenase	5
+S	Uncharacterized conserved protein, contains DM10 domain	0
+T	Ca2+ sensor (EF-Hand superfamily)	0
+OT	Cytosolic Ca2+-dependent cysteine protease (calpain), large subunit (EF-Hand protein superfamily)	1
+Z	Ca2+-binding actin-bundling protein (fimbrin/plastin), EF-Hand protein superfamily	7
+P	Catalase	5
+K	Transcription factor, Myb superfamily	70
+AD	mRNA splicing protein CDC5 (Myb superfamily)	3
+K	RNA polymerase I termination factor, Myb superfamily	1
+J	Translation elongation factor EF-1 alpha/Tu	7
+E	Cystathionine beta-lyases/cystathionine gamma-synthases	10
+Q	Multidrug resistance-associated protein/mitoxantrone resistance protein, ABC superfamily	23
+Q	Multidrug/pheromone exporter, ABC superfamily	38
+P	Heavy metal exporter HMT1, ABC superfamily	3
+U	Mitochondrial Fe/S cluster exporter, ABC superfamily	6
+U	Peptide exporter, ABC superfamily	8
+IR	Lipid exporter ABCA1 and related proteins, ABC superfamily	28
+IR	Long-chain acyl-CoA transporter, ABC superfamily (involved in peroxisome organization and biogenesis)	2
+Q	Transporter, ABC superfamily (Breast cancer resistance protein)	31
+EJ	ATPase component of ABC transporters with duplicated ATPase domains/Translation elongation factor EF-3b	8
+A	RNAse L inhibitor, ABC superfamily	4
+I	Peroxisomal long-chain acyl-CoA transporter, ABC superfamily	0
+Q	Pleiotropic drug resistance proteins (PDR1-15), ABC superfamily	15
+J	eIF2-interacting protein ABC50 (ABC superfamily)	2
+K	Transcription factor CtBP	1
+E	D-3-phosphoglycerate dehydrogenase, D-isomer-specific 2-hydroxy acid dehydrogenase superfamily	6
+C	Glyoxylate/hydroxypyruvate reductase (D-isomer-specific 2-hydroxy acid dehydrogenase superfamily)	10
+U	GTP-binding ADP-ribosylation factor Arf1	11
+U	GTP-binding ADP-ribosylation factor Arf6 (dArf3)	1
+U	GTP-binding ADP-ribosylation factor-like protein ARL1	1
+UZ	GTP-binding ADP-ribosylation factor-like protein ARL2	2
+R	GTP-binding ADP-ribosylation factor-like protein ARL3	0
+R	GTP-binding ADP-ribosylation factor-like protein	5
+U	GTP-binding ADP-ribosylation factor-like protein yARL3	1
+U	Vesicle coat complex COPII, GTPase subunit SAR1	4
+TU	GTP-binding protein SEC4, small G protein superfamily, and related Ras family GTP-binding proteins	4
+R	GTP-binding protein H-ray, small G protein superfamily	0
+R	GTPase Rab18, small G protein superfamily	3
+U	GTPase Rab27, small G protein superfamily	0
+DT	G-protein alpha subunit (small G protein superfamily)	7
+R	GTPase Rab26/Rab37, small G protein superfamily	0
+TU	GTPase Rab1/YPT1, small G protein superfamily, and related GTP-binding proteins	7
+T	G protein subunit Galphaq/Galphay, small G protein superfamily	0
+U	GTPase Rab4, small G protein superfamily	0
+U	GTPase Rab11/YPT3, small G protein superfamily	20
+R	GTPase Rab21, small G protein superfamily	1
+H	Methylenetetrahydrofolate dehydrogenase/methylenetetrahydrofolate cyclohydrolase	3
+U	Signal recognition particle receptor, beta subunit (small G protein superfamily)	1
+R	GTPase Rab39, small G protein superfamily	0
+U	GTPase Rab5/YPT51 and related small G protein superfamily GTPases	4
+U	GTPase Rab3, small G protein superfamily	0
+U	GTPase Rab6/YPT6/Ryh1, small G protein superfamily	4
+U	GTPase Rab30, small G protein superfamily	0
+U	GTPase Ran/TC4/GSP1 (nuclear protein transport pathway), small G protein superfamily	6
+U	GTPase Rab14, small G protein superfamily	0
+U	GTPase Rab2, small G protein superfamily	4
+T	G protein subunit Galphas, small G protein superfamily	0
+O	Molecular chaperones GRP78/BiP/KAR2, HSP70 superfamily	7
+O	Molecular chaperones HSP70/HSC70, HSP70 superfamily	21
+O	Molecular chaperones mortalin/PBP74/GRP75, HSP70 superfamily	7
+O	Molecular chaperones HSP105/HSP110/SSE1, HSP70 superfamily	8
+O	Molecular chaperones GRP170/SIL1, HSP70 superfamily	2
+A	Alternative splicing factor ASF/SF2 (RRM superfamily)	3
+A	Alternative splicing factor SRp55/B52/SRp75 (RRM superfamily)	7
+A	Alternative splicing factor SRp20/9G8 (RRM superfamily)	5
+A	mRNA cleavage and polyadenylation factor I complex, subunit RNA15	3
+AR	RNA-binding protein LARK, contains RRM and retroviral-type Zn-finger domains	0
+R	RNA-binding protein (RRM superfamily)	2
+O	Cyclophilin-type peptidyl-prolyl cis-trans isomerase	1
+R	Large RNA-binding protein (RRM superfamily)	0
+A	U1 small nuclear ribonucleoprotein (RRM superfamily)	3
+R	Predicted RNA-binding protein (RRM superfamily)	6
+A	RNA-binding protein p54nrb (RRM superfamily)	1
+T	RasGAP SH3 binding protein rasputin, contains NTF2 and RRM domains	3
+A	Heterogeneous nuclear ribonucleoprotein R (RRM superfamily)	5
+R	FOG: RRM domain	65
+A	Splicing factor 1/branch point binding protein (RRM superfamily)	3
+A	Splicing factor U2AF, large subunit (RRM superfamily)	5
+A	Nuclear cap-binding protein complex, subunit CBP20 (RRM superfamily)	1
+J	Translation initiation factor 3, subunit g (eIF-3g)	3
+AJ	Polyadenylate-binding protein (RRM superfamily)	10
+A	Polypyrimidine tract-binding protein PUF60 (RRM superfamily)	0
+R	Ataxin 2-binding protein (RRM superfamily)	0
+A	Nucleolar protein fibrillarin NOP77 (RRM superfamily)	2
+A	RNA-binding protein SART3 (RRM superfamily)	2
+J	Predicted RNA-binding protein (RRM superfamily)	0
+R	RNA-binding protein RBM8/Tsunagi (RRM superfamily)	3
+A	Splicing factor 3b, subunit 4	3
+AK	RNA polymerase II C-terminal domain-binding protein RA4, contains RPR and RRM domains	1
+LT	Deoxyribodipyrimidine photolyase/cryptochrome	8
+CR	NADH:flavin oxidoreductase/12-oxophytodienoate reductase	8
+IQ	Pristanoyl-CoA/acyl-CoA oxidase	4
+I	Acyl-CoA oxidase	3
+I	Very-long-chain acyl-CoA dehydrogenase	5
+E	Glutaryl-CoA dehydrogenase	5
+I	Short-chain acyl-CoA dehydrogenase	7
+I	Medium-chain acyl-CoA dehydrogenase	2
+EI	Isovaleryl-CoA dehydrogenase	4
+Q	Isopentenyl pyrophosphate:dimethylallyl pyrophosphate isomerase	2
+QR	Iron/ascorbate family oxidoreductases	61
+A	RNA-binding protein CUGBP1/BRUNO (RRM superfamily)	4
+A	RNA-binding protein ELAV/HU (RRM superfamily)	0
+A	RNA-binding protein ETR-3 (RRM superfamily)	0
+K	Transcriptional coactivator CAPER (RRM superfamily)	3
+AJ	Apoptosis-promoting RNA-binding protein TIA-1/TIAR (RRM superfamily)	1
+R	Predicted RNA-binding protein SEB4 (RRM superfamily)	5
+A	Spliceosomal protein FBP21	1
+R	Predicted splicing regulator, contains RRM, SWAP and RPR domains	1
+A	Spliceosomal protein FBP11/Splicing factor PRP40	3
+R	RNA-binding protein RBM5 and related proteins, contain G-patch and RRM domains	5
+K	Transcription factor CA150	1
+Q	Cytochrome P450 CYP2 subfamily	88
+QI	Cytochrome P450 CYP4/CYP19/CYP26 subfamilies	70
+Q	Cytochrome P450 CYP3/CYP5/CYP6/CYP9 subfamilies	7
+Q	Cytochrome P450 CYP11/CYP12/CYP24/CYP27 subfamilies	3
+Z	Myosin class V heavy chain	17
+Z	Myosin class II heavy chain	6
+Z	Myosin class I heavy chain	2
+Z	Myosin class VI heavy chain	0
+Z	Microtubule-associated protein Asp	1
+U	Karyopherin (importin) alpha	6
+S	FOG: Armadillo/beta-catenin-like repeats	37
+O	Putative ubiquitin fusion degradation protein	3
+T	Phosphoinositide-specific phospholipase C	5
+O	E3 ubiquitin protein ligase	7
+O	Mitochondrial inner membrane protease, subunit IMP1	4
+E	Lysine-ketoglutarate reductase/saccharopine dehydrogenase	3
+O	20S proteasome, regulatory subunit beta type PSMB7/PSMB10/PUP1	3
+O	20S proteasome, regulatory subunit beta type PSMB6/PSMB9/PRE3	2
+O	20S proteasome, regulatory subunit beta type PSMB5/PSMB8/PRE2	3
+O	20S proteasome, regulatory subunit alpha type PSMA5/PUP2	4
+O	20S proteasome, regulatory subunit beta type PSMB2/PRE1	2
+O	20S proteasome, regulatory subunit alpha type PSMA4/PRE9	3
+O	20S proteasome, regulatory subunit beta type PSMB1/PRE7	2
+O	20S proteasome, regulatory subunit beta type PSMB3/PUP3	1
+O	20S proteasome, regulatory subunit alpha type PSMA2/PRE8	2
+O	20S proteasome, regulatory subunit alpha type PSMA6/SCL1	2
+O	20S proteasome, regulatory subunit alpha type PSMA7/PRE6	4
+O	20S proteasome, regulatory subunit alpha type PSMA3/PRE10	4
+O	20S proteasome, regulatory subunit beta type PSMB4/PRE4	3
+E	Proline oxidase	2
+J	40S ribosomal protein S17	4
+J	Alanyl-tRNA synthetase	4
+E	Phosphoadenosine phosphosulfate reductase	4
+O	Protein disulfide isomerase (prolyl 4-hydroxylase beta subunit)	11
+O	Thioredoxin/protein disulfide isomerase	8
+T	Tyrosine kinase specific for activated (GTP-bound) p21cdc42Hs	41
+T	Serine/threonine protein kinase RAF	2
+T	Protein tyrosine kinase	0
+T	Integrin-linked kinase	0
+T	Tyrosine kinase, EPH (ephrin) receptor family	0
+T	Tyrosine kinases	1
+T	MEKK and related serine/threonine protein kinases	16
+T	ACK and related non-receptor tyrosine kinases	1
+T	Fibroblast/platelet-derived growth factor receptor and related receptor tyrosine kinases	2
+T	Serine/threonine protein kinase	219
+P	Ca2+ transporting ATPase	9
+P	Na+/K+ ATPase, alpha subunit	0
+P	Calcium transporting ATPase	13
+P	Plasma membrane H+-transporting ATPase	14
+R	P-type ATPase	24
+P	Cation transport ATPase	13
+P	P-type ATPase	2
+T	Protein phosphatase 2A regulatory subunit A and related proteins	6
+A	Splicing factor 3b, subunit 1	1
+K	RNA polymerase II, second largest subunit	5
+K	RNA polymerase III, second largest subunit	2
+K	RNA polymerase I, second largest subunit	3
+L	Mismatch repair ATPase MSH6 (MutS family)	5
+L	Mismatch repair MSH3	1
+L	Mismatch repair ATPase MSH2 (MutS family)	3
+L	Mismatch repair ATPase MSH4 (MutS family)	1
+L	Mismatch repair ATPase MSH5 (MutS family)	2
+Q	Phenylalanine and histidine ammonia-lyase	5
+G	Aquaporin (major intrinsic protein family)	32
+C	Pyruvate dehydrogenase E1, alpha subunit	6
+R	RNA-binding proteins	1
+A	Splicing factor 3a, subunit 2	2
+G	Beta-fructofuranosidase (invertase)	7
+T	Phosphatidylinositol-4-phosphate 5-kinase	9
+T	Phosphatidylinositol-4-phosphate 5-kinase and related FYVE finger-containing proteins	5
+R	Junctional membrane complex protein Junctophilin and related MORN repeat proteins	4
+C	Vacuolar H+-ATPase V0 sector, subunits c/c'	8
+C	Vacuolar H+-ATPase V0 sector, subunit c''	3
+G	Fructose-6-phosphate 2-kinase/fructose-2,6-biphosphatase	7
+G	Phosphoglycerate mutase	8
+P	Sulfate/bicarbonate/oxalate exchanger SAT-1 and related transporters (SLC26 family)	15
+F	Glycinamide ribonucleotide synthetase (GARS)/Aminoimidazole ribonucleotide synthetase (AIRS)	6
+IE	3-Methylcrotonyl-CoA carboxylase, biotin-containing subunit/Propionyl-CoA carboxylase, alpha chain/Acetyl-CoA carboxylase, biotin carboxylase subunit	7
+Z	Kinesin (KAR3 subfamily)	22
+Z	Kinesin (SMY1 subfamily)	4
+Z	Kinesin-like protein	32
+Z	Cytoplasmic protein Max-1, contains PH, MyTH4 and FERM domains	0
+R	LAR-interacting protein and related proteins	0
+L	DNA repair protein RAD18 (SMC family protein)	2
+TU	Clathrin assembly protein AP180 and related proteins, contain ENTH domain	11
+P	Inorganic phosphate transporter	5
+R	Synaptic vesicle transporter SV2 (major facilitator superfamily)	2
+R	Predicted transporter (major facilitator superfamily)	59
+R	Synaptic vesicle transporter SVOP and related transporters (major facilitator superfamily)	18
+T	1-aminocyclopropane-1-carboxylate synthase, and related proteins	5
+E	Kynurenine aminotransferase, glutamine transaminase K	6
+E	Alanine aminotransferase	5
+E	Tyrosine aminotransferase	3
+K	RNA polymerase II, large subunit	4
+K	RNA polymerase III, large subunit	2
+K	RNA polymerase I, large subunit	4
+K	Transcription initiation factor TFIID, subunit TAF5 (also component of histone acetyltransferase SAGA)	2
+B	Nucleosome remodeling factor, subunit CAF1/NURF55/MSI1	5
+A	U5 snRNP-specific protein-like factor and related proteins	3
+R	WD40 repeat-containing protein	19
+D	Microtubule severing protein katanin p80 subunit B (contains WD40 repeats)	3
+A	Sof1-like rRNA processing protein (contains WD40 repeats)	6
+S	WD40 repeat-containing protein	16
+S	Notchless-like WD40 repeat-containing protein	2
+A	U4/U6 small nuclear ribonucleoprotein Prp4 (contains WD40 repeats)	1
+B	Beta-transducin family (WD-40 repeat) protein	1
+R	Cdc4 and related F-box and WD-40 proteins	4
+R	Conserved WD40 repeat-containing protein	1
+U	Vesicle coat complex COPI, beta' subunit	6
+U	Peroxisomal targeting signal type 2 receptor	1
+I	Serine/threonine kinase receptor-associated protein	4
+T	G protein beta subunit-like protein	6
+E	Uncharacterized conserved protein	1
+S	Beta-TrCP (transducin repeats containing)/Slimb proteins	1
+S	mRNA splicing factor	2
+A	Polyadenylation factor I complex, subunit PFS2	1
+A	Pleiotropic regulator 1	3
+R	G-protein beta subunit	2
+L	Postreplication repair protein RAD18	0
+R	WD40 repeat protein TipD	1
+R	mRNA splicing factor	3
+S	Conserved WD40 repeat-containing protein AN11	2
+A	WD40-repeat-containing subunit of the 18S rRNA processing complex	7
+U	Vesicle coat complex COPI, alpha subunit	3
+S	Angio-associated migratory cell protein (contains WD40 repeats)	3
+T	TNF receptor-associated factor	2
+L	DEAD box-containing helicase-like transcription factor/DNA repair protein	2
+A	U3 snoRNP-associated protein (contains WD40 repeats)	2
+I	Phospholipase A2-activating protein (contains WD40 repeats)	1
+R	Ribosome Assembly protein	2
+Z	Actin-binding protein Coronin, contains WD40 repeats	0
+A	mRNA deadenylase subunit	4
+DO	Anaphase promoting complex, Cdc20, Cdh1, and Ama1 subunits	7
+U	Vesicle coat complex COPII, subunit SEC31	4
+S	Conserved WD40 repeat-containing protein	5
+O	Predicted E3 ubiquitin ligase	82
+Z	Microtubule binding protein YTM1 (contains WD40 repeats)	1
+R	G-protein beta subunit-like protein (contains WD40 repeats)	1
+O	Predicted E3 ubiquitin ligase, integral peroxisomal membrane protein	1
+Z	WD40 repeat stress protein/actin interacting protein	1
+S	WD40 repeat-containing protein L2DTL	1
+R	G-protein beta subunit-like protein GNB1L, contains WD repeats	1
+K	TFIIF-interacting CTD phosphatases, including NLI-interacting factor	5
+CH	Lipoyltransferase	3
+A	ATP-dependent RNA helicase	56
+J	Translation initiation factor 4F, helicase subunit (eIF-4A) and related helicases	10
+J	Predicted ATP-dependent RNA helicase FAL1, involved in rRNA maturation, DEAD-box superfamily	4
+A	U5 snRNP-like RNA helicase subunit	3
+A	RNA helicase	6
+A	DEAD-box protein abstrakt	1
+A	ATP-dependent RNA helicase pitchoune	7
+A	RNA Helicase	4
+A	Putative DEAD-box RNA helicase DDX1	1
+A	DEAD-box ATP-dependent RNA helicase	2
+L	ATP-dependent DNA helicase	11
+R	ATP-dependent DNA helicase	2
+R	DEAD-box like helicase	1
+B	DNA topoisomerase type II	6
+O	Mitochondrial chaperonin, Cpn60/Hsp60p	13
+O	Chaperonin complex component, TCP-1 epsilon subunit (CCT5)	4
+O	Chaperonin complex component, TCP-1 delta subunit (CCT4)	5
+O	Chaperonin complex component, TCP-1 zeta subunit (CCT6)	5
+O	Chaperonin complex component, TCP-1 alpha subunit (CCT1)	4
+O	Chaperonin complex component, TCP-1 eta subunit (CCT7)	2
+O	Chaperonin complex component, TCP-1 theta subunit (CCT8)	3
+O	Chaperonin complex component, TCP-1 beta subunit (CCT2)	4
+O	Chaperonin complex component, TCP-1 gamma subunit (CCT3)	5
+O	Beta subunit of farnesyltransferase	1
+O	Protein geranylgeranyltransferase type II, beta subunit	2
+O	Protein geranylgeranyltransferase Type I, beta subunit	1
+I	Acetyl-CoA carboxylase	4
+C	Pyruvate carboxylase	6
+R	Multifunctional pyrimidine synthesis protein CAD (includes carbamoyl-phophate synthetase, aspartate transcarbamylase, and glutamine amidotransferase)	13
+T	Serine/threonine protein phosphatase 2A, catalytic subunit	6
+GT	Serine/threonine specific protein phosphatase involved in glycogen accumulation, PP2A-related	2
+DT	Serine/threonine specific protein phosphatase involved in cell cycle control, PP2A-related	2
+TR	Serine/threonine specific protein phosphatase PP1, catalytic subunit	14
+R	Serine-threonine phosphatase 2B, catalytic subunit	3
+R	Serine-threonine phosphatase 2A, catalytic subunit	4
+T	Protein serine/threonine phosphatase RDGC/PPEF, contains STphosphatase and EF-hand domains	0
+J	40S ribosomal protein S4	7
+R	Kelch repeat-containing proteins	11
+I	Sterol O-acyltransferase/Diacylglycerol O-acyltransferase	2
+R	HMG box-containing protein	7
+R	Carbonic anhydrase	6
+R	Predicted helicase	5
+K	Chromodomain-helicase DNA-binding protein	5
+K	Chromatin remodeling complex WSTF-ISWI, small subunit	5
+BK	Chromatin remodeling complex SWI/SNF, component SWI2 and related ATPases (DNA/RNA helicase superfamily)	5
+KL	Transcription-coupled repair protein CSB/RAD26 (contains SNF2 family DNA-dependent ATPase domain)	3
+L	SNF2 family DNA-dependent ATPase	1
+B	SNF2 family DNA-dependent ATPase	1
+L	DNA repair protein, SNF2 family	6
+R	SNF2 family DNA-dependent ATPase	4
+K	SNF2 family DNA-dependent ATPase domain-containing protein	3
+R	Ras-related small GTPase, Rho type	14
+R	Ras-related GTPase	9
+J	60S ribosomal protein L11	4
+J	Mitochondrial/chloroplast ribosomal protein L5/L7	1
+E	Glutamate synthase	7
+J	40S ribosomal protein S13	5
+J	Translation initiation factor 4F, ribosome/mRNA-bridging subunit (eIF-4G)	6
+J	60S ribosomal protein L37	9
+T	Neoplastic transformation suppressor Pdcd4/MA-3, contains MA3 domain	4
+O	Thioredoxin reductase	6
+Q	Pyridine nucleotide-disulphide oxidoreductase	4
+O	Glutathione S-transferase	42
+J	40S ribosomal protein S14	6
+J	Mitochondrial/chloroplast ribosomal protein S11	0
+R	Predicted dehydrogenase	8
+R	Predicted GTP binding protein	2
+S	Uncharacterized membrane protein	13
+U	Golgi transport complex COD1 protein	3
+S	Uncharacterized conserved protein related to condensin complex subunit 1	1
+BD	Chromosome condensation complex Condensin, subunit D2	1
+O	Predicted peptidyl prolyl cis-trans isomerase	1
+O	Ubiquitin-protein ligase	36
+O	Ubiquitin conjugating enzyme	4
+O	Non-canonical ubiquitin conjugating enzyme 1	1
+O	Ubiquitin-conjugating enzyme-related protein Ft1, involved in programmed cell death	0
+F	Xanthine dehydrogenase	8
+R	Auxilin-like protein and related proteins containing DnaJ domain	7
+J	Valyl-tRNA synthetase	7
+J	Isoleucyl-tRNA synthetase	6
+J	Leucyl-tRNA synthetase	4
+J	Methionyl-tRNA synthetase	4
+J	Mitochondrial/chloroplast ribosomal protein L2	4
+U	VAMP-associated protein involved in inositol metabolism	8
+D	Cell cycle-associated protein Mob1-1	2
+P	Cu2+/Zn2+ superoxide dismutase SOD1	5
+L	Structure-specific endonuclease ERCC1-XPF, catalytic component XPF/ERCC4	2
+Z	Actin regulatory proteins (gelsolin/villin family)	5
+Z	Cytoskeletal regulator Flightless-I (contains leucine-rich and gelsolin repeats)	0
+Z	Actin regulatory protein supervillin (gelsolin/villin family)	0
+UR	Vacuolar sorting protein VPS1, dynamin, and related proteins	16
+R	Dynamin-like GTP binding protein	0
+O	Mitofusin 1 GTPase, involved in mitochondrila biogenesis	2
+G	Succinate dehydrogenase, cytochrome b subunit	3
+G	2-oxoglutarate dehydrogenase, E1 subunit	8
+G	Predicted 2-oxoglutarate dehydrogenase, E1 subunit	0
+AJ	RNA-binding translational regulator IRP (aconitase superfamily)	6
+CE	Aconitase/homoaconitase (aconitase superfamily)	6
+E	3-isopropylmalate dehydratase (aconitase superfamily)	5
+E	Homoserine dehydrogenase	1
+E	Aspartate kinase	4
+B	Histone acetyltransferase complex SAGA/ADA, subunit ADA2	2
+J	Elongation factor 1 alpha	1
+J	Polypeptide release factor 3	3
+J	Mitochondrial translation elongation factor Tu	5
+J	Selenocysteine-specific elongation factor	0
+J	Elongation factor-type GTP-binding protein	5
+R	GTP-binding protein GP-1	1
+J	Elongation factor G	0
+J	Mitochondrial elongation factor	6
+J	Translation initiation factor 2, gamma subunit (eIF-2gamma; GTPase)	2
+J	Translation elongation factor 2/ribosome biogenesis protein RIA1 and related proteins	1
+J	U5 snRNP-specific protein	2
+J	Elongation factor 2	5
+G	1,4-alpha-glucan branching enzyme/starch branching enzyme II	8
+G	Alpha-amylase	9
+S	Leucine-rich repeat protein	1
+P	Cl- channel CLC-7 and related proteins (CLC superfamily)	5
+P	Cl- channel CLC-3 and related proteins (CLC superfamily)	3
+P	Cl- channel CLC-2 and related proteins (CLC superfamily)	1
+L	DNA replication licensing factor, MCM2 component	2
+L	DNA replication licensing factor, MCM4 component	1
+L	DNA replication licensing factor, MCM3 component	2
+L	DNA replication licensing factor, MCM6 component	4
+L	DNA replication licensing factor, MCM5 component	1
+L	DNA replication licensing factor, MCM7 component	4
+K	Transcription factor HEX, contains HOX and HALZ domains	19
+K	Transcription factor PHOX2/ARIX, contains HOX domain	0
+K	Transcription factor NKX-5.1/HMX1, contains HOX domain	1
+K	Transcription factor PTX1, contains HOX domain	0
+K	Transcription factor Abd-B, contains HOX domain	0
+R	Transcription factor BarH and related HOX domain proteins	0
+R	Transcription factor zerknullt and related HOX domain proteins	1
+R	Transcription factor, contains HOX domain	3
+R	Transcription factor BSH, contains HOX domain	0
+R	Transcription factor MSH, contains HOX domain	0
+R	Transcription factor Engrailed, contains HOX domain	0
+R	Transcription factor CHX10 and related HOX domain proteins	0
+A	HAT repeat protein	2
+G	Beta-galactosidase	17
+I	Oxidosqualene-lanosterol cyclase and related proteins	8
+PT	K+-channel ERG and related proteins, contain PAS/PAC sensor domain	20
+PT	Cyclic nucleotide-gated cation channel CNCG4	0
+PT	Cyclic nucleotide-gated cation channel CNGA1-3 and related proteins	0
+P	K+-channel KCNQ	0
+R	Integral membrane ankyrin-repeat protein Kidins220 (protein kinase D substrate)	0
+E	Asparaginase	8
+R	FOG: Ankyrin repeat	40
+OT	Myosin phosphatase, regulatory subunit	1
+E	Glutaminase (contains ankyrin repeat)	0
+T	CASK-interacting adaptor protein (caskin) and related proteins with ankyrin repeats and SAM domain	0
+R	Ankyrin repeat protein	8
+R	Ankyrin repeat and DHHC-type Zn-finger domain containing proteins	3
+K	Fetal globin-inducing factor (contains ankyrin repeats)	0
+I	Ca2+-independent phospholipase A2	8
+D	p53-interacting protein 53BP/ASPP, contains ankyrin and SH3 domains	0
+Z	Dystonin, GAS (Growth-arrest-specific protein), and related proteins	1
+Z	Beta-spectrin	1
+Z	Actin-binding cytoskeleton protein, filamin	0
+T	Sensory transduction histidine kinase	15
+S	Uncharacterized conserved protein, contains IPT/TIG domain	5
+T	Putative GTPase activating proteins (GAPs)	5
+G	Transketolase	11
+C	Pyruvate dehydrogenase E1, beta subunit	4
+C	Branched chain alpha-keto acid dehydrogenase E1, beta subunit	1
+KLB	Nucleosome-binding factor SPN, POB3 subunit	1
+K	HMG-box transcription factor	0
+K	HMG-box transcription factor SOX5	0
+O	Protein geranylgeranyltransferase type II, alpha subunit	3
+O	Protein farnesyltransferase, alpha subunit/protein geranylgeranyltransferase type I, alpha subunit	1
+T	Protein phosphatase 1, regulatory subunit, and related proteins	5
+Z	Leucine-rich repeat (LRR) protein, contains calponin homology domain	0
+A	RRM motif-containing protein	5
+HC	NADH-cytochrome b-5 reductase	5
+C	Sulfite oxidase, molybdopterin-binding component	3
+C	Flavohemoprotein b5+b5R	1
+C	Cytochrome b5	11
+C	Glycolate oxidase	11
+I	Sphingolipid fatty acid hydroxylase	3
+EI	3-Methylcrotonyl-CoA carboxylase, non-biotin containing subunit/Acetyl-CoA carboxylase carboxyl transferase, subunit beta	6
+O	Alkyl hydroperoxide reductase/peroxiredoxin	5
+L	Predicted exonuclease	3
+O	FKBP-type peptidyl-prolyl cis-trans isomerase	27
+O	Aryl-hydrocarbon receptor-interacting protein	0
+O	HSP90 co-chaperone CPR7/Cyclophilin	4
+U	Translocase of outer mitochondrial membrane complex, subunit TOM70/TOM72	0
+O	Molecular co-chaperone STI1	8
+O	Molecular chaperone (DnaJ superfamily)	77
+O	Hsp90 co-chaperone CNS1 (contains TPR repeats)	1
+R	TPR repeat-containing protein	7
+J	Asparaginyl-tRNA synthetase (mitochondrial)	4
+J	Asparaginyl-tRNA synthetase	2
+J	Aspartyl-tRNA synthetase	1
+C	Dihydrolipoamide acetyltransferase	9
+C	Dihydrolipoamide transacylase (alpha-keto acid dehydrogenase E2 subunit)	3
+C	Dihydrolipoamide succinyltransferase (2-oxoglutarate dehydrogenase, E2 subunit)	5
+P	Sulfite reductase (ferredoxin)	4
+K	bHLH transcription factor	0
+R	Predicted hydrolase (HIT family)	3
+G	Glucose-6-phosphate 1-dehydrogenase	7
+E	5,10-methylenetetrahydrofolate reductase	3
+U	Inositol polyphosphate 5-phosphatase and related proteins	16
+U	Inositol-1,4,5-triphosphate 5-phosphatase (synaptojanin), INP51/INP52/INP53 family	0
+R	HEAT repeat-containing protein	4
+G	Permease of the major facilitator superfamily	17
+K	Transcriptional coactivator	3
+E	Asparagine synthase (glutamine-hydrolyzing)	5
+F	Glutamine phosphoribosylpyrophosphate amidotransferase	7
+E	Asparagine synthase	1
+T	STE20-like serine/threonine kinase MST	0
+D	Polo-like serine/threonine protein kinase	0
+T	Mitogen-activated protein kinase kinase kinase kinase (MAP4K), germinal center kinase family	1
+T	p21-activated serine/threonine protein kinase	1
+T	Ste20-like serine/threonine protein kinase	6
+D	Serine/threonine protein kinase	3
+T	Mitogen-activated protein kinase kinase (MAP2K)	9
+R	Serine/threonine protein kinase	18
+T	Ca2+/calmodulin-dependent protein kinase kinase beta and related serine/threonine protein kinases	1
+T	Traf2- and Nck-interacting kinase and related germinal center kinase (GCK) family protein kinases	1
+D	Checkpoint kinase and related serine/threonine protein kinases	2
+D	NIMA (never in mitosis)-related G2-specific serine/threonine protein kinase	0
+T	3-phosphoinositide-dependent protein kinase (PDK1)	2
+R	Predicted protein kinase KKIAMRE	0
+R	Protein kinase PCTAIRE and related kinases	12
+OUT	Serine/threonine-protein kinase involved in autophagy	4
+D	Dual specificity; serine/threonine and tyrosine kinase	1
+R	Serine-threonine protein kinase FUSED	2
+RT	Ribosomal protein S6 kinase and related proteins	3
+G	Phosphorylase kinase gamma subunit	0
+D	Cdc2-related protein kinase	13
+D	Cyclin-dependent kinase WEE1	2
+G	Neutral trehalase	2
+T	Ribosomal protein S6 kinase	0
+T	MAP kinase-activated protein kinase 2	0
+R	NDR and related serine/threonine kinases	7
+TR	Microtubule-associated serine/threonine kinase and related proteins	5
+T	MAP kinase-interacting kinase and related serine/threonine protein kinases	1
+D	Warts/lats-like serine threonine kinases	0
+T	Calcium/calmodulin-dependent serine protein kinase/membrane-associated guanylate kinase	0
+R	Putative serine/threonine protein kinase	20
+R	Predicted serine/threonine protein kinase	0
+T	Rho-associated, coiled-coil containing protein kinase	0
+Z	Projectin/twitchin and related proteins	0
+T	cGMP-dependent protein kinase	0
+D	Serine/threonine protein kinase Chk2 and related proteins	0
+T	cAMP-dependent protein kinase catalytic subunit (PKA)	2
+T	Ras suppressor protein (contains leucine-rich repeats)	1
+T	Serine/threonine phosphatase 2C containing leucine-rich repeats, similar to SCN circadian oscillatory protein (SCOP)	1
+R	FOG: Leucine rich repeat	79
+K	Glucose-repressible alcohol dehydrogenase transcriptional effector CCR4 and related proteins	4
+M	Phospholipid scramblase	2
+E	Ornithine decarboxylase	3
+E	Glutamine amidotransferase/cyclase	1
+V	dsRNA-activated protein kinase inhibitor P58, contains TPR and DnaJ domains	1
+G	Phosphoglucomutase	5
+G	Beta-glucosidase, lactase phlorizinhydrolase, and related proteins	38
+K	Heat shock transcription factor	21
+E	Aromatic-L-amino-acid/L-histidine decarboxylase	1
+E	Glutamate decarboxylase and related proteins	1
+E	Predicted pyridoxal-dependent decarboxylase	0
+G	Galactokinase	6
+P	Phytochelatin synthase	1
+E	Histidinol phosphate aminotransferase	2
+E	Aromatic amino acid aminotransferase and related proteins	2
+P	Adenosine 5'-phosphosulfate kinase	4
+P	ATP sulfurylase (sulfate adenylyltransferase)	4
+G	Sucrose transporter and related proteins	5
+E	4-hydroxyphenylpyruvate dioxygenase	2
+B	Transducin-like enhancer of split protein (contains WD40 repeats)	3
+A	mRNA cleavage stimulating factor complex; subunit 1	1
+R	WD40 repeat protein	31
+D	Cell-cycle nuclear protein, contains WD-40 repeats	0
+JT	Translation initiation factor 3, subunit i (eIF-3i)/TGF-beta receptor-interacting protein (TRIP-1)	4
+R	Uncharacterized conserved protein, contains WD40 repeat and BROMO domains	2
+A	mRNA export protein (contains WD40 repeats)	3
+T	Predicted NUDIX hydrolase FGF-2 and related proteins	4
+J	WD40 repeat nucleolar protein Bop1, involved in ribosome biogenesis	3
+O	26S proteasome regulatory complex, ATPase RPT4	6
+O	26S proteasome regulatory complex, ATPase RPT5	3
+D	Cyclin B and related kinase-activating proteins	10
+D	G2/Mitotic-specific cyclin A	5
+D	G1/S-specific cyclin E	1
+D	G1/S-specific cyclin D	7
+G	Glyceraldehyde 3-phosphate dehydrogenase	12
+G	Glycogen synthase kinase-3	9
+DKL	Cdk activating kinase (CAK)/RNA polymerase II transcription initiation/nucleotide excision repair factor TFIIH/TFIIK, kinase subunit CDK7	1
+T	Mitogen-activated protein kinase	21
+T	MAPK related serine/threonine protein kinase	4
+UT	Cyclin-dependent kinase CDK5	0
+R	Protein kinase PITSLRE and related kinases	1
+T	Nemo-like MAPK-related serine/threonine protein kinase	0
+T	Jun-N-terminal kinase (JNK)	0
+K	Cyclin C-dependent kinase CDK8	1
+R	Dual-specificity tyrosine-phosphorylation regulated kinase	6
+TDK	Casein kinase II, alpha subunit	4
+D	Cyclin T-dependent kinase CDK9	0
+A	U4/U6-associated splicing factor PRP4	4
+T	LAMMER dual specificity kinases	3
+PD	Halotolerance protein HAL3 (contains flavoprotein domain)	2
+F	Thymidylate synthase	2
+O	Calreticulin	4
+O	Calnexin	3
+Z	Actin and related proteins	14
+Z	Actin-related protein Arp2/3 complex, subunit Arp2	2
+Z	Actin-related protein Arp2/3 complex, subunit Arp3	2
+Z	Actin-related protein - Arp4p/Act3p	3
+Z	Actin-related protein - Arp6p	0
+Z	Actin-related protein - Arp5p	2
+P	Ammonia permease	8
+E	Glutamine synthetase	10
+Q	Cytochrome P450	2
+H	Flavin-containing amine oxidase	1
+OT	COP9 signalosome, subunit CSN1	1
+O	26S proteasome regulatory complex, subunit RPN7/PSMD6	3
+J	Peptide chain release factor 1 (eRF1)	6
+T	Guanine nucleotide exchange factor for Rho and Rac GTPases	0
+E	Pentafunctional AROM protein	4
+I	Myo-inositol-1-phosphate synthase	4
+T	Protein phosphatase 1B (formerly 2C)	0
+T	Serine/threonine protein phosphatase	52
+T	Protein phosphatase 2C/pyruvate dehydrogenase (lipoamide) phosphatase	16
+A	dsRNA-specific nuclease Dicer and related ribonucleases	6
+T	Predicted GTPase-activating protein	11
+TUZ	ADP-ribosylation factor GTPase activator	4
+T	GTPase-activating protein Centaurin gamma (contains Ras-like GTPase, PH and ankyrin repeat domains)	1
+F	Guanylate kinase	5
+F	Membrane-associated guanylate kinase MAGUK (contains PDZ, SH3, HOOK and GUK domains)	1
+K	CREB/ATF family transcription factor	1
+O	Molecular chaperone (small heat-shock protein Hsp26/Hsp42)	20
+H	Polyprenyl synthetase	4
+O	Zuotin and related molecular chaperones (DnaJ superfamily), contains DNA-binding domains	20
+R	Reductases with broad range of substrate specificities	39
+O	26S proteasome regulatory complex, ATPase RPT2	3
+O	26S proteasome regulatory complex, ATPase RPT3	2
+O	26S proteasome regulatory complex, ATPase RPT6	4
+O	26S proteasome regulatory complex, ATPase RPT1	3
+O	AAA+-type ATPase	49
+O	AAA+-type ATPase containing the peptidase M41 domain	20
+O	AAA+-type ATPase containing the bromodomain	2
+O	Nuclear AAA ATPase (VCP subfamily)	3
+O	Peroxisome assembly factor 2 containing the AAA+-type ATPase domain	1
+O	Putative ATP-dependent Clp-type protease (AAA+ ATPase superfamily)	4
+J	60S ribosomal protein L3 and related proteins	6
+G	Putative NAD+-dependent epimerases	5
+RT	Predicted membrane proteins, contain hemolysin III domain	7
+C	Mitochondrial ADP/ATP carrier proteins	7
+C	Mitochondrial solute carrier protein	18
+C	Mitochondrial aspartate/glutamate carrier protein Aralar/Citrin (contains EF-hand Ca2+-binding domains)	2
+C	Mitochondrial fatty acid anion carrier protein/Uncoupling protein	4
+C	Mitochondrial oxodicarboxylate carrier protein	1
+C	Mitochondrial oxaloacetate carrier protein	1
+C	Mitochondrial tricarboxylate/dicarboxylate carrier proteins	3
+C	Mitochondrial carrier protein - Rim2p/Mrs12p	3
+C	Mitochondrial carnitine-acylcarnitine carrier protein	6
+C	Mitochondrial oxoglutarate/malate carrier proteins	4
+C	Mitochondrial carrier protein MRS3/4	3
+C	Mitochondrial carrier protein CGI-69	3
+C	Mitochondrial carrier protein	1
+C	Mitochondrial ornithine transporter	0
+C	Mitochondrial FAD carrier protein	3
+C	Predicted mitochondrial carrier protein	6
+C	Mitochondrial phosphate carrier protein	4
+C	Mitochondrial carrier protein PET8	4
+U	Prolactin regulatory element-binding protein/Protein transport protein SEC12p	3
+S	Uncharacterized conserved protein, contains WD40 repeat	1
+K	Transcription factor MEIS1 and related HOX domain proteins	15
+K	Transcription factor PBX and related HOX domain proteins	1
+K	Transcription factor SIX and related HOX domain proteins	0
+H	Geranylgeranyl pyrophosphate synthase/Polyprenyl synthetase	9
+O	Protease, Ulp1 family	6
+U	Signal recognition particle, subunit Srp54	5
+U	Signal recognition particle receptor, alpha subunit	1
+T	Predicted diacylglycerol kinase	0
+S	Uncharacterized conserved protein, contains ankyrin and BTB/POZ domains	0
+E	Isocitrate dehydrogenase, gamma subunit	5
+E	Isocitrate dehydrogenase, alpha subunit	6
+E	3-isopropylmalate dehydrogenase	3
+T	Dehydrogenase kinase	2
+T	S-adenosylmethionine decarboxylase	7
+T	Protein tyrosine phosphatase	3
+T	Protein tyrosine phosphatase Corkscrew and related SH2 domain enzymes	0
+T	Protein tyrosine phosphatase, contains fn3 domain	0
+T	Protein tyrosine phosphatase PTPMEG, contains FERM domain	1
+K	CDK8 kinase-activating protein cyclin C	1
+E	Chorismate mutase	3
+A	Spliceosome subunit	4
+Z	Actin-related protein	1
+D	Uncharacterized conserved protein	1
+G	Branching enzyme	8
+O	FOG: Predicted E3 ubiquitin ligase	125
+O	E3 ubiquitin ligase	5
+R	Cytoplasmic Zn-finger protein BRAP2 (BRCA1 associated protein)	2
+E	Carbon-nitrogen hydrolase	9
+U	SNARE protein TLG2/Syntaxin 16	1
+U	SNARE protein Syntaxin 1 and related proteins	8
+U	SNARE protein PEP12/VAM3/Syntaxin 7/Syntaxin 17	4
+U	SNARE protein SED5/Syntaxin 5	2
+R	Glyoxylase	7
+J	60S acidic ribosomal protein P0	6
+A	Protein involved in mRNA turnover	4
+I	Acyl-CoA-binding protein	5
+T	GTPase-activating proteins of the GIT family	0
+U	Annexin	10
+A	Ribosomal RNA adenine dimethylase	5
+A	Predicted ribosomal RNA adenine dimethylase	0
+D	Protein kinase inhibitor	2
+R	PHD Zn-finger protein	4
+O	Predicted E3 ubiquitin ligase involved in peroxisome organization	1
+J	60S ribosomal protein L18A	6
+J	40S ribosomal protein SA (P40)/Laminin receptor 1	6
+I	Acyl-CoA:diacylglycerol acyltransferase (DGAT)	1
+J	Mitochondrial/chloroplast ribosomal protein S2	4
+F	Cytidine deaminase	2
+D	CDK9 kinase-activating protein cyclin T	3
+R	Cyclin L	1
+Z	F-actin capping protein, alpha subunit	1
+K	Transcriptional activator of the JUN family	2
+A	RNA Methylase, SpoU family	4
+O	ATP-dependent Clp protease, proteolytic subunit	13
+O	Multifunctional chaperone (14-3-3 family)	19
+K	Transcription factor tinman/NKX2-3, contains HOX domain	0
+K	Transcription factor EMX1 and related HOX domain proteins	0
+K	Transcription factor EVX1, contains HOX domain	0
+YU	Nuclear pore complex, Nup98 component (sc Nup145/Nup100/Nup116)	3
+J	Mitochondrial/chloroplast ribosomal protein L15/L10	2
+K	Transcription factor, contains HOX domain	0
+K	Transcription factor Caudal, contains HOX domain	0
+K	Transcription factor PRD and related proteins, contain PAX and HOX domains	1
+K	Transcription factor DLX and related proteins with LIM Zn-binding and HOX domains	0
+L	Single-stranded DNA-binding replication protein A (RPA), large (70 kD) subunit and related ssDNA-binding proteins	7
+O	Alkyl hydroperoxide reductase, thiol specific antioxidant and related enzymes	10
+M	Glycosyltransferase	15
+O	Predicted pilin-like transcription factor	4
+J	60s ribosomal protein L10	7
+S	Predicted membrane protein	79
+U	Synaptobrevin/VAMP-like protein	9
+U	SNARE protein YKT6, synaptobrevin/VAMP syperfamily	3
+U	Synaptobrevin/VAMP-like protein SEC22	2
+O	20S proteasome, regulatory subunit alpha type PSMA1/PRE5	2
+U	Ran-binding protein RANBP1 and related RanBD domain proteins	6
+O	Cyclophilin type peptidyl-prolyl cis-trans isomerase	16
+U	Ran-binding protein RANBP3	1
+K	CCAAT-binding factor, subunit A (HAP3)	8
+K	DNA polymerase epsilon, subunit D	1
+K	Class 2 transcription repressor NC2, beta subunit (Dr1)	1
+I	Sterol C5 desaturase	3
+I	C-4 sterol methyl oxidase	5
+I	Sphingolipid hydroxylase	2
+J	60S ribosomal protein L5	5
+P	Manganese superoxide dismutase	8
+J	40S ribosomal protein S2/30S ribosomal protein S5	6
+J	60S ribosomal protein L32	3
+O	U-snRNP-associated cyclophilin type peptidyl-prolyl cis-trans isomerase	1
+O	Peptidyl-prolyl cis-trans isomerase	8
+O	Cyclophilin-related peptidyl-prolyl cis-trans isomerase	3
+O	Cyclophilin type, U box-containing peptidyl-prolyl cis-trans isomerase	3
+O	Similar to cyclophilin-type peptidyl-prolyl cis-trans isomerase	2
+J	40S ribosomal protein S2	4
+J	60S ribosomal protein L35A/L37	8
+F	Nucleoside diphosphate kinase	8
+TBLD	Histone acetyltransferase SAGA, TRRAP/TRA1 component, PI-3 kinase superfamily	2
+TBLD	Protein kinase of the PI-3 kinase family involved in mitotic growth, DNA repair and meiotic recombination	1
+L	DNA-dependent protein kinase	6
+TBLD	Protein kinase ATM/Tel1, involved in telomere length regulation and DNA repair	1
+J	60S ribosomal protein L31	4
+O	Ubiquitin-conjugating enzyme	8
+O	Ubiquitin-conjugating enzyme E2	5
+O	Predicted ubiquitin-conjugating enzyme	1
+J	40S ribosomal protein S15	5
+J	Mitochondrial/chloroplast ribosomal protein S19	2
+J	40S ribosomal protein S20	6
+J	60S ribosomal protein L14/L17/L23	6
+T	Phosphatidylinositol 4-kinase	7
+TU	Phosphatidylinositol 4-kinase, involved in intracellular trafficking and secretion	3
+T	Phosphatidylinositol 3-kinase catalytic subunit (p110)	0
+T	Phosphoinositide 3-kinase	0
+TU	Phosphatidylinositol 3-kinase VPS34, involved in signal transduction	2
+O	Thioredoxin	23
+O	Thioredoxin-like protein	13
+O	Peptide:N-glycanase	2
+O	Glutaredoxin-related protein	17
+OC	Thiol-disulfide isomerase and thioredoxin	1
+M	1,3-beta-glucan synthase/callose synthase catalytic subunit	14
+P	Selenium-binding protein	2
+K	C-5 cytosine-specific DNA methylase	1
+A	ATP-dependent RNA helicase A	7
+K	Dosage compensation complex, subunit MLE	0
+A	DEAH-box RNA helicase	11
+A	mRNA splicing factor ATP-dependent RNA helicase	8
+AJ	DEAH-box RNA helicase	1
+R	Predicted transporter (ABC superfamily)	7
+U	Pattern-formation protein/guanine nucleotide exchange factor	3
+U	Guanine nucleotide exchange factor	5
+U	Guanine nucleotide exchange factor Cytohesin, contains PH and Sec7 domains	0
+U	Predicted guanine nucleotide exchange factor, contains Sec7 domain	0
+U	Guanine nucleotide exchange factor EFA6	0
+BD	Structural maintenance of chromosome protein 2 (chromosome condensation complex Condensin, subunit E)	2
+U	Clathrin adaptor complex, small subunit	8
+U	Adaptor complexes medium subunit family	5
+OK	E3 ubiquitin-protein ligase/Putative upstream regulatory element binding protein	4
+O	Ubiquitin protein ligase RSP5/NEDD4	2
+O	Predicted ubiquitin-protein ligase/hyperplastic discs protein, HECT superfamily	1
+O	Ubiquitin-specific protease UBP14	2
+EH	Alpha-aminoadipic semialdehyde dehydrogenase-phosphopantetheinyl transferase	3
+U	ER-Golgi vesicle-tethering protein p115	1
+A	Cytoplasmic exosomal RNA helicase SKI2, DEAD-box superfamily	2
+A	Nuclear exosomal RNA helicase MTR4, DEAD-box superfamily	5
+R	Predicted helicase, DEAD-box superfamily	2
+R	DNA polymerase theta/eta, DEAD-box superfamily	5
+A	RNA helicase BRR2, DEAD-box superfamily	6
+A	DNA/RNA helicase MER3/SLH1, DEAD-box superfamily	3
+A	Mitochondrial RNA helicase SUV3, DEAD-box superfamily	2
+R	PHD finger protein	1
+R	PHD finger protein BR140/LIN-49	4
+R	PHD finger protein AF10	0
+L	DNA damage-responsive repressor GIS1/RPH1, jumonji superfamily	0
+O	N-arginine dibasic convertase NRD1 and related Zn2+-dependent endopeptidases, insulinase superfamily	6
+O	Mitochondrial processing peptidase, beta subunit, and related enzymes (insulinase superfamily)	4
+O	Predicted Zn2+-dependent endopeptidase, insulinase superfamily	1
+L	DNA repair protein RAD50, ABC-type ATPase/SMC superfamily	2
+K	Transcription factor/CCAAT displacement protein CDP1	1
+D	Structural maintenance of chromosome protein 3 (sister chromatid cohesion complex Cohesin, subunit SMC3)	1
+R	Predicted RNA-binding protein, contains SWAP and G-patch domains	1
+L	ATP-dependent DNA ligase IV	1
+L	ATP-dependent DNA ligase I	5
+L	DNA polymerase zeta, catalytic subunit	2
+L	DNA polymerase delta, catalytic subunit	2
+L	DNA polymerase alpha, catalytic subunit	1
+DZ	Microtubule-associated protein dynactin DCTN1/Glued	0
+T	Huntingtin interacting protein 1 (Hip1) interactor Hippi	0
+DK	Histone transcription regulator HIRA, WD repeat superfamily	1
+R	WD-repeat protein WDR6, WD repeat superfamily	1
+E	Branched chain aminotransferase BCAT1, pyridoxal phosphate enzymes type IV superfamily	11
+T	Rho/Rac1-interacting serine/threonine kinase Citron	1
+DY	Nuclear envelope protein lamin, intermediate filament superfamily	0
+O	E3 ubiquitin ligase involved in syntaxin degradation	2
+BDL	Structural maintenance of chromosome protein SMC5/Spr18, SMC superfamily	1
+Z	Actin-binding protein SLA2/Huntingtin-interacting protein Hip1	2
+L	DNA topoisomerase I	5
+DZ	Centrosomal protein Nuf	0
+T	Mitogen-activated protein kinase (MAPK) kinase MKK7/JNKK2	0
+T	Mitogen-activated protein kinase (MAPK) kinase MKK3/MKK6	0
+U	Vesicle coat protein clathrin, heavy chain	3
+T	G protein-coupled receptor kinase	0
+D	DNA helicase PIF1/RRM3	16
+A	RNA-directed RNA polymerase QDE-1 required for posttranscriptional gene silencing and RNA interference	6
+L	Replication factor C, subunit RFC4	6
+L	Replication factor C, subunit RFC5	3
+L	Replication factor C, subunit RFC2	3
+U	Rab5 GTPase effector Rabaptin-5	0
+W	Extracellular matrix glycoprotein Laminin subunit beta	0
+D	Centromere-associated protein HEC1	1
+BD	Structural maintenance of chromosome protein 4 (chromosome condensation complex Condensin, subunit C)	3
+S	Uncharacterized conserved protein Sand	3
+TU	Synaptic vesicle protein EHS-1 and related EH domain proteins	5
+U	Microtubule-associated protein Bicaudal-D	0
+B	Chromatin remodeling protein HARP/SMARCAL1, DEAD-box superfamily	3
+KL	Helicase-like transcription factor HLTF/DNA helicase RAD5, DEAD-box superfamily	8
+L	Nucleotide excision repair protein RAD16	1
+Z	Actin filament-coating protein tropomyosin	2
+J	Exosomal 3'-5' exoribonuclease complex subunit Rrp40	2
+LB	Telomerase catalytic subunit/reverse transcriptase TERT	1
+T	Mitogen-activated protein kinase (MAPK) kinase MKK4	0
+S	WD repeat protein TSSC1, WD repeat superfamily	1
+S	Uncharacterized conserved protein, contains WD40 repeats	3
+BL	Chromatin assembly complex 1 subunit B/CAC2 (contains WD40 repeats)	2
+D	Rb (Retinoblastoma tumor suppressor)-related protein	1
+TU	Neurotransmitter release regulator, UNC-13	0
+R	Ca2+-dependent lipid-binding protein CLB1/vesicle protein vp115/Granuphilin A, contains C2 domain	12
+U	Synaptic vesicle protein rabphilin-3A	0
+I	17 beta-hydroxysteroid dehydrogenase type 3, HSD17B3	2
+K	Transcription regulator XNP/ATRX, DEAD-box superfamily	1
+R	Predicted DNA helicase, DEAD-box superfamily	0
+R	Predicted uracil phosphoribosyltransferase	0
+F	Cytosine deaminase FCY1 and related enzymes	6
+BDT	Retinoblastoma pathway protein LIN-9/chromatin-associated protein Aly	2
+BDL	Sister chromatid cohesion protein SCC2/Nipped-B	1
+GMW	Acetylglucosaminyltransferase EXT1/exostosin 1	28
+GMW	Acetylglucosaminyltransferase EXT2/exostosin 2	2
+T	Natriuretic peptide receptor, guanylate cyclase	0
+T	Receptor-like protein tyrosine kinase RYK/derailed	0
+T	Epidermal growth factor receptor EGFR and related tyrosine kinases	1
+TU	Nerve growth factor receptor TRKA and related tyrosine kinases	0
+T	Serine/threonine protein kinase and endoribonuclease ERN1/IRE1, sensor of the unfolded protein response pathway	4
+TU	Ca2+-dependent phospholipid-binding protein Synaptotagmin, required for synaptic vesicle and secretory granule exocytosis	0
+TU	Endocytic adaptor protein intersectin	0
+R	Predicted Ca2+-dependent phospholipid-binding protein	13
+S	Uncharacterized conserved protein, contains GRAM domain	4
+J	eIF-2alpha kinase PEK/EIF2AK3	2
+K	Transcriptional repressor EED/ESC/FIE, required for transcriptional silencing, WD repeat superfamily	1
+J	eIF-2alpha kinase GCN2	3
+D	Mitotic spindle checkpoint protein BUB3, WD repeat superfamily	3
+KLO	NAD+ ADP-ribosyltransferase Parp, required for poly-ADP ribosylation of nuclear proteins	3
+KL	Mitochondrial/chloroplast DNA-directed RNA polymerase RPO41, provides primers for DNA replication-initiation	4
+A	Polyadenylation factor I complex, subunit, Yth1 (CPSF subunit)	2
+J	Translation initiation factor 2C (eIF-2C) and related proteins	10
+D	Germ-line stem cell division protein Hiwi/Piwi; negative developmental regulator	2
+S	Ca2+-binding transmembrane protein LETM1/MRS7	3
+TZ	Actin-binding LIM Zn-finger protein Limatin involved in axon guidance	0
+S	Uncharacterized conserved protein HEN1/CORYMBOSA2	2
+EO	Puromycin-sensitive aminopeptidase and related aminopeptidases	8
+IOVE	Bifunctional leukotriene A4 hydrolase/aminopeptidase LTA4H	6
+TW	Neural adherens junction protein Plakophilin and related Armadillo repeat proteins	1
+A	Polyadenylation factor I complex, subunit FIP1	1
+G	Trehalose-6-phosphate synthase component TPS1 and related subunits	17
+O	Chaperone HSP104 and related ATP-dependent Clp proteases	15
+PET	Glutamate-gated kainate-type ion channel receptor subunit GluR5 and related subunits	17
+PET	Glutamate-gated NMDA-type ion channel receptor subunit GRIN2A and related subunits	0
+PET	Glutamate-gated AMPA-type ion channel receptor subunit GluR2 and related subunits	0
+PET	GABA-B ion channel receptor subunit GABABR1 and related subunits, G-protein coupled receptor superfamily	0
+PT	Glutamate-gated metabotropic ion channel receptor subunit GRM2 and related subunits, G-protein coupled receptor superfamily	0
+Z	Arp2/3 complex-interacting protein VIP1/Asp1, involved in regulation of actin cytoskeleton	2
+U	Vesicle coat complex COPI, beta subunit	3
+U	Vesicle coat complex AP-3, delta subunit	1
+U	Vesicle coat complex AP-3, beta subunit	1
+U	Vesicle coat complex AP-1/AP-2/AP-4, beta subunit	3
+U	Vesicle coat complex AP-1, gamma subunit	3
+BK	RNA polymerase II elongator complex, subunit ELP2, WD repeat superfamily	2
+R	RAVE (regulator of V-ATPase assembly) complex subunit RAV1/DMX protein, WD repeat superfamily	2
+G	Maltase glucoamylase and related hydrolases, glycosyl hydrolase family 31	6
+GMO	Glucosidase II catalytic (alpha) subunit and related enzymes, glycosyl hydrolase family 31	4
+R	Predicted RNA-binding polyribonucleotide nucleotidyltransferase	2
+J	Exosomal 3'-5' exoribonuclease complex, subunit Rrp41 and related exoribonucleases	1
+J	Exosomal 3'-5' exoribonuclease complex, subunit Rrp46	1
+A	rRNA processing protein Rrp5	3
+J	Mitochondrial translation elongation factor EF-Tsmt, catalyzes nucleotide exchange on EF-Tumt	2
+R	FOG: Kelch repeat	24
+U	Uncharacterized mRNA-associated protein RAP55	3
+K	Transcriptional repressor SALM	1
+R	FOG: Reverse transcriptase	120
+J	Translation initiation factor 3, subunit c (eIF-3c)	3
+U	Vesicle coat complex AP-2, alpha subunit	3
+U	Vesicle coat complex COPI, gamma subunit	4
+K	Transcriptional repressor EZH1	2
+BK	Histone H3 (Lys4) methyltransferase complex, subunit SET1 and related methyltransferases	9
+K	Transcription factor NSD1 and related SET domain proteins	3
+BK	Histone H3 (Lys9) methyltransferase SUV39H1/Clr4, required for transcriptional silencing	10
+K	Putative transcription factor ASH1/LIN-59	1
+K	Transcription factor TCF20	0
+R	Predicted methyltransferase (contains a SET domain)	0
+U	Cytosolic sorting protein/ADP-ribosylation factor effector GGA	0
+U	Cytosolic sorting protein GGA2/TOM1	9
+R	Myotubularin-related phosphatidylinositol 3-phosphate 3-phosphatase MTM6	1
+R	Predicted dual-specificity phosphatase	0
+U	Ypt/Rab-specific GTPase-activating protein GYP6	2
+U	Ypt/Rab-specific GTPase-activating protein GYP1	1
+R	Predicted protein kinase (contains TBC and RHOD domains)	0
+T	Discoidin domain receptor DDR1	0
+F	Adenosine monophosphate deaminase	3
+F	Adenine deaminase/adenosine deaminase	3
+AR	Putative SAM-dependent rRNA methyltransferase SPB1	3
+DR	SAM-dependent methyltransferase/cell division protein FtsJ	2
+DR	Apoptosis inhibitor IAP1 and related BIR domain proteins	1
+R	Rab6 GTPase activator GAPCenA and related TBC domain proteins	4
+S	Predicted coiled-coil protein	1
+A	Nuclear cap-binding complex, subunit NCBP1/CBP80	3
+K	Transcription elongation factor TFIIS/Cofactor of enhancer-binding protein Sp1	1
+U	Membrane coat complex Retromer, subunit VPS35	1
+R	Predicted heme/steroid binding protein	2
+R	Vacuole membrane protein VMP1	1
+R	Putative steroid membrane receptor Hpr6.6/25-Dx	3
+MOI	N-acetylglucosaminyltransferase complex, subunit PIG-A/SPT14, required for phosphatidylinositol biosynthesis/Sulfolipid synthase	2
+F	Ribonucleotide reductase, alpha subunit	3
+T	cAMP-dependent protein kinase types I and II, regulatory subunit	1
+O	Tripeptidyl peptidase II	1
+IT	Ceramide kinase	1
+IT	Sphingosine kinase, involved in sphingolipid metabolism	4
+TZ	Rho- and Arf-GTPase activating protein ARAP3	0
+IT	Lysophosphatidic acid acyltransferase endophilin/SH3GL, involved in synaptic vesicle formation	1
+CU	Mitochondrial Fe-S cluster biosynthesis protein ISA2 (contains a HesB-like domain)	1
+P	Fe-S cluster biosynthesis protein ISA1 (contains a HesB-like domain)	2
+L	Tam3-transposase (Ac family)	20
+A	tRNA and rRNA cytosine-C5-methylase (nucleolar protein NOL1/NOP2)	5
+KL	RNA polymerase II transcription initiation/nucleotide excision repair factor TFIIH, 3'-5' helicase subunit SSL2	4
+R	FOG: TPR repeat	13
+D	DNA-binding cell division cycle control protein	2
+A	TPR repeat-containing protein	1
+R	Uncharacterized conserved protein, contains TPR repeats	3
+T	Predicted G-alpha GTPase interaction protein, contains GoLoco domain	0
+KL	RNA polymerase II transcription initiation/nucleotide excision repair factor TFIIH, 5'-3' helicase subunit RAD3	2
+L	Helicase of the DEAD superfamily	3
+R	Uncharacterized conserved protein	32
+A	mRNA cleavage and polyadenylation factor II complex, subunit CFT2 (CPSF subunit)	1
+A	Predicted cleavage and polyadenylation specificity factor (CPSF subunit)	4
+A	mRNA cleavage and polyadenylation factor II complex, BRR5 (CPSF subunit)	3
+O	Predicted ubiquitin-protein ligase of the N-recognin family	1
+O	N-end rule pathway, recognition component UBR1	3
+B	Predicted histone methyl transferase	1
+K	Transcription initiation factor TFIID, subunit TAF12 (also component of histone acetyltransferase SAGA)	2
+J	Predicted translation elongation factor	0
+J	Translation initiation factor 5B (eIF-5B)	3
+J	Mitochondrial translation initiation factor 2 (IF-2; GTPase)	3
+R	Homeobox protein	0
+J	Glutamyl-tRNA synthetase	3
+J	Glutaminyl-tRNA synthetase	2
+J	Glutamyl-tRNA synthetase (mitochondrial)	1
+O	Predicted molecular chaperone (DnaJ superfamily)	2
+T	Tousled-like protein kinase	1
+T	Signal transduction serine/threonine kinase with PAS/PAC sensor domain	1
+O	Subtilisin-related protease/Vacuolar protease B	1
+E	Gamma-glutamyl kinase	1
+DO	Anaphase-promoting complex (APC), Cdc23 subunit	1
+B	N-terminal acetyltransferase	1
+T	Predicted guanosine polyphosphate pyrophosphohydrolase/synthase	4
+C	NADP/FAD dependent oxidoreductase	12
+C	NADP-dependent flavoprotein reductase	1
+C	Fe-S oxidoreductase	1
+P	Protein involved in vacuolar polyphosphate accumulation, contains SPX domain	5
+U	Predicted small molecule transporter	11
+T	Casein kinase (serine/threonine/tyrosine protein kinase)	14
+D	Mitotic checkpoint serine/threonine protein kinase	5
+L	Serine/threonine protein kinase of the CDC7 subfamily involved in DNA synthesis, repair and recombination	1
+K	Transcription factor ACJ6/BRN-3, contains POU and HOX domains	0
+IT	Diacylglycerol kinase	8
+I	Diacylglycerol kinase	0
+P	Metallothionein-like protein	6
+P	Na+-independent Cl/HCO3 exchanger AE1 and related transporters (SLC4 family)	7
+DO	Anaphase-promoting complex (APC), Cdc16 subunit	1
+DO	Anaphase-promoting complex (APC), subunit 7	2
+I	Acyl-CoA synthetase	47
+I	Long chain fatty acid acyl-CoA ligase	2
+Q	Non-ribosomal peptide synthetase/alpha-aminoadipate reductase and related enzymes	5
+I	Very long-chain acyl-CoA synthetase/fatty acid transporter	3
+S	FOG: Low-complexity	3
+C	Branched chain alpha-keto acid dehydrogenase complex, alpha subunit	2
+MO	N-acetylglucosaminyltransferase complex, subunit PIG-Q/GPI1, required for phosphatidylinositol biosynthesis	1
+EH	Thiamine pyrophosphate-requiring enzyme	10
+Q	Copper amine oxidase	9
+E	Global transcriptional regulator, cell division control protein	3
+A	Polypyrimidine tract-binding protein	4
+J	Mitochondrial GTPase	4
+GC	UDP-glucuronosyl and UDP-glucosyl transferase	72
+O	Arginyl-tRNA-protein transferase	3
+K	Predicted DNA-binding protein, contains Myb-like, SANT and ELM2 domains	0
+J	Arginyl-tRNA synthetase	3
+R	Predicted NAD-dependent oxidoreductase	15
+CR	Predicted quinone oxidoreductase	3
+CR	Zinc-binding oxidoreductase	10
+Q	Short-chain alcohol dehydrogenase/3-hydroxyacyl-CoA dehydrogenase	2
+I	Mitochondrial/plastidial beta-ketoacyl-ACP reductase	4
+Q	Hydroxysteroid 17-beta dehydrogenase 11	1
+I	Animal-type fatty acid synthase and related proteins	3
+G	Predicted dehydrogenase	10
+Q	Predicted dehydrogenase	10
+I	Peroxisomal multifunctional beta-oxidation protein and related enzymes	5
+Q	Diacetyl reductase/L-xylulose reductase	1
+Q	Dehydrogenases with different specificities (related to short-chain alcohol dehydrogenases)	20
+Q	1-Acyl dihydroxyacetone phosphate reductase and related dehydrogenases	1
+Q	Predicted 3-ketosphinganine reductase	2
+J	Amidases	11
+JIT	Amidases	3
+D	Sister chromatid cohesion complex Cohesin, subunit RAD21/SCC1	4
+MW	Nidogen and related basement membrane protein proteins	0
+T	Low-density lipoprotein receptors containing Ca2+-binding EGF-like domains	2
+WV	von Willebrand factor and related coagulation proteins	1
+T	Fibrillins and related proteins containing Ca2+-binding EGF-like domains	2
+T	Proteins containing Ca2+-binding EGF-like domains	1
+T	Uncharacterized conserved protein, contains laminin, cadherin and EGF domains	1
+G	Phosphoglucomutase/phosphomannomutase	7
+I	Acyl-CoA reductase	9
+U	Kinesin associated protein KAP	0
+E	Isochorismate synthase	7
+J	Para-aminobenzoate (PABA) synthase ABZ1	3
+TW	Teneurin-1 and related extracellular matrix proteins, contain EGF-like repeats	0
+TW	Integrin beta subunit (N-terminal portion of extracellular region)	0
+R	Putative methyltransferase	1
+T	3'5'-cyclic nucleotide phosphodiesterases	1
+R	Protein containing repeated kelch motifs	2
+C	Proteins containing the FAD binding domain	9
+R	Alkyl-dihydroxyacetonephosphate synthase	1
+R	ABC (ATP binding cassette) 1 protein	2
+R	Predicted unusual protein kinase	19
+E	H+/oligopeptide symporter	45
+R	Glucose dehydrogenase/choline dehydrogenase/mandelonitrile lyase (GMC oxidoreductase family)	13
+OU	Inner membrane protein translocase involved in respiratory chain assembly	7
+T	Protein kinase containing WD40 repeats	2
+YU	Karyopherin (importin) beta 1	2
+J	Protein containing adaptin N-terminal region	4
+R	Protein kinase	1
+K	Predicted transcription factor Requiem/NEURO-D4	1
+B	Chromatin remodeling complex WSTF-ISWI, large subunit (contains heterochromatin localization, PHD and BROMO domains)	3
+R	DNA-binding protein jumonji/RBP2/SMCY, contains JmjC domain	6
+R	Predicted GTPases	3
+E	Threonine/serine dehydratases	4
+TE	Serine racemase	1
+E	Cystathionine beta-synthase and related enzymes	10
+J	tRNA methyltransferase	3
+C	ATP-citrate lyase	8
+C	Succinyl-CoA synthetase, alpha subunit	4
+I	Long-chain acyl-CoA synthetases (AMP-forming)	13
+C	NADP+-dependent malic enzyme	7
+A	mRNA processing protein	3
+TZ	Nischarin, modulator of integrin alpha5 subunit action	0
+C	Isocitrate lyase	9
+C	Malate synthase	3
+R	FAD-binding protein DIMINUTO	1
+Q	Multicopper oxidases	25
+I	Phospholipase C	0
+T	Protein kinase	2
+KR	Mitochondrial transcription termination factor, mTERF	23
+M	Glucosamine 6-phosphate synthetases, contain amidotransferase and phosphosugar isomerase domains	3
+IR	SAM-dependent methyltransferases	8
+H	Methyltransferases	2
+R	Methyltransferases	1
+L	PAB-dependent poly(A) ribonuclease, subunit PAN2	0
+H	Protoporphyrinogen oxidase	2
+U	Endosomal membrane proteins, EMP70	11
+B	Chromatin remodeling factor subunit and related transcription factors	4
+R	Uncharacterized conserved protein containing ZZ-type Zn-finger	0
+P	Na+/dicarboxylate, Na+/tricarboxylate and phosphate transporters	3
+OE	Serine carboxypeptidases (lysosomal cathepsin A)	32
+O	Serine carboxypeptidases	2
+H	Bifunctional GTP cyclohydrolase II/3,4-dihydroxy-2butanone-4-phosphate synthase	5
+Q	Beta, beta-carotene 15,15'-dioxygenase and related enzymes	6
+E	Amino acid transporters	64
+P	Mn2+ and Fe2+ transporters of the NRAMP family	5
+F	Xanthine/uracil transporters	11
+R	Proteins containing armadillo/beta-catenin-like repeat	1
+L	Apurinic/apyrimidinic endonuclease and related enzymes	4
+A	Nonsense-mediated decay protein Upf3	1
+I	Squalene monooxygenase	3
+U	Vacuolar sorting protein VPS45/Stt10 (Sec1 family)	1
+U	Vesicle trafficking protein Sec1	2
+U	Vesicle trafficking protein Sly1 (Sec1 family)	1
+U	Vacuolar sorting protein VPS33/slp1 (Sec1 family)	3
+E	Amino acid transporter protein	4
+PT	Ca2+/Na+ exchanger NCX1 and related proteins	2
+PT	K+-dependent Ca2+/Na+ exchanger NCKX1 and related proteins	0
+OT	Hsp70-interacting protein Hip/Transient component of progesterone receptor complexes and an Hsp70-binding protein	3
+T	Suppressor of G2 allele of skp1	2
+R	DHHC-type Zn-finger proteins	15
+R	DHHC-type Zn-finger protein	0
+R	Predicted DHHC-type Zn-finger protein	4
+E	Argininosuccinate lyase	2
+C	Fumarase	5
+K	Helix loop helix transcription factor EB	0
+K	bHLHZip transcription factor BIGMAX	0
+O	Serine protease	9
+H	Protoheme ferro-lyase (ferrochelatase)	3
+M	GDP-mannose pyrophosphorylase/mannose-1-phosphate guanylyltransferase	7
+T	Serine/threonine phosphatase	0
+H	Dihydrofolate reductase	1
+I	Lysophospholipase	18
+M	Membrane-associated protein FER-1 and related ferlins, contain multiple C2 domains	0
+T	Copine	9
+UT	Synaptic vesicle protein BAIAP3, involved in vesicle priming/regulation	0
+I	Phospholipase D1	11
+G	Sugar transporter/spinster transmembrane protein	6
+R	Predicted methyltransferase	15
+U	Vesicle coat complex COPII, subunit SEC13	3
+C	Dihydrolipoamide dehydrogenase	7
+R	Monodehydroascorbate/ferredoxin reductase	5
+R	N-methyltransferase	7
+O	Aspartyl protease	53
+IG	Prosaposin	4
+P	Na+/K+ transporter	1
+B	Histone deacetylase complex, catalytic component RPD3	4
+B	Histone deacetylase complex, catalytic component HDA1	6
+B	Predicted histone deacetylase	1
+T	Serine/threonine kinase	0
+T	Programmed cell death 8 (apoptosis-inducing factor)	0
+R	Uncharacterized membrane protein, predicted efflux pump	50
+O	Asparaginyl peptidases	3
+O	Gpi-anchor transamidase	1
+C	F0F1-type ATP synthase, beta subunit	6
+C	Vacuolar H+-ATPase V1 sector, subunit B	2
+C	Vacuolar H+-ATPase V1 sector, subunit A	3
+C	F0F1-type ATP synthase, alpha subunit	7
+T	Serine/threonine protein phosphatase 2A, regulatory subunit	10
+F	Adenylosuccinate synthase	4
+K	Putative transcription factor 5qNCA, contains JmjC domain	6
+O	Serine palmitoyltransferase	3
+E	Glycine C-acetyltransferase/2-amino-3-ketobutyrate-CoA ligase	3
+H	5-aminolevulinate synthase	3
+L	Predicted hydrolase involved in interstrand cross-link repair	5
+I	Choline transporter-like protein	7
+T	Predicted regulator of the ubiquitin pathway (contains UAS and UBX domains)	4
+O	Predicted ubiquitin regulatory protein, contains UAS and UBX domains	2
+AR	RNA-binding protein Fusilli, contains RRM domain	1
+O	Alpha-macroglobulin	0
+G	3-phosphoglycerate kinase	3
+E	Threonine aldolase	3
+G	Hexokinase	6
+H	S-adenosylhomocysteine hydrolase	4
+M	UDP-glucose 4-epimerase/UDP-sulfoquinovose synthase	14
+G	GDP-mannose 4,6 dehydratase	3
+UO	Transport protein Sec61, alpha subunit	4
+Z	Gamma tubulin	2
+Z	Beta tubulin	15
+Z	Alpha tubulin	10
+F	Uridine 5'- monophosphate synthase/orotate phosphoribosyltransferase	3
+G	Purple acid phosphatase	17
+H	Heme A farnesyltransferase	2
+H	Para-hydroxybenzoate-polyprenyl transferase	3
+R	Multiple inositol polyphosphate phosphatase	1
+E	Glutamate decarboxylase/sphingosine phosphate lyase	7
+J	tRNA delta(2)-isopentenylpyrophosphate transferase	7
+F	Nucleoside phosphatase	9
+TV	Attractin and platelet-activating factor acetylhydrolase	0
+I	3-oxoacyl CoA thiolase	5
+I	Acetyl-CoA acetyltransferase	13
+I	Hydroxymethylglutaryl-CoA synthase	4
+IQ	3-oxoacyl-(acyl-carrier-protein) synthase (I and II)	4
+E	Tryptophan synthase beta chain	4
+P	Ca2+/H+ antiporter VCX1 and related proteins	5
+Q	Flavin-containing monooxygenase	16
+R	Predicted ATP-dependent protease PIL, contains LON domain	1
+E	Acetylornithine aminotransferase	3
+E	Ornithine aminotransferase	5
+R	Predicted alanine-glyoxylate aminotransferase	1
+E	Alanine-glyoxylate aminotransferase AGT2	5
+E	4-aminobutyrate aminotransferase	1
+I	Peroxisomal 3-ketoacyl-CoA-thiolase P-44/SCP2	3
+S	WD40 repeat protein	1
+S	Uncharacterized conserved protein, contains WD40 repeats and FYVE domains	0
+YU	Nuclear transport receptor RanBP16 (importin beta superfamily)	1
+E	Aspartate aminotransferase/Glutamic oxaloacetic transaminase AAT1/GOT2	8
+E	Aspartate aminotransferase/Glutamic oxaloacetic transaminase AAT2/GOT1	2
+G	N-acetylglucosaminyltransferase I	1
+K	Transcriptional activator FOSB/c-Fos and related bZIP transcription factors	2
+O	Ubiquitin C-terminal hydrolase UCHL1	1
+J	tRNA(1-methyladenosine) methyltransferase, subunit GCD10	2
+E	Homogentisate 1,2-dioxygenase	4
+P	Tandem pore domain K+ channel	4
+P	Voltage-gated K+ channel KCNQ	0
+PT	Ca2+-activated K+ channel Slowpoke, alpha subunit	1
+R	Predicted signaling-associated protein (contains a PDZ domain)	2
+P	Intracellular Cl- channel CLIC, contains GST domain	2
+DT	Ras-like GTPase ERA	2
+R	Predicted GTP-binding protein MMR1	2
+Z	Microfibrillar-associated protein MFAP1	2
+S	FOG: RCC1 domain	14
+S	Uncharacterized conserved protein, contains RCC1 domain	1
+T	Inhibitor of type V adenylyl cyclases/Neuronal presynaptic protein Highwire/PAM/RPM-1	1
+GM	dTDP-glucose 4-6-dehydratase/UDP-glucuronic acid decarboxylase	9
+IE	C-3 sterol dehydrogenase/3-beta-hydroxysteroid dehydrogenase and related dehydrogenases	6
+GO	GDP-L-fucose synthetase	1
+R	Predicted DNA repair exonuclease SIA1	3
+L	DNA repair protein RAD51/RHP55	6
+DL	Meiotic recombination protein Dmc1	2
+IT	Sterol reductase/lamin B receptor	4
+F	Dihydroorotate dehydrogenase	3
+MW	Fasciclin and related adhesion glycoproteins	2
+E	Anthranilate phosphoribosyltransferase	2
+O	RAB proteins geranylgeranyltransferase component A (RAB escort protein)	6
+I	CDP-diacylglycerol synthase	5
+GE	Glucose-6-phosphate/phosphate and phosphoenolpyruvate/phosphate antiporter	25
+GOU	GDP-fucose transporter	0
+S	Predicted integral membrane protein	3
+GOU	Nucleotide-sugar transporter VRG4/SQV-7	7
+Z	Tumor-specific antigen (contains WD repeats)	0
+ABO	Histone H3 (Lys4) methyltransferase complex and RNA cleavage factor II complex, subunit SWD2	2
+C	GTP-specific succinyl-CoA synthetase, beta subunit	1
+FE	Ribose-phosphate pyrophosphokinase	10
+T	Predicted Rho GTPase-activating protein CdGAPr	0
+T	Predicted Rho GTPase-activating protein	1
+T	Oligophrenin-1 and related Rho GTPase-activating proteins	1
+T	Chimaerin and related Rho GTPase activating proteins	1
+R	Predicted hydrolase/acyltransferase (alpha/beta hydrolase superfamily)	25
+A	Heterogeneous nuclear ribonucleoprotein L (contains RRM repeats)	0
+R	RNA binding protein (contains RRM repeats)	3
+G	Fructose-1,6-bisphosphatase	6
+I	Squalene synthetase	3
+GMO	GDP-mannose pyrophosphorylase	2
+J	Translation initiation factor 2B, epsilon subunit (eIF-2Bepsilon/GCD6)	2
+J	Translation initiation factor 2B, gamma subunit (eIF-2Bgamma/GCD1)	1
+O	26S proteasome regulatory complex, subunit RPN6/PSMD11	5
+OT	COP9 signalosome, subunit CSN2	1
+J	Translation initiation factor 2B, beta subunit (eIF-2Bbeta/GCD7)	2
+J	Translation initiation factor 2B, alpha subunit (eIF-2Balpha/GCN3)	1
+J	Translation initiation factor 2B, delta subunit (eIF-2Bdelta/GCD2)	3
+J	Predicted translation initiation factor related to eIF-2B alpha/beta/delta subunits (CIG2/IDI2)	2
+R	Predicted acyl-CoA dehydrogenase	2
+I	Phosphatidylinositol transfer protein PDR16 and related proteins	9
+I	Phosphatidylinositol transfer protein SEC14 and related proteins	18
+BK	Histone acetyltransferase SAGA/ADA, catalytic subunit PCAF/GCN5 and related proteins	2
+BK	Nucleosome remodeling factor, subunit NURF301/BPTF	2
+K	Transcription initiation factor TFIID, subunit BDF1 and related bromodomain proteins	12
+A	Ribosomal protein RPL1/RPL2/RL4L4	4
+O	Beta-1,3-glucuronyltransferase B3GAT1/SQV-8	3
+R	SPRY domain-containing proteins	3
+I	3-keto sterol reductase	0
+F	Nucleoside transporter	4
+T	Netrin transmembrane receptor unc-5	0
+E	Cysteine synthase	3
+P	Zn2+ transporter	5
+P	Zn2+ transporter ZNT1 and related Cd2+/Zn2+ transporters (cation diffusion facilitator superfamily)	3
+P	Putative Zn2+ transporter MSC2 (cation diffusion facilitator superfamily)	5
+P	Mitochondrial Fe2+ transporter MMT1 and related transporters (cation diffusion facilitator superfamily)	5
+T	GTP-binding protein DRG2 (ODN superfamily)	2
+T	GTP-binding protein DRG1 (ODN superfamily)	2
+J	Translational repressor Pumilio/PUF3 and related RNA-binding proteins (Puf superfamily)	9
+R	Predicted GTP-binding protein (ODN superfamily)	7
+R	GTP-binding protein CRFG/NOG1 (ODN superfamily)	6
+R	C3H1-type Zn-finger protein	1
+DO	Anaphase-promoting complex (APC), subunit 11	2
+C	NAD-dependent malate dehydrogenase	8
+C	Lactate dehydrogenase	1
+C	Malate dehydrogenase	6
+OT	COP9 signalosome, subunit CSN4	2
+O	26S proteasome regulatory complex, subunit RPN5/PSMD12	3
+OKT	Protein arginine N-methyltransferase PRMT1 and related enzymes	7
+OK	Protein arginine N-methyltransferase CARM1	2
+R	Arginine N-methyltransferase	2
+V	Flavonol reductase/cinnamoyl-CoA reductase	19
+EF	Phosphoribosylpyrophosphate synthetase-associated protein	0
+E	Ornithine carbamoyltransferase OTC/ARG3	3
+I	Lysophosphatidic acid acyltransferase LPAAT and related acyltransferases	5
+H	S-adenosylmethionine synthetase	6
+BD	Nucleosome assembly protein NAP-1	4
+L	DNA replication factor/protein phosphatase inhibitor SET/SPR-2	3
+D	Predicted nucleic acid-binding protein ASMTL	5
+K	RNA polymerase II holoenzyme and mediator subcomplex, subunit SURB7/SRB7	1
+I	Mevalonate kinase MVK/ERG12	1
+KT	Nuclear helicase MOP-3/SNO (DEAD-box superfamily)	2
+L	Origin recognition complex, subunit 1, and related proteins	1
+V	Arylacetamide deacetylase	22
+R	Carboxylesterase and related proteins	8
+D	Guanine nucleotide binding protein MIP1	1
+H	Coproporphyrinogen III oxidase CPO/HEM13	3
+R	Predicted mitochondrial carrier protein	0
+R	Predicted alkaloid synthase/Surface mucin Hemomucin	9
+K	RNA polymerase I and III, subunit RPA40/RPC40	2
+K	RNA polymerase II, subunit POLR2C/RPB3	1
+Z	Actin-related protein Arp2/3 complex, subunit ARPC1/p41-ARC	2
+R	WD40 repeat-containing protein CHE-2	0
+D	Sister chromatid cohesion complex Cohesin, subunit PDS5	6
+C	NADP-dependent isocitrate dehydrogenase	6
+H	Uroporphyrin III methyltransferase	2
+FP	Salt-sensitive 3'-phosphoadenosine-5'-phosphatase HAL2/SAL1	4
+V	Mercaptopyruvate sulfurtransferase/thiosulfate sulfurtransferase	3
+P	Rhodanese-related sulfurtransferase	4
+C	F0F1-type ATP synthase, gamma subunit	6
+L	GTPase XAB1, interacts with DNA repair protein XPA	1
+R	Predicted GTPase	4
+K	Putative transcription factor FET5	3
+R	Predicted fumarylacetoacetate hydralase	6
+H	Biotin holocarboxylase synthetase/biotin-protein ligase	2
+E	Homoserine kinase	2
+R	Uncharacterized conserved protein WDR10, contains WD40 repeats	0
+R	WD repeat protein	1
+H	Ubiquinone biosynthesis methyltransferase COQ5	6
+R	Predicted protein carboxyl methylase	1
+O	Cysteine proteinase Cathepsin F	5
+O	Cysteine proteinase Cathepsin L	26
+R	Predicted cysteine proteinase TIN-ag	0
+P	Voltage-gated shaker-like K+ channel KCNA	0
+DO	Metacaspase involved in regulation of apoptosis	5
+DTZ	Septin CDC10 and related P-loop GTPases	1
+K	Transcription elongation factor TAT-SF1	1
+E	Cysteine desulfurase NFS1	8
+MOT	Extracellular protein SEL-1 and related proteins	4
+R	Predicted alpha/beta hydrolase	18
+R	Predicted alpha/beta hydrolase BAT5	0
+OT	COP9 signalosome, subunit CSN5	2
+O	26S proteasome regulatory complex, subunit RPN11	3
+O	26S proteasome regulatory complex, subunit RPN8/PSMD7	3
+G	Fructose-biphosphate aldolase	9
+P	Fe2+/Zn2+ regulated transporter	11
+H	Gamma-glutamyl hydrolase	2
+J	Translation initiation factor 3, subunit h (eIF-3h)	2
+K	CCAAT-binding factor, subunit B (HAP2)	9
+E	Spermidine synthase	4
+C	Mitochondrial protein Surfeit 1/SURF1/SHY1, required for expression of cytochrome oxidase	2
+L	DNA repair protein RHP57	2
+OW	Gelatinase A and related matrix metalloproteases	3
+S	Conserved protein Mo25	4
+F	Ribonucleotide reductase, beta subunit	4
+OU	Mitochondrial inner membrane protease, subunit IMP2	2
+J	50S ribosomal protein L1	1
+J	60S ribosomal protein L10A	5
+V	Predicted protein tyrosine phosphatase	3
+R	Aldehyde reductase	1
+W	Predicted cell growth/differentiation regulator, contains RA domain	0
+C	Voltage-gated shaker-like K+ channel, subunit beta/KCNAB	18
+C	Predicted oxidoreductase	1
+R	Aldo/keto reductase family proteins	17
+P	Predicted carbonic anhydrase involved in protection against oxidative damage	6
+E	Homocysteine S-methyltransferase	4
+G	UDP-galactose transporter related protein	5
+G	UDP-N-acetylglucosamine transporter	0
+R	Sulfotransferase	7
+U	Protein required for fusion of vesicles in vesicular transport, gamma-SNAP	1
+U	Protein required for fusion of vesicles in vesicular transport, alpha-SNAP	1
+Z	Cytoplasmic dynein intermediate chain	0
+A	RNA-binding protein Sam68 and related KH domain proteins	4
+E	Prolyl 4-hydroxylase alpha subunit	10
+G	Uncharacterized enzymes related to aldose 1-epimerase	5
+R	CCCH-type Zn-finger protein	22
+A	Fibrillarin and related nucleolar RNA-binding proteins	4
+K	Transcription initiation factor TFIIB	4
+K	Transcription initiation factor TFIIIB, Brf1 subunit	3
+Q	Uricase (urate oxidase)	2
+I	Fatty acid desaturase	5
+K	GATA-4/5/6 transcription factors	45
+I	Cis-prenyltransferase	2
+P	Copper chaperone	28
+G	Predicted mutarotase	3
+K	TFIIF-interacting CTD phosphatase, including NLI-interacting factor (involved in RNA polymerase II regulation)	6
+H	Stationary phase-induced protein, SOR/SNZ family	4
+U	Protein transporter of the TRAM (translocating chain-associating membrane) superfamily	2
+A	Protein involved in mRNA turnover and stability	17
+QR	Corticosteroid 11-beta-dehydrogenase and related short chain-type dehydrogenases	0
+R	Predicted short chain-type dehydrogenase	1
+J	Exosomal 3'-5' exoribonuclease complex, subunit Rrp42	1
+J	Exosomal 3'-5' exoribonuclease complex, subunit Rrp43	1
+J	Exosomal 3'-5' exoribonuclease complex, subunit Rrp45	1
+E	Phosphoserine phosphatase	1
+G	Protein involved in Snf1 protein kinase complex assembly	6
+I	CDP-alcohol phosphatidyltransferase/Phosphatidylglycerol-phosphate synthase	2
+R	Predicted phosphatase	3
+C	Cytochrome b	9
+KIT	Inositol polyphosphate multikinase, component of the ARGR transcription regulatory complex	2
+I	1D-myo-inositol-triphosphate 3-kinase A	0
+F	GMP synthase	4
+R	Multitransmembrane protein	12
+J	Mitochondrial/chloroplast ribosomal protein L4	2
+L	DNA polymerase alpha-primase complex, polymerase-associated subunit B	2
+C	Inorganic pyrophosphatase/Nucleosome remodeling factor, subunit NURF38	7
+J	Translation elongation factor EF-1 gamma	3
+J	40S ribosomal protein S3A	6
+V	Bax-mediated apoptosis inhibitor TEGT/BI-1	1
+T	Growth hormone-induced protein and related proteins	1
+U	Translocon-associated complex TRAP, alpha subunit	2
+R	Uncharacterized PHD Zn-finger protein	8
+B	F-box protein JEMMA and related proteins with JmjC, PHD, F-box and LRR domains	0
+K	Predicted transcription factor DATF1, contains PHD and TFS2M domains	2
+O	Peptide methionine sulfoxide reductase	7
+L	DNA polymerase delta processivity factor (proliferating cell nuclear antigen)	3
+J	Threonyl-tRNA synthetase	6
+I	Steroid reductase	2
+I	Steroid reductase required for elongation of the very long chain fatty acids	1
+I	Predicted steroid reductase	2
+O	Mitochondrial chaperonin	6
+A	Ribonuclease, T2 family	5
+G	Triosephosphate isomerase	5
+A	U2-associated snRNP A' protein	2
+O	RING-finger-containing E3 ubiquitin ligase	1
+J	40S ribosomal protein S6	5
+C	Vacuolar H+-ATPase V1 sector, subunit D	3
+R	Uncharacterized conserved protein, contains RUN, BRK and TBC domains	0
+BK	SWI-SNF chromatin remodeling complex, Snf5 subunit	1
+P	Predicted K+/H+-antiporter	20
+O	Glutathione peroxidase	9
+U	Mitochondrial import inner membrane translocase, subunit TIM17	5
+L	Single-stranded DNA-binding protein	2
+Z	Microtubule-associated anchor protein involved in autophagy and membrane trafficking	6
+U	Protein involved in vacuolar protein sorting	2
+U	Protein involved in glucose derepression and pre-vacuolar endosome protein sorting	3
+K	CCAAT-binding factor, subunit C (HAP5)	7
+L	DNA polymerase epsilon, subunit C	0
+K	Class 2 transcription repressor NC2, alpha subunit (DRAP1)	1
+V	Sorting nexin SNX6/TFAF2, contains PX domain	1
+O	Protein-L-isoaspartate(D-aspartate) O-methyltransferase	2
+C	Mitochondrial F1F0-ATP synthase, subunit OSCP/ATP5	4
+Q	O-methyltransferase	5
+C	Vacuolar H+-ATPase V1 sector, subunit E	4
+R	AFH1-interacting protein FIP2, contains BTB/POZ domain and pentapeptide repeats	1
+U	V-SNARE	3
+R	Zn2+-binding protein Melusin/RAR1, contains CHORD domain	3
+K	Elongation factor 1 beta/delta chain	8
+J	Predicted mRNA cap-binding protein related to eIF-4E	1
+J	Translation initiation factor 4F, cap-binding subunit (eIF-4E) and related cap-binding proteins	3
+C	Ubiquinol cytochrome c reductase, subunit RIP1	4
+OC	ATP binding protein	4
+R	Ras GTPases	2
+R	Cyclin	6
+R	Predicted cyclin	0
+A	K-homology type RNA binding proteins	4
+J	60s ribosomal protein L15	4
+I	Enoyl-CoA hydratase	16
+I	Enoyl-CoA isomerase	4
+I	Hydroxyacyl-CoA dehydrogenase/enoyl-CoA hydratase	5
+J	Mitochondrial/chloroplast ribosomal L21 protein	2
+C	NADH-ubiquinone oxidoreductase, NUFS7/PSST/20 kDa subunit	5
+U	Golgi proteins involved in ER retention (RER)	2
+A	mRNA cleavage factor I subunit	2
+U	emp24/gp25L/p24 family of membrane trafficking proteins	8
+U	Putative cargo transport protein EMP24 (p24 protein family)	3
+J	60s ribosomal protein L6	5
+J	60s ribosomal protein L19	7
+J	Mitochondrial/chloroplast ribosomal protein S9	3
+J	Mitochondrial/chloroplast ribosomal protein L19	4
+R	O-acetyltransferase	3
+TZ	Regulatory protein MLP and related LIM proteins	7
+T	Focal adhesion adaptor protein Paxillin and related LIM proteins	1
+Z	Nebulin repeat protein	0
+TZ	Adaptor protein Enigma and related PDZ-LIM proteins	5
+TZR	FOG: LIM domain	0
+S	Uncharacterized conserved protein, contains CXXC motifs	1
+E	Argininosuccinate synthase	4
+V	Predicted Ras related/Rac-GTP binding protein	3
+J	Mitochondrial/chloroplast ribosomal protein L24	2
+E	Guanidinoacetate methyltransferase and related proteins	2
+R	MYND Zn-finger and ankyrin repeat protein	1
+J	Mitochondrial/chloroplast ribosomal protein L22	1
+F	Adenine phosphoribosyl transferases	6
+C	NADH-ubiquinone oxidoreductase, NDUFS3/30 kDa subunit	3
+J	60s ribosomal protein L18	5
+J	Mitochondrial/chloroplast ribosomal protein L12	9
+V	Dual specificity phosphatase	12
+V	Protein tyrosine phosphatase CDC14	0
+R	FOG: Zn-finger	60
+J	60s ribosomal protein L24	4
+J	60s ribosomal protein L30 isolog	2
+O	SCF ubiquitin ligase, Skp1 component	9
+U	Protein involved in membrane traffic (YOP1/TB2/DP1/HVA22 family)	5
+V	HVA22/DP1 gene product-related proteins	2
+DZ	Microtubule-binding protein (translationally controlled tumor protein)	4
+J	40S ribosomal protein S11	6
+R	FYVE finger containing protein	2
+D	FAD-dependent sulfhydryl oxidase/quiescin and related proteins	1
+J	60S ribosomal protein L21	5
+U	Mitochondrial import inner membrane translocase, subunit TIM13	3
+O	Predicted RING-containing E3 ubiquitin ligase	0
+Z	Actin depolymerizing factor	9
+W	Glia maturation factor beta	0
+I	Oxysterol-binding protein	10
+F	Membrane-associated guanylate kinase-interacting protein/connector enhancer of KSR-like	0
+TV	Serine/threonine protein kinase GPBP	1
+J	Predicted mitochondrial/chloroplast ribosomal protein S17	2
+J	Mitochondrial/chloroplast ribosomal protein S14/S29	2
+J	60s ribosomal protein L15/L27	5
+P	Ferric reductase-like proteins	2
+B	Histone H2B	7
+B	Histones H3 and H4	9
+DO	Defender against cell death protein/oligosaccharyltransferase, epsilon subunit	3
+W	Protein tyrosine kinase 9/actin monomer-binding protein	0
+CIQ	Acyl carrier protein/NADH-ubiquinone oxidoreductase, NDUFAB1/SDAP subunit	6
+J	40S ribosomal protein S23	5
+J	Mitochondrial/chloroplast ribosomal protein S12	2
+J	60s ribosomal protein L23	4
+O	Glutaredoxin and related proteins	18
+J	40S ribosomal protein S16	5
+J	40S ribosomal protein S15/S22	5
+Z	Profilin	6
+B	Histone 2A	15
+C	Mitochondrial F1F0-ATP synthase, subunit delta/ATP16	2
+V	Macrophage migration inhibitory factor	3
+O	Molecular chaperone Prefoldin, subunit 4	1
+U	Signal recognition particle, subunit Srp14	1
+J	60s acidic ribosomal protein P1	3
+R	Uncharacterized conserved protein, contains CCCH-type Zn-finger	1
+C	5'-AMP-activated protein kinase, gamma subunit	7
+J	Regulator of ribosome synthesis	3
+R	Enhancer of rudimentary	2
+J	40S ribosomal protein S25	7
+J	40s ribosomal protein S26	5
+O	Ubiquitin-like proteins	6
+J	Translation initiation factor 1 (eIF-1/SUI1)	5
+MO	GPI-alpha-mannosyltransferase III (GPI10/PIG-B) involved in glycosylphosphatidylinositol anchor biosynthesis	1
+C	Vacuolar H+-ATPase V1 sector, subunit G	1
+R	Stress responsive protein	5
+A	Small nuclear ribonucleoprotein E	2
+A	U6 snRNA-associated Sm-like protein	2
+T	Zn-binding protein Push	1
+R	Putative Zn-finger protein	2
+K	CREB binding protein/P300 and related TAZ Zn-finger proteins	6
+J	40s ribosomal protein S27	4
+A	Small Nuclear ribonucleoprotein G	1
+A	Small Nuclear ribonucleoprotein splicing factor	4
+A	Small nuclear ribonucleoprotein F	1
+V	Tyrosine kinase negative regulator CBL	0
+TU	Lysosomal trafficking regulator LYST and related BEACH and WD40 repeat proteins	2
+U	Kinase A-anchor protein Neurobeachin and related BEACH and WD40 repeat proteins	4
+UO	Endocytosis protein RME-8, contains DnaJ domain	2
+J	60s ribosomal protein L34	4
+U	Reticulon	12
+G	N-Acetylglucosamine kinase	1
+A	U5 snRNP spliceosome subunit	3
+U	Vacuolar protein sorting-associated protein	6
+S	Uncharacterized conserved protein (Neuroblastoma-amplified protein)	1
+L	DNA polymerase epsilon, catalytic subunit A	2
+F	Dihydropyrimidine dehydrogenase	3
+F	Ferredoxin/adrenodoxin reductase	1
+A	tRNA-splicing endonuclease positive effector (SEN1)	9
+A	RNA helicase nonsense mRNA reducing factor (pNORF1)	3
+L	DNA helicase	3
+L	DNA replication helicase	1
+L	DEAD box containing helicases	3
+L	Helicases	1
+R	AAA ATPase containing von Willebrand factor type A (vWA) domain	4
+D	Cell cycle-associated protein	1
+R	Predicted Zn2+-binding protein, contains FYVE domain	2
+O	Ubiquitin fusion-degradation protein	2
+A	Ribonuclease	1
+TU	Membrane trafficking and cell signaling protein HRS, contains VHS and FYVE domains	2
+R	FYVE finger-containing proteins	1
+Z	Microtubule-associated protein	2
+V	DRIM (Down-regulated in metastasis)-like proteins	3
+R	TATA-binding protein-interacting protein	1
+R	Fry-like conserved proteins	1
+V	Ras GTPase activating protein RasGAP/neurofibromin	0
+BK	Chromatin remodeling complex RSC, subunit RSC1/Polybromo and related proteins	1
+K	IRF-2-binding protein CELTIX-1, contains BROMO domain	1
+T	Uncharacterized conserved protein, contains C1, PH and RUN domains	1
+Z	Wiskott Aldrich syndrome proteins	0
+K	Negative regulator of transcription	2
+D	HIV-1 Vpr-binding protein	1
+YU	Nuclear pore complex, gp210 component	1
+W	Calsyntenin	0
+W	Extracellular matrix glycoprotein Laminin subunits alpha and gamma	2
+R	Alpha/beta hydrolase	4
+R	Uncharacterized protein CLU1/cluA/TIF31 involved in mitochondrial morphology/distribution, also found associated with eIF-3	6
+Z	Kinesin light chain	6
+V	Smad anchor for receptor activation	0
+R	FYVE finger-containing protein	0
+R	PHD Zn-finger proteins	3
+D	MORC family ATPases	3
+U	Uncharacterized conserved protein, contains Sec7 domain	0
+A	mRNA splicing factor	7
+D	Regulator of spindle pole body duplication	1
+Z	Myosin-like coiled-coil protein	1
+Z	LIS1-interacting protein NUDE	1
+M	Mitochondrial inner membrane protein (mitofilin)	1
+R	Predicted RNA-binding protein	6
+A	Transcription elongation factor SPT6	3
+K	Transcription accessory protein TEX, contains S1 domain	1
+DO	Anaphase-promoting complex (APC), subunit 1 (meiotic check point regulator/Tsg24)	1
+R	Leucine-rich repeat proteins	2
+UD	Nuclear protein export factor	1
+K	Leucine permease transcriptional regulator	2
+R	GYF domain containing proteins	5
+O	Ubiquitin carboxyl-terminal hydrolase	15
+O	Ubiquitin-specific protease	10
+O	Ubiquitin C-terminal hydrolase	15
+A	Splicing coactivator SRm160/300, subunit SRm300	1
+K	KEKE-like motif-containing transcription regulator (Rlr1)/suppressor of sin4	2
+K	Thyroid hormone receptor-associated coactivator complex component (TRAP170)	1
+Z	Actin-related protein Arp2/3 complex, subunit ARPC4	2
+R	Putative transmembrane protein cmp44E	4
+K	Nuclear receptor coregulator SMRT/SMRTER, contains Myb-like domains	1
+G	UDP-glucose:glycoprotein glucosyltransferase	2
+R	Nuclear inhibitor of phosphatase-1	1
+R	Anion exchanger adaptor protein Kanadaptin, contains FHA domain	2
+T	Transcriptional regulator SNIP1, contains FHA domain	1
+K	Cofactor required for Sp1 transcriptional activation, subunit 3	1
+J	Lysyl-tRNA synthetase (class II)	5
+K	BAH domain proteins	6
+I	Putative phosphoinositide phosphatase	8
+I	Phosphoinositide phosphatase SAC1	0
+R	Proline binding protein WW45	0
+Z	Actin filament-binding protein Afadin	1
+A	mRNA cleavage and polyadenylation factor II complex, subunit PTA1	2
+A	mRNA cleavage and polyadenylation factor II complex, subunit CFT1 (CPSF subunit)	1
+L	Damage-specific DNA binding complex, subunit DDB1	1
+A	Splicing factor 3b, subunit 3	3
+R	LAR transmembrane tyrosine phosphatase-interacting protein liprin	0
+YU	Nuclear pore complex, Nup155 component (D Nup154, sc Nup157/Nup170)	1
+R	Uncharacterized high-glucose-regulated protein	9
+TA	Putative signal transduction protein involved in RNA splicing	2
+K	Transcription coactivator	2
+BK	Class IV sirtuins (SIR2 family)	1
+L	DNA polymerase sigma	5
+F	Phosphoribosylformylglycinamidine synthase	4
+A	Ribonuclease inhibitor type leucine-rich repeat proteins	0
+AYT	Ran GTPase-activating protein	3
+B	Heterochromatin-associated protein HP1 and related CHROMO domain proteins	2
+K	Regucalcin gene promoter region-related protein (RGPR)	2
+A	mRNA cleavage and polyadenylation factor I complex, subunit RNA14	1
+D	Cell cycle control protein (crooked neck)	2
+R	Nuclear protein, contains WD40 repeats	2
+R	Membrane-associated hematopoietic protein	1
+L	3-methyladenine DNA glycosidase	3
+A	RNA pseudouridylate synthases	10
+K	IkappaB kinase complex, IKAP component	2
+L	Endonuclease III	1
+TZ	Rho GTPase effector BNI1 and related formins	10
+TZ	Rac1 GTPase effector FRL	0
+TZ	RhoA GTPase effector DIA/Diaphanous	0
+TZ	Rac1 GTPase effector FHOS	0
+K	Predicted regulator of rRNA gene transcription (MYB-binding protein)	1
+K	R-kappa-B and related transcription factors	1
+G	Alpha-1,4-N-acetylglucosaminyltransferase	4
+L	Nucleotide excision repair factor NEF2, RAD4/CUT5 component	3
+TZ	Focal adhesion protein Tensin, contains PTB domain	0
+R	Putative transmembrane protein	1
+K	TATA binding protein associated factor	1
+I	Cholesterol transport protein (Niemann-Pick C disease protein)	4
+R	Predicted membrane protein (patched superfamily)	0
+T	Membrane protein Patched/PTCH	0
+J	Histidyl-tRNA synthetase	4
+D	Protein with predicted involvement in meiosis (GSG1)	1
+E	Oxoprolinase	5
+R	Zn-finger protein	8
+W	Acetylcholine receptor-associated protein of the synapse (rapsyn)	0
+L	DNA helicase, TBP-interacting protein	3
+O	Beta-tubulin folding cofactor D	1
+R	Peroxisomal membrane protein MPV17 and related proteins	7
+T	Protein phosphatase 1 binding protein spinophilin/neurabin II	1
+K	RNA polymerase I transcription factor UAF	12
+R	Leucine rich repeat proteins, some proteins contain F-box	37
+O	Metalloproteinase-related collagenase pM5	1
+G	Glycosyl transferase, family 8 - glycogenin	10
+J	GTP-binding protein AARP2 involved in 40S ribosome biogenesis	4
+K	Transcription factor NF-X1, contains NFX-type Zn2+-binding and R3H domains	3
+U	Targeting complex (TRAPP) subunit	1
+TU	Endocytosis/signaling protein EHD1	4
+U	Ral-GTPase effector RALBP1	0
+L	DNA topoisomerase III alpha	3
+L	DNA topoisomerase III beta	2
+G	Glycosyl hydrolase, family 38 - alpha-mannosidase	6
+A	Predicted RNA-binding protein, contains KH domains	1
+UZ	Vacuolar sorting protein VPS52/suppressor of actin Sac2	1
+V	B-cell receptor-associated protein and related proteins	2
+YU	Nuclear pore complex, rNup107 component (sc Nup84)	1
+P	Sodium/hydrogen exchanger protein	9
+LK	DNA repair/transcription protein Mms19	1
+L	Replication factor C, subunit RFC1 (large subunit)	2
+DL	DNA replication checkpoint protein CHL12/CTF18	1
+DL	Checkpoint RAD17-RFC complex, RAD17/RAD24 component	1
+O	Lysyl hydroxylase	2
+B	Chromatin remodeling protein, contains PHD Zn-finger	2
+L	DNA topoisomerase I-interacting protein	1
+A	mRNA cap methyltransferase	2
+I	Inositol polyphosphate 5-phosphatase, type I	0
+L	DNA mismatch repair protein - MLH3 family	1
+L	DNA mismatch repair protein - MLH2/PMS1/Pms2 family	3
+L	DNA mismatch repair protein - MLH1 family	3
+T	SOK1 kinase belonging to the STE20/SPS1/GC kinase family	2
+L	Nuclear 5'-3' exoribonuclease-interacting protein, Rai1p	1
+U	Tomosyn and related SNARE-interacting proteins	3
+U	Vesicle coat complex COPII, subunit SFB3	2
+U	Vesicle coat complex COPII, subunit SEC24/subunit SFB2	3
+U	Vesicle coat complex COPII, subunit SEC23	7
+DR	Speckle-type POZ protein SPOP and related proteins with TRAF, MATH and BTB/POZ domains	14
+T	ARK protein kinase family	2
+L	Poly(A)-specific exoribonuclease PARN	11
+YU	Nuclear transport receptor RANBP7/RANBP8 (importin beta superfamily)	4
+YU	Nuclear export receptor CSE1/CAS (importin beta superfamily)	2
+YU	Nuclear transport receptor KAP120 (importin beta superfamily)	2
+A	Predicted RNA binding protein, contains G-patch and Zn-finger domains	1
+R	Conserved Zn-finger protein	4
+T	PH domain-containing protein	3
+T	Signaling protein DOCK180	0
+K	RNA polymerase II transcription elongation factor DSIF/SUPT5H/SPT5	3
+Z	Gamma-tubulin complex, DGRIP91/SPC98 component	2
+Z	Gamma-tubulin complex, DGRIP84/SPC97 component	1
+P	TPR-containing nuclear phosphoprotein that regulates K(+) uptake	2
+O	Mitochondrial ATP-dependent protease PIM1/LON	6
+O	26S proteasome regulatory complex, subunit RPN1/PSMD2	2
+J	Cysteinyl-tRNA synthetase	4
+T	BTK-associated SH3-domain binding protein SAB	1
+K	Transcription initiation factor TFIIIB, Bdp1 subunit	2
+R	Double stranded RNA binding protein	0
+D	Sister chromatid cohesion complex Cohesin, subunit STAG/IRR1/SCC3	1
+O	Ubiquitin activating enzyme UBA1	5
+O	SMT3/SUMO-activating complex, catalytic component UBA2	1
+O	SMT3/SUMO-activating complex, AOS1/RAD31 component	2
+O	NEDD8-activating complex, catalytic component UBA3	2
+O	NEDD8-activating complex, APP-BP1/UBA5 component	2
+H	Molybdopterin synthase sulfurylase	4
+O	Predicted dinucleotide-utilizing enzyme involved in molybdopterin and thiamine biosynthesis	2
+RO	Metalloendoprotease HMP1 (insulinase superfamily)	1
+YU	Nuclear transport receptor CRM1/MSN5 (importin beta superfamily)	4
+YUJ	Nuclear mRNA export factor receptor LOS1/Exportin-t (importin beta superfamily)	2
+YU	Nuclear transport receptor LGL2 (importin beta superfamily)	2
+YU	Nuclear transport receptor Karyopherin-beta2/Transportin (importin beta superfamily)	1
+G	Beta-Glucuronidase GUSB (glycosylhydrolase superfamily 2)	2
+BD	Chromosome condensation complex Condensin, subunit G	1
+Z	Spindle pole body protein - Sad1p	2
+Z	Spindle pole body protein	9
+L	ATPase related to the helicase subunit of the Holliday junction resolvase	3
+L	Tyrosyl-DNA phosphodiesterase	1
+I	Low density lipoprotein B-like protein	1
+U	Vacuolar sorting protein PEP3/VPS18	2
+DL	Replication factor C, subunit RFC3	3
+R	Predicted P-loop ATPase fused to an acetyltransferase	2
+R	Guanylate-binding protein	3
+JK	CAATT-binding transcription factor/60S ribosomal subunit biogenesis protein	2
+K	Transcriptional coactivator p100	3
+E	Glycine dehydrogenase (decarboxylating)	5
+O	Ubiquitin fusion degradation protein-2	2
+KTDL	Signaling protein SWIFT and related BRCT domain proteins	2
+LA	5'-3' exonuclease HKE1/RAT1	4
+LD	5'-3' exonuclease XRN1/KEM1/SEP1 involved in DNA strand exchange and mRNA turnover	1
+Z	Calponin	1
+J	Translational repressor MPT5/PUF4 and related RNA-binding proteins (Puf superfamily)	4
+J	Puf family RNA-binding protein	2
+A	Nonsense-mediated mRNA decay 2 protein	1
+T	Activin A type IB receptor, serine/threonine protein kinase	0
+Z	Mitochondrial inheritance and actin cytoskeleton organization protein	1
+S	Nucleolar RNA-associated protein (NRAP)	1
+F	Equilibrative nucleoside transporter protein	4
+F	Predicted equilibrative nucleoside transporter protein	0
+U	Ypt/Rab GTPase activating protein	4
+T	Ras GTPase-activating protein	0
+U	Rab3 effector RIM1 and related proteins, contain PDZ and C2 domains	0
+R	Uncharacterized MYND Zn-finger protein	2
+O	26S proteasome regulatory complex, subunit RPN2/PSMD1	4
+U	Vacuolar assembly/sorting proteins VPS39/VAM6/VPS3	2
+T	Poly(ADP-ribose) glycohydrolase	1
+Z	Gamma-tubulin ring complex protein	1
+U	Vacuolar assembly/sorting protein VPS41	1
+O	Mitochondrial processing peptidase, alpha subunit	3
+K	MOT2 transcription factor	4
+U	Golgi transport complex subunit	1
+F	Guanine nucleotide exchange factor	1
+A	mRNA cleavage and polyadenylation factor I/II complex, subunit Pcf11	3
+J	Translation initiation factor 3, subunit a (eIF-3a)	4
+D	SAP family cell cycle dependent phosphatase-associated protein	5
+KL	RNA polymerase II transcription initiation/nucleotide excision repair factor TFIIH, subunit TFB1	2
+S	Topoisomerase TOP1-interacting protein BTBD1	0
+K	RNA polymerase III transcription factor TFIIIC	1
+T	JNK/SAPK-associated protein-1	0
+A	tRNA modification enzyme	2
+U	Vacuolar assembly/sorting protein VPS8	2
+T	Uncharacterized conserved protein, contains DENN and RUN domains	0
+U	Nuclear transport regulator	3
+P	K+/Cl- cotransporter KCC1 and related transporters	1
+P	Na+/K+ symporter	2
+B	Predicted histone tail methylase containing SET domain	6
+Y	Protein tyrosine phosphatase SHP1/Cofactor for p97 ATPase-mediated vesicle membrane fusion	2
+T	Glycoprotein hormone receptor	0
+IOT	Predicted lipase/calmodulin-binding heat-shock protein	7
+O	Metalloendopeptidase family - saccharolysin & thimet oligopeptidase	6
+O	Metalloendopeptidase family - mitochondrial intermediate peptidase	1
+G	Predicted member of glycosyl hydrolase family 18	1
+L	Translesion DNA polymerase - REV1 deoxycytidyl transferase	2
+L	Predicted DNA damage inducible protein	3
+L	DNA polymerase iota/DNA damage inducible protein	1
+K	Predicted N6-adenine methylase involved in transcription regulation	2
+A	Predicted N6-adenine RNA methylase	1
+G	Glycogen phosphorylase	5
+O	Dipeptidyl aminopeptidase	9
+ZUD	Intermediate filament-like protein, sorting nexins, and related proteins containing PX (PhoX) domain(s)	2
+J	Exosomal 3'-5' exoribonuclease complex, subunit Rrp44/Dis3	8
+U	Nuclear transport factor 2	3
+R	Predicted metal-dependent hydrolase, contains AlaS domain	2
+S	Uncharacterized conserved protein, contains HELP and WD40 domains	0
+S	Uncharacterized conserved protein, contains double-stranded beta-helix domain	4
+L	3'-5' DNA helicase	2
+R	Predicted RNA binding protein, contains KH domain	0
+U	Vacuolar assembly/sorting protein PEP5/VPS11	1
+U	Vacuolar sorting protein VPS45	1
+NI	Protein involved in plasmid maintenance/nuclear protein involved in lipid metabolism	2
+S	Predicted membrane protein, contains two CBS domains	8
+G	Predicted bile acid beta-glucosidase	3
+O	SCF ubiquitin ligase, Skp2 component	1
+R	Predicted metal-dependent hydrolase (beta-lactamase superfamily)	2
+TZ	Beta-catenin-binding protein APC, contains ARM repeats	0
+T	Glycosylphosphatidylinositol anchor synthesis protein	5
+T	Calmodulin-binding protein CRAG, contains DENN domain	1
+T	Ras GTPase-activating protein family - IQGAP	3
+S	Uncharacterized conserved protein H4	0
+BT	Phosphatidylserine-specific receptor PtdSerR, contains JmjC domain	2
+BT	Uncharacterized conserved protein, contains JmjC domain	2
+R	Transcriptional corepressor Atrophin-1/DRPLA	0
+L	Polynucleotide kinase 3' phosphatase	2
+R	Proteins containing the RNA recognition motif	1
+K	Transcriptional regulators binding to the GC-rich sequences	1
+A	Predicted RNA binding protein, contains G-patch domain	2
+T	Protein involved in high osmolarity signaling pathway	2
+H	Molybdenum cofactor sulfurase	5
+J	Tyrosyl-tRNA synthetase, cytoplasmic	3
+J	Cytoplasmic tryptophanyl-tRNA synthetase	1
+AR	Splicing coactivator SRm160/300, subunit SRm160 (contains PWI domain)	1
+J	Nucleolar protein involved in 40S ribosome biogenesis	1
+U	Exocyst protein Sec3	2
+K	CCR4-NOT transcriptional regulation complex, NOT5 subunit	2
+KDR	Predicted transcriptional regulator	3
+D	Sister chromatid cohesion protein	2
+JU	Protein involved in the nuclear export of pre-ribosomes	2
+J	Predicted nucleolar protein involved in ribosome biogenesis	1
+O	Tubulin-tyrosine ligase-related protein	2
+O	Predicted tubulin-tyrosine ligase	0
+J	tRNA nucleotidyltransferase/poly(A) polymerase	8
+O	Armadillo/beta-catenin-like repeat-containing protein	3
+G	Glucosidase I	2
+A	Nonsense-mediated mRNA decay protein	2
+D	Centromere/kinetochore protein zw10 involved in mitotic chromosome segregation	2
+DO	Anaphase-promoting complex (APC), subunit 2	1
+D	Cullins	12
+K	Zn-finger transcription factor	5
+R	ATPase of the AAA+ superfamily	0
+YU	Karyopherin (importin) beta 3	6
+R	Integral membrane protein	2
+T	Leptin receptor gene-related protein	2
+G	Protein predicted to be involved in carbohydrate metabolism	2
+U	Exocyst complex, subunit SEC15	2
+G	Predicted sugar kinase	5
+L	Nucleotide excision repair complex XPC-HR23B, subunit XPC/DPB11	1
+U	Late Golgi protein sorting complex, subunit Vps53	1
+K	LIM domain binding protein LDB1/NLI/CLIM	0
+OR	Hydrolytic enzymes of the alpha/beta hydrolase fold	4
+OR	Prolylcarboxypeptidase (angiotensinase C)	3
+A	Tuftelin-interacting protein TIP39, contains G-patch domain	3
+A	Predicted RNA-processing protein, contains G-patch domain	1
+D	Cell growth-regulating nucleolar protein	1
+J	tRNA uracil-5-methyltransferase and related tRNA-modifying enzymes	2
+J	Predicted RNA-binding protein, contains Pumilio domains	1
+C	Vacuolar H+-ATPase V0 sector, subunit a	4
+AR	PolyC-binding proteins alphaCP-1 and related KH domain proteins	8
+AR	RNA-binding protein NOVA1/PASILLA and related KH domain proteins	1
+AR	PolyC-binding hnRNP-K protein HRB57A/hnRNP, contains KH domain	0
+AR	IGF-II mRNA-binding protein IMP, contains RRM and KH domains	0
+OR	Aminopeptidases of the M20 family	2
+OPR	Transferrin receptor and related proteins containing the protease-associated (PA) domain	5
+Y	Nuclear porin	1
+T	Ypt/Rab-specific GTPase-activating protein GYP7 and related proteins	10
+J	tRNA cytosine-5-methylases and related enzymes of the NOL1/NOP2/sun superfamily	5
+T	Signal transducing adaptor protein STAM/STAM2	0
+T	Tumour suppressor protein p122-RhoGAP/DLC1	0
+H	Pantothenate kinase PanK and related proteins	2
+A	U2 snRNP splicing factor, small subunit, and related proteins	4
+R	GTP-binding protein	3
+G	Mannosyl-oligosaccharide alpha-1,2-mannosidase and related glycosyl hydrolases	2
+J	Exosome 3'-5' exoribonuclease complex, subunit PM/SCL-100 (Rrp6)	2
+L	Predicted 3'-5' exonuclease	3
+I	Vigilin	2
+T	Oxysterol-binding protein	2
+U	Predicted Golgi transport complex 1 protein	1
+T	Apoptosis inhibitor 5/fibroblast growth factor 2-interacting factor 2, and related proteins	1
+R	Predicted esterase of the alpha-beta hydrolase superfamily	2
+U	Exocyst complex subunit	3
+S	Conserved coiled/coiled coil protein	2
+A	U4/U6.U5 snRNP associated protein	1
+UD	ER to golgi transport protein/RAD50-interacting protein 1	2
+R	Predicted signal transduction protein	1
+U	PDZ-domain interacting protein EPI64, contains TBC domain	0
+TR	Uncharacterized conserved protein, contains TBC, SH3 and RUN domains	1
+TR	Uncharacterized conserved protein, contains TBC domain	3
+R	Proteins containing regions of low-complexity	1
+LD	Pre-initiation complex, subunit CDC6, AAA+ superfamily ATPase	1
+L	Origin recognition complex, subunit 4	3
+DZ	Protein required for actin cytoskeleton organization and cell cycle progression	3
+G	Predicted beta-mannosidase	2
+T	Ceramidases	3
+U	Alpha-N-acetylglucosaminidase	1
+G	Predicted UDP-galactose transporter	6
+O	Predicted serine protease	7
+R	Uncharacterized conserved protein TEX2, contains PH domain	2
+K	Transcription factor containing NAC and TS-N domains	7
+K	RNA polymerase II general transcription factor BTF3 and related proteins	4
+J	tRNA-binding protein	5
+A	Scaffold/matrix specific factor hnRNP-U/SAF-A, contains SPRY domain	2
+T	Ca2+ release channel (ryanodine receptor)	0
+R	Highly conserved protein containing a thioredoxin domain	2
+A	Poly(A) polymerase and related nucleotidyltransferases	4
+G	Galactosyltransferases	26
+L	3'-5' exonuclease	7
+E	Glutamate/leucine/phenylalanine/valine dehydrogenases	7
+K	Homeobox transcription factor	0
+K	CCAAT displacement protein and related homeoproteins	0
+A	U1 snRNP complex, subunit SNU71 and related PWI-motif proteins	1
+G	Predicted endo-1,3-beta-glucanase	1
+J	Peptidyl-tRNA hydrolase	5
+J	Predicted protein involved in nuclear export of pre-ribosomes	3
+S	N-acetylglucosaminyltransferase complex, subunit PIG-P, required for phosphatidylinositol biosynthesis	2
+C	Glycerophosphoryl diester phosphodiesterase	11
+D	Cell division cycle 37 protein, CDC37	3
+K	Polycomb enhancer protein, EPC	3
+T	Sexual differentiation process protein ISP4	7
+E	Methionine synthase II (cobalamin-independent)	5
+T	Exostosin EXT1L	0
+T	Nuclear distribution protein NUDC	4
+B	Chromatin-associated protein Dek and related proteins, contains SAP DNA binding domain	4
+L	Eukaryotic-type DNA primase, large subunit	1
+TR	Serine/threonine protein kinase	1
+TD	Serine/threonine protein kinase involved in cell cycle control	1
+YU	Nuclear pore complex component (sc Nup85)	1
+TZ	Focal adhesion protein PINCH-1, contains LIM domains	0
+U	Membrane coat complex Retromer, subunit VPS5/SNX1, Sorting nexins, and related PX domain-containing proteins	4
+UY	Predicted importin 9	1
+E	Aminoacylase ACY1 and related metalloexopeptidases	2
+E	Metalloexopeptidases	6
+D	S-M checkpoint control protein CID1 and related nucleotidyltransferases	3
+J	RNA:NAD 2'-phosphotransferase TPT1	2
+T	Kinase anchor protein AKAP149, contains KH and Tudor RNA-binding domains	0
+U	Vacuolar assembly/sorting protein VPS16	2
+O	Dipeptidyl aminopeptidases/acylaminoacyl-peptidases	2
+C	NADH-ubiquinone oxidoreductase, NDUFS1/75 kDa subunit	4
+TR	Clathrin coat dissociation kinase GAK/PTEN/Auxilin and related tyrosine phosphatases	3
+O	E3 ubiquitin ligase, Cullin 2 component	0
+O	E3 ubiquitin ligase, Cullin 1 component	0
+U	Exocyst complex subunit SEC6	1
+T	Rhomboid family proteins	9
+O	Oligosaccharyltransferase, alpha subunit (ribophorin I)	3
+O	Oligosaccharyltransferase, STT3 subunit	4
+KT	Daxx-interacting protein MSP58/p78, contains FHA domain	1
+K	Transcription factor of the Forkhead/HNF3 family	3
+R	C2H2 Zn-finger protein	2
+J	Predicted translation factor, contains W2 domain	3
+J	Glycyl-tRNA synthetase and related class II tRNA synthetase	2
+L	Ribonuclease HI	1
+PT	Voltage-gated Ca2+ channels, alpha1 subunits	5
+PT	T-type voltage-gated Ca2+ channel, pore-forming alpha1I subunit	1
+HR	Predicted NAD synthase, contains CN hydrolase domain	2
+I	3-hydroxyacyl-CoA dehydrogenase	6
+U	Low density lipoprotein receptor	1
+IU	Phosphatidic acid-preferring phospholipase A1, contains DDHD domain	1
+J	60s ribosomal protein L2/L8	6
+L	DNA repair exonuclease MRE11	1
+J	NAD/FAD-utilizing protein possibly involved in translation	2
+K	Predicted transcriptional regulator, contains ARID domain	0
+T	Stress-induced protein UVI31+	3
+J	Translation initiation factor 3, subunit b (eIF-3b)	3
+J	Predicted translation initiation factor related to eIF-3a	2
+R	Predicted ATPase (PP-loop superfamily)	1
+J	Putative translation initiation inhibitor UK114/IBM1	5
+U	Vacuolar assembly/sorting protein VPS9	2
+U	RAS effector RIN1 (contains VPS domain)	0
+T	N-methyl-D-aspartate receptor glutamate-binding subunit	5
+G	Pyruvate kinase	13
+J	Prolyl-tRNA synthetase	6
+R	Predicted transporter/transmembrane protein	2
+L	DNA-binding subunit of a DNA-dependent protein kinase (Ku80 autoantigen)	1
+L	DNA-binding subunit of a DNA-dependent protein kinase (Ku70 autoantigen)	1
+BD	Chromosome condensation complex Condensin, subunit H	2
+I	Alkaline ceramidase	2
+A	Splicing factor 3b, subunit 2	2
+R	Predicted glycosylhydrolase	1
+P	Ferritin	7
+J	tRNA-dihydrouridine synthase	6
+H	Molybdopterin biosynthesis-related protein	2
+H	Ubiquitin activating E1 enzyme-like protein	2
+K	Transcriptional effector CCR4-related protein	3
+K	TATA box binding protein (TBP)-associated factor, RNA polymerase II	2
+R	Glucose-repressible protein and related proteins	2
+U	Exocyst component protein and related proteins	15
+KIT	Serine/threonine protein kinase/TGF-beta stimulated factor	1
+U	Sec5 subunit of exocyst complex	2
+E	Urea transporter	1
+P	Na+:iodide/myo-inositol/multivitamin symporters	2
+R	Zn-finger protein joined to JAZF1 (predicted suppressor)	1
+K	RNA polymerase II, fourth largest subunit	1
+E	Predicted spermine/spermidine synthase	5
+PT	L-type voltage-dependent Ca2+ channel, alpha2/delta subunit	1
+K	RNA Polymerase C (III) 37 kDa subunit	1
+RK	Predicted ABC-type transport, ATPase component/CCR4 associated factor	3
+KT	Transcriptional activator, adenine-specific DNA methyltransferase	1
+O	NifU-like domain-containing proteins	6
+D	Proliferation-associated nucleolar protein (NOL1)	2
+R	Uncharacterized Fe-S protein	2
+J	Protein subunit of nuclear ribonuclease P (RNase P)	1
+J	Predicted pseudouridylate synthase	2
+G	Alpha-D-galactosidase (melibiase)	4
+E	Alpha-isopropylmalate synthase/homocitrate synthase	5
+CE	Hydroxymethylglutaryl-CoA lyase	4
+I	Lecithin:cholesterol acyltransferase (LCAT)/Acyl-ceramide synthase	8
+T	Cactin	1
+H	Molybdopterin biosynthesis protein	2
+L	Oxidation resistance protein	2
+L	Predicted mitochondrial DNA helicase twinkle	0
+A	Protein interacting with poly(A)-binding protein	2
+U	Signal recognition particle, subunit Srp72	2
+T	cAMP-regulated guanine nucleotide exchange factor	0
+L	Endonuclease MUS81	2
+E	Prephenate dehydrogenase (NADP+)	3
+R	Predicted ATPase	5
+R	Major histocompatibility complex protein BAT4, contains G-patch and ankyrin domains	0
+A	mRNA capping enzyme, guanylyltransferase (alpha) subunit	2
+F	CTP synthase (UTP-ammonia lyase)	8
+M	UDP-N-acetylglucosamine pyrophosphorylase	6
+K	Predicted bromodomain transcription factor	4
+OU	Vacuolar sorting protein/ubiquitin receptor VPS23	2
+V	Serpin	7
+K	Transcription initiation factor IIF, large subunit (RAP74)	1
+R	WD40 protein DMR-N9	2
+U	Protein involved in vacuole import and degradation	2
+R	HAT (Half-A-TPR) repeat-containing protein	2
+T	Protein kinase C substrate, 80 KD protein, heavy chain	4
+D	Predicted proline-serine-threonine phosphatase-interacting protein (PSTPIP)	1
+P	K+-dependent Na+:Ca2+ antiporter	4
+V	Nuclear protein ZAP	2
+L	Predicted MutS-related protein involved in mismatch repair	4
+K	Paf1/RNA polymerase II complex, RTF1 component (involved in regulation of TATA box-binding protein)	1
+C	Succinate dehydrogenase, flavoprotein subunit	9
+C	Fumarate reductase, flavoprotein subunit	1
+MO	GPI transamidase complex, GPI16/PIG-T component, involved in glycosylphosphatidylinositol anchor biosynthesis	1
+R	Peroxidase/oxygenase	3
+J	KRR1-interacting protein involved in 40S ribosome biogenesis	1
+E	Gamma-glutamyltransferase	6
+J	Aspartyl-tRNA synthetase, mitochondrial	2
+A	Nuclear-export-signal (NES)-containing protein/polyadenylated-RNA export factor	1
+E	Xaa-Pro aminopeptidase	4
+E	Putative Xaa-Pro aminopeptidase	2
+C	Electron transfer flavoprotein ubiquinone oxidoreductase	4
+B	Acinus (induces apoptotic chromatin condensation)	1
+T	Predicted G-protein coupled receptor	1
+Z	Microtubule-associated protein TAU	0
+I	Phosphatidylserine decarboxylase	4
+R	Predicted starch-binding protein	2
+R	Nucleolar GTPase	2
+K	Protein involved in transcription start site selection	1
+R	Nuclear protein involved in cell morphogenesis and cell surface growth	1
+G	Dihydroxyacetone kinase/glycerone kinase	4
+G	Glycosyl hydrolase, family 47	3
+G	1, 2-alpha-mannosidase	1
+K	RNA polymerase I transcription factor	3
+E	Acetylglutamate kinase/acetylglutamate synthase	3
+T	Muskelin	0
+J	Glutamyl-tRNA amidotransferase subunit B	2
+Y	Nuclear architecture related protein	3
+G	Pyrophosphate-dependent phosphofructo-1-kinase	12
+AB	mRNA splicing factor/probable chromatin binding snw family nuclear protein	2
+R	Uncharacterized conserved protein, contains PA domain	4
+YU	Nuclear pore complex component (sc Seh1)	2
+G	Glucose-6-phosphate isomerase	6
+O	Oligosaccharyltransferase, delta subunit (ribophorin II)	1
+E	Dihydroxy-acid dehydratase	3
+EG	Methylmalonate semialdehyde dehydrogenase	4
+C	Aldehyde dehydrogenase	27
+F	Formyltetrahydrofolate dehydrogenase	2
+C	Betaine aldehyde dehydrogenase	1
+E	Delta-1-pyrroline-5-carboxylate dehydrogenase	1
+L	A/G-specific adenine DNA glycosylase	2
+R	Endoplasmic reticulum protein EP58, contains filamin rod domain and KDEL motif	7
+MO	GPI transamidase complex, GPI17/PIG-S component, involved in glycosylphosphatidylinositol anchor biosynthesis	2
+U	Signal recognition particle, subunit Srp68	2
+K	Transcription factor BLIMP-1/PRDI-BF1, contains C2H2-type Zn-finger and SET domains	0
+K	C2H2-type Zn-finger protein	0
+O	Predicted RNA-binding protein Nob1p involved in 26S proteasome assembly	1
+D	Serine/threonine kinase (haspin family)	1
+FH	Uridine permease/thiamine transporter/allantoin transport	2
+E	Glycine/serine hydroxymethyltransferase	12
+I	Dolichol kinase	1
+F	IMP-GMP specific 5'-nucleotidase	2
+F	Similar to IMP-GMP specific 5'-nucleotidase	1
+J	Phenylalanyl-tRNA synthetase beta subunit	1
+K	RNA polymerase III transcription factor (TF)IIIC subunit	2
+P	Zinc transporter and related ZIP domain-containing proteins	3
+L	CDC45 (cell division cycle 45)-like protein	1
+K	Putative RNA polymerase II regulator	1
+J	Translation initiation factor 3, subunit d (eIF-3d)	3
+I	3-hydroxy-3-methylglutaryl-CoA (HMG-CoA) reductase	2
+A	Protein required for normal rRNA processing	3
+K	Predicted C2H2-type Zn-finger protein	0
+K	Upstream transcription factor 2/L-myc-2 protein	0
+R	GTPase	4
+R	Conserved ATP/GTP binding protein	2
+KL	RNA polymerase II transcription initiation/nucleotide excision repair factor TFIIH, subunit TFB4	2
+R	Acetyltransferase (GNAT) domain-containing protein	1
+R	Transmembrane protein	1
+Y	Nuclear matrix protein	2
+T	CDK5 activator-binding protein	5
+P	Na+/Pi symporter	1
+K	C3H1-type Zn-finger protein	1
+C	NADH-dehydrogenase (ubiquinone)	9
+DKL	Cdk activating kinase (CAK)/RNA polymerase II transcription initiation/nucleotide excision repair factor TFIIH/TFIIK, cyclin H subunit	1
+T	IK cytokine down-regulator of HLA class II	1
+G	Beta-N-acetylhexosaminidase	4
+R	Thioredoxin, nucleoredoxin and related proteins	1
+R	Tub family proteins	8
+R	Tubby superfamily protein TULP4	0
+G	Monocarboxylate transporter	3
+J	SpoU rRNA Methylase family protein	2
+R	Ubiquitin regulatory protein UBXD2, contains UAS and UBX domains	2
+I	Predicted phospholipase	2
+J	Seryl-tRNA synthetase	3
+B	SWI-SNF chromatin-remodeling complex protein	1
+H	Nicotinic acid phosphoribosyltransferase	4
+O	Beta-tubulin folding cofactor C	1
+D	Protein required for meiotic chromosome segregation	3
+MU	Mannosyltransferase	1
+MU	Protein involved in dolichol pathway for N-glycosylation (mannosyltransferase family)	1
+G	Ribulose kinase and related carbohydrate kinases	6
+L	5'-3' exonuclease	7
+J	Filamentous baseplate protein Ligatin, contains PUA domain	1
+J	Predicted RNA-binding protein with PUA domain	2
+H	Cobyrinic acid a,c-diamide synthase	2
+H	Folylpolyglutamate synthase	8
+E	Predicted aminopeptidases - M20/M25/M40 family	1
+U	Sorting nexin SNX11	0
+U	Sorting nexin SNX9/SH3PX1 and related proteins	0
+J	Pseudouridine synthase	6
+Z	Members of tubulin/FtsZ family	1
+G	Sugar (pentulose and hexulose) kinases	2
+L	DNA polymerase IV (family X)	1
+BK	RNA polymerase II elongator complex, subunit ELP3/histone acetyltransferase	2
+C	MAM33, mitochondrial matrix glycoprotein	6
+L	Origin recognition complex, subunit 3	1
+J	Mitochondrial/chloroplast ribosome small subunit component	2
+O	Cytochrome oxidase assembly factor COX11	1
+IO	Palmitoyl protein thioesterase	1
+S	Uncharacterized conserved protein (YdiU family)	3
+L	Origin recognition complex, subunit 5	1
+H	Dihydropteroate synthase/7,8-dihydro-6-hydroxymethylpterin-pyrophosphokinase/Dihydroneopterin aldolase	2
+S	Conserved membrane protein	1
+TZ	Abl interactor ABI-1, contains SH3 domain	1
+IM	Ceramide glucosyltransferase	1
+A	SWAP mRNA splicing regulator	1
+K	Transcription initiation factor TFIID, subunit TAF6 (also component of histone acetyltransferase SAGA)	3
+F	IMP dehydrogenase/GMP reductase	7
+E	Phospholipase/carboxyhydrolase	3
+R	Major facilitator superfamily permease - Cdc91p	2
+J	Pseudouridylate synthase	5
+F	AICAR transformylase/IMP cyclohydrolase/methylglyoxal synthase	4
+MV	Leishmanolysin-like peptidase (Peptidase M8 family)	1
+S	Uncharacterized conserved protein, contains TLDc domain	1
+K	Negative regulator of histones	1
+J	Predicted pseudouridine synthase	0
+A	RNA splicing factor - Slu7p	2
+OT	Adaptor protein NUB1, contains UBA domain	1
+A	Protein phosphatase 2 regulatory subunit	3
+R	Permease of the major facilitator superfamily	4
+R	Predicted acetyltransferases and hydrolases with the alpha/beta hydrolase fold	2
+R	Predicted hydrolases or acyltransferases (alpha/beta hydrolase superfamily)	3
+G	Beta-glucocerebrosidase	2
+T	G protein-coupled seven transmembrane receptor	3
+BK	SWI/SNF transcription activation complex subunit	2
+M	Chitin synthase/hyaluronan synthase (glycosyltransferases)	5
+AJ	Ribosome biogenesis protein - Nop58p/Nop5p	5
+AJ	Ribosome biogenesis protein - Nop56p/Sik1p	5
+A	mRNA splicing factor PRP31	2
+GE	Glucosyltransferase - Alg6p	1
+K	Glucosyltransferase - Alg8p	2
+K	Transcription factor E2F/dimerization partner (TDP)	2
+K	Transcription factor E2F/dimerization partner (TDP)-like proteins	1
+R	Ficolin and related extracellular proteins	0
+U	Mitochondrial import inner membrane translocase, subunit TIM44	4
+O	26S proteasome regulatory complex, subunit RPN3/PSMD3	3
+OT	COP9 signalosome, subunit CSN3	1
+C	Ubiquinol cytochrome c reductase, subunit QCR2	3
+F	Dihydroorotase and related enzymes	3
+H	Pyridoxamine-phosphate oxidase	1
+K	RNA polymerase III (C) subunit	1
+K	Predicted DNA-binding protein	1
+B	Histone tail methylase	1
+OJ	RNA-binding protein LARP/SRO9 and related La domain proteins	6
+T	c-Mpl binding protein, contains La domain	0
+S	Tumor differentially expressed (TDE) protein	2
+K	Transcription initiation factor IIE, alpha subunit	1
+T	Predicted GTPase activator protein	0
+E	Aminopeptidase I zinc metalloprotease (M18)	3
+R	Predicted aminopeptidase of the M17 family	6
+HK	Phosphomethylpyrimidine kinase	1
+H	Pyridoxal/pyridoxine/pyridoxamine kinase	1
+A	U3 small nucleolar ribonucleoprotein (snoRNP) subunit - Mpp10p	2
+P	Iron transporter	3
+R	Predicted cell surface protein homologous to bacterial outer membrane proteins	3
+O	Oligosaccharyltransferase, gamma subunit	2
+U	Subunit of cis-Golgi transport vesicle tethering complex - Sec34p	1
+TO	OTU (ovarian tumor)-like cysteine protease	7
+OU	Endoplasmic reticulum membrane-associated oxidoreductin involved in disulfide bond formation	1
+DA	Cyclin D-interacting protein GCIP	1
+S	Neurochondrin/leucine-rich protein (Neurochondrin)	1
+J	NMD protein affecting ribosome stability and mRNA decay	4
+CR	Kynurenine 3-monooxygenase and related flavoprotein monooxygenases	8
+E	Pyridoxalphosphate-dependent enzyme/predicted threonine synthase	2
+C	Citrate synthase	9
+GE	Fucosyltransferase	4
+C	Prohibitins and stomatins of the PID superfamily	10
+V	Putative myrosinase precursor	2
+J	Tyrosyl-tRNA synthetase	3
+I	Triglyceride lipase-cholesterol esterase	6
+BK	Histone H3 (Lys4) methyltransferase complex, subunit CPS60/ASH2/BRE2	2
+R	Nuclear protein ES2	1
+O	Farnesyl cysteine-carboxyl methyltransferase	3
+MOU	Peroxisomal membrane anchor protein (peroxin)	3
+E	Enolase-phosphatase E-1	3
+G	Class II aldolase/adducin N-terminal domain protein	2
+S	Rhomboid family proteins	3
+BK	Hismacro and SEC14 domain-containing proteins	4
+A	Initiator tRNA phosphoribosyl-transferase	1
+U	Medium subunit of clathrin adaptor complex	2
+A	Splicing factor 3a, subunit 3	2
+G	UDP-glucose pyrophosphorylase	4
+P	Sodium sulfate symporter and related arsenite permeases	2
+S	Thioredoxin	3
+T	Predicted seven transmembrane receptor - rhodopsin family	7
+OKIT	Alpha-1,2 glucosyltransferase/transcriptional activator	2
+P	Ca2+ binding protein, contains EF-hand motifs	1
+EH	3'-phosphoadenosine 5'-phosphosulfate sulfotransferase (PAPS reductase)/FAD synthetase and related enzymes	3
+R	Type I phosphodiesterase/nucleotide pyrophosphatase	3
+J	Ribosomal protein S5	3
+R	Predicted Dolichyl-phosphate-mannose-protein mannosyltransferase	1
+J	Diphthamide biosynthesis protein	2
+R	Zinc carboxypeptidase	1
+S	Zinc carboxypeptidase	5
+A	rRNA adenine N-6-methyltransferase	1
+K	RNA polymerase II transcription initiation factor TFIIA, large chain	1
+G	6-phosphogluconate dehydrogenase	4
+DZU	Septin family protein (P-loop GTPase)	3
+BK	DNA methyltransferase 1-associated protein-1	1
+TO	Transmembrane glycoprotein nicastrin	1
+C	NADH:ubiquinone oxidoreductase, NDUFV1/51kDa subunit	4
+Z	LisH motif-containing protein	3
+S	Locus-specific chromosome binding proteins	2
+O	Peptidase family M48	1
+P	Magnesium transporters: CorA family	6
+E	Acetolactate synthase, small subunit	3
+K	Small nuclear RNA activating protein complex - 50kD subunit (SNAP50)	1
+S	Predicted FAD-dependent oxidoreductase	2
+GT	UDP-glucose/GDP-mannose dehydrogenase	8
+U	COPII vesicle protein	6
+UZ	Flotillins	2
+A	Regulator of nuclear mRNA	2
+G	Enolase	7
+L	Putative RNA methylase	3
+H	Lipoate synthase	5
+S	Uncharacterized conserved protein, contains PSP domain	1
+ZU	Cysteine protease required for autophagy - Apg4p/Aut2p	1
+ZT	Adenylate cyclase-associated protein (CAP/Srv2p)	1
+U	Stoned B synaptic vesicle biogenesis protein	0
+O	Purple (tartrate-resistant) acid phosphatase	4
+K	DNA helicase TIP49, TBP-interacting protein	5
+S	Metal-dependent phosphohydrolase	2
+BK	NAD-dependent histone deacetylases and class I sirtuins (SIR2 family)	0
+BK	Sirtuin 4 and related class II sirtuins (SIR2 family)	1
+BK	Sirtuin 5 and related class III sirtuins (SIR2 family)	1
+Z	Cystoskeletal protein Tektin	0
+M	Choline kinase	3
+D	Spindle pole body protein, contains UNC-84 domain	2
+D	Transcription-associated recombination protein - Thp1p	2
+O	Predicted ubiquitin regulatory protein	3
+S	Uncharacterized conserved protein, contains BSD domain	2
+K	RNA polymerase II subunit 9	1
+G	Sialyltransferase	3
+P	Putative zinc transporter	2
+B	Histone acetyltransferase type b catalytic subunit	1
+E	Histidinol dehydrogenase	3
+H	GTP cyclohydrolase I	2
+F	Adenylosuccinate lyase	5
+FH	Predicted panthothenate kinase/uridine kinase-related protein	1
+R	C4-type Zn-finger protein	4
+O	Predicted metalloprotease with chaperone activity (RNAse H/HSP70 fold)	3
+TZ	Rho GTPase-activating protein	0
+C	Glycerol-3-phosphate dehydrogenase/dihydroxyacetone 3-phosphate reductase	3
+J	Mitochondrial tryptophanyl-tRNA synthetase	5
+R	SETA binding protein SB1 and related proteins, contain BTB/POZ domain	4
+R	Uncharacterized conserved protein, contains BTB/POZ domain	0
+P	Polymerase delta-interacting protein PDIP1 and related proteins, contain BTB/POZ domain	0
+R	Uncharacterized conserved protein with similarity to embryogenesis protein H beta 58 and VPS26	1
+P	Na+-bile acid cotransporter	4
+R	Metalloprotease	1
+U	Nuclear pore complex component NPAP60L/NUP50	1
+O	Cytochrome oxidase assembly factor COX15	3
+J	Mitochondrial polypeptide chain release factor	9
+U	Rab3 GTPase-activating protein, non-catalytic subunit	1
+R	Uncharacterized conserved protein with similarity to phosphopantothenoylcysteine synthetase/decarboxylase	1
+OUT	ER vesicle integral membrane protein involved in establishing cell polarity, signaling and protein degradation	2
+R	Methylase	2
+A	DNA alkylation damage repair protein	4
+L	DNA polymerase delta, regulatory subunit 55	1
+I	Phosphatidylserine synthase	1
+T	Presenilin	2
+R	Putative metallopeptidase	3
+O	Putative methionine aminopeptidase	6
+DR	Leucine-rich acidic nuclear protein	2
+U	Clathrin-associated protein medium chain	1
+GQ	Dimeric dihydrodiol dehydrogenase	5
+R	Predicted oxidoreductase	4
+H	Cobalamin synthesis protein	3
+K	DNA-binding proteins Bright/BRCAA1/RBP1 and related proteins containing BRIGHT domain	5
+R	Mitochondrial carrier protein	0
+K	HMG-box transcription factor Capicua and related proteins	0
+B	Histone acetyltransferase (MYST family)	2
+B	Uncharacterized conserved protein, contains chromo domain	0
+A	mRNA cleavage and polyadenylation factor IA/II complex, subunit CLP1	1
+R	Uncharacterized conserved protein similar to ATP/GTP-binding protein	1
+T	Beclin-like protein	1
+R	Uncharacterized conserved protein, contains N-recognin-type Zn-finger	1
+R	Uncharacterized conserved protein, contains PCI domain	2
+O	Oligosaccharyltransferase, beta subunit	2
+R	Oxidoreductase	0
+T	Predicted Mg2+-dependent phosphodiesterase TTRAP	1
+G	Mannose-6-phosphate isomerase	2
+J	Translation initiation factor 3, subunit e (eIF-3e)	4
+C	Vacuolar H+-ATPase V1 sector, subunit H	2
+U	Vacuolar sorting protein VPS36	1
+I	START domain-containing proteins involved in steroidogenesis/phosphatidylcholine transfer	4
+G	Mannosyltransferase	2
+I	Acyl-CoA thioesterase	5
+RV	Putative transcriptional regulator DJ-1	3
+J	Translation initiation factor 5 (eIF-5)	3
+J	Translation initiation factor 2, beta subunit (eIF-2beta)	2
+A	Putative u4/u6 small nuclear ribonucleoprotein	1
+E	Aminomethyl transferase	5
+A	Subunit of tRNA-specific adenosine-34 deaminase	1
+G	Transaldolase	4
+KU	Apoptosis antagonizing transcription factor/protein transport protein	1
+R	NAD dependent epimerase	1
+R	Metallopeptidase	7
+A	tRNA-specific adenosine deaminase 1	3
+I	N-myristoyl transferase	1
+A	Ribosome biogenesis protein RPF1, contains IMP4 domain	1
+A	U3 small nucleolar ribonucleoprotein (snoRNP) component	5
+R	Putative SAM dependent methyltransferases	2
+J	Phenylalanyl-tRNA synthetase	2
+J	Phenylalanyl-tRNA synthetase, beta subunit	4
+R	C2H2-type Zn-finger protein	1
+E	Putative glutamate/ornithine acetyltransferase	2
+V	Lanthionine synthetase C-like protein 1	3
+G	Glycosyltransferase	2
+HE	Phosphoserine aminotransferase	4
+G	N-acetylglucosaminyltransferase	1
+C	Putative cytochrome C oxidase assembly protein	3
+A	Putative N2,N2-dimethylguanosine tRNA methyltransferase	5
+H	Delta-aminolevulinic acid dehydratase	2
+L	Catalytic subunit of the meiotic double strand break transesterase	3
+E	Prephenate dehydratase	6
+G	Putative trehalase	1
+C	Succinyl-CoA synthetase, beta subunit	3
+R	Conserved developmentally regulated protein	1
+U	Probable Rab-GAPs	0
+R	Membrane protein HUEL (cation efflux superfamily)	2
+I	Choline phosphate cytidylyltransferase/Predicted CDP-ethanolamine synthase	2
+I	Phosphorylcholine transferase/cholinephosphate cytidylyltransferase	3
+J	tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase	2
+G	Chitinase	4
+KL	RNA polymerase II transcription initiation/nucleotide excision repair factor TFIIH, subunit SSL1	1
+A	U5 snRNP-associated RNA splicing factor	1
+AD	Telomerase elongation inhibitor/RNA maturation protein PINX1	1
+DL	Checkpoint 9-1-1 complex, RAD9 component	1
+O	Predicted molecular chaperone, contains DnaJ domain	1
+K	Transcription coactivator complex, P50 component (LigT RNA ligase/phosphodiesterase family)	2
+J	Mitochondrial/choloroplast ribosomal protein S15	2
+R	Predicted transporter ADD1 (major facilitator superfamily)	6
+I	Predicted undecaprenyl diphosphate synthase	1
+R	FAD-dependent oxidoreductase	2
+K	RNA polymerase II transcription elongation factor Elongin/SIII, subunit elongin A	1
+I	Sphingoid base-phosphate phosphatase	2
+R	Cellular protein (glioma tumor suppressor candidate region gene 2)	3
+P	Putative arsenite-translocating ATPase	3
+Z	Actin-related protein Arp2/3 complex, subunit ARPC2	4
+C	Acetyl-CoA hydrolase	3
+K	E2F-like protein	3
+T	Protein phosphatase 2A-associated protein	2
+E	ATP phosphoribosyltransferase	2
+I	Mevalonate pyrophosphate decarboxylase	2
+YU	Nuclear pore complex, rNpl4 component (sc Npl4)	1
+F	Phosphoribosylamidoimidazole-succinocarboxamide synthase	4
+T	Protein tyrosine phosphatase IVA1	0
+A	Protein containing a U1-type Zn-finger and implicated in RNA splicing or processing	2
+T	Diadenosine and diphosphoinositol polyphosphate phosphohydrolase	5
+R	Uncharacterized conserved protein with similarity to predicted ATPase of the PP-loop superfamily	2
+L	Structure-specific endonuclease ERCC1-XPF, ERCC1 component	1
+Z	Interferon-related protein PC4 like	1
+G	Fumarylacetoacetase	2
+E	Dimethylglycine dehydrogenase precursor	1
+K	Activating signal cointegrator 1	2
+I	Phosphate acyltransferase	2
+I	1-acyl-sn-glycerol-3-phosphate acyltransferase	1
+R	Placental protein 11	2
+R	Predicted peptidoglycan-binding protein, contains LysM domain	2
+L	Eukaryotic-type DNA primase, catalytic (small) subunit	1
+R	Possible oxidoreductase	2
+G	Possible pfkB family carbohydrate kinase	4
+G	Ribokinase	13
+TUZ	Adaptor protein PACSIN	0
+K	Predicted MYND Zn-finger protein/hormone receptor interactor	1
+L	DNA repair protein, member of the recA/RAD51 family	1
+T	Uncharacterized conserved protein, contains TraB domain	2
+R	Alanine-glyoxylate aminotransferase AGT1	2
+A	RNA lariat debranching enzyme	1
+D	Nuclear division RFT1 protein	1
+C	NADH:ubiquinone oxidoreductase, NDUFA9/39kDa subunit	2
+DT	Phosphotyrosyl phosphatase activator	1
+KA	Decapping enzyme complex component DCP1	2
+J	Meiotic cell division protein Pelota/DOM34	1
+C	NADH:ubiquinone oxidoreductase, NDUFS2/49 kDa subunit	4
+H	Uroporphyrinogen decarboxylase	5
+C	Ubiquinol cytochrome c reductase assembly protein CBP3	1
+JD	rRNA processing protein	1
+L	8-oxoguanine DNA glycosylase	2
+H	Molybdenum cofactor biosynthesis pathway protein	4
+I	sn-1,2-diacylglycerol ethanolamine- and cholinephosphotranferases	3
+R	Predicted kinase	4
+T	SMAD6 interacting protein AMSH, contains JAB/MPN/Mov34 domain	2
+P	p-Nitrophenyl phosphatase	4
+S	NIPSNAP1 protein	1
+O	26S proteasome regulatory complex, subunit RPN10/PSMD4	2
+U	Membrane protein involved in ER to Golgi transport	4
+R	Putative RNA binding protein	1
+S	Predicted PRP38-like splicing factor	1
+R	Surface glycoprotein	1
+H	Porphobilinogen deaminase	2
+R	Zn finger protein	11
+S	Uncharacterized conserved protein XAP-5	2
+R	UV radiation resistance associated protein	1
+R	DNA-binding protein YL1 and related proteins	1
+I	Predicted phosphate acyltransferase, contains PlsC domain	3
+H	Biotin synthase	3
+F	Dihydroorotase	1
+O	Predicted glutathione S-transferase	2
+K	Transcription initiation factor IIF, small subunit (RAP30)	1
+K	RNA polymerase III subunit C11	2
+K	RNA polymerase I transcription factor TFIIS, subunit A12.2/RPA12	2
+O	26S proteasome regulatory complex, subunit RPN9/PSMD13	3
+C	Vacuolar H+-ATPase V1 sector, subunit C	2
+R	Uncharacterized conserved protein predicted to be involved in protein sorting	2
+S	Predicted DNA methylase	3
+R	Predicted haloacid-halidohydrolase and related hydrolases	9
+J	tRNA(1-methyladenosine) methyltransferase, subunit GCD14	1
+J	Translation initiation factor 2, alpha subunit (eIF-2alpha)	3
+J	Predicted exosome subunit	1
+O	Carboxymethyl transferase	1
+R	Guanine nucleotide-binding protein	2
+O	Intramembrane metalloprotease (sterol-regulatory element-binding protein (SREBP) protease)	1
+O	Deoxyhypusine synthase	1
+J	Predicted translation initiation factor related to eIF-1A	1
+I	Malonyl-CoA:ACP transacylase	3
+U	Membrane component of ER protein translocation complex	1
+L	Origin recognition complex, subunit 2	1
+K	Transcription factor, component of CCR4 transcriptional complex	3
+O	SCF ubiquitin ligase, Rbx1 component	3
+S	Differentiation-related gene 1 protein (NDR1 protein), related proteins	2
+O	E3 ubiquitin ligase involved in ubiquitination of E-cadherin complex	1
+R	Uncharacterized conserved protein, contains Josephin domain	2
+R	Ataxin 3/Josephin	1
+A	Decapping enzyme complex, predicted pyrophosphatase DCP2	1
+F	Predicted inosine-uridine preferring nucleoside hydrolase	5
+O	Beta-1,4-mannosyltransferase	1
+G	Predicted glyoxalase	2
+G	Glyoxalase	2
+G	Carbohydrate kinase	1
+R	Predicted metal-binding protein	2
+H	Ketopantoate hydroxymethyltransferase	3
+R	Uncharacterized protein involved in protein-protein interaction, contains polyproline-binding GYF domain	1
+G	Inositol monophosphatase	5
+DKT	Cell cycle control protein	5
+A	mRNA-binding protein Encore	3
+R	CLIP-associating protein	1
+C	Vacuolar H+-ATPase V0 sector, subunit d	3
+C	Galactose-1-phosphate uridylyltransferase	1
+K	Transcriptional regulator	1
+R	Protein involved in thiamine biosynthesis and DNA damage tolerance	2
+R	Predicted hydrolase (HAD superfamily)	5
+R	Prohibitin-related membrane protease subunits	1
+J	RNA-binding protein required for 60S ribosomal subunit biogenesis	1
+E	Arginase family protein	4
+E	Arginase	2
+R	Predicted esterase of the alpha-beta hydrolase superfamily (Neuropathy target esterase), contains cAMP-binding domains	1
+J	RNA-binding protein required for biogenesis of the ribosomal 60S subunit	3
+J	Translation initiation factor 3, subunit f (eIF-3f)	2
+O	Protein involved in autophagy and nutrient starvation	1
+R	Glycosyltransferase	2
+R	Dolichol-phosphate mannosyltransferase	3
+R	Protein involved in DNA repair	1
+T	Integral membrane protease of the rhomboid family involved in different forms of regulated intramembrane proteolysis	1
+R	Protein involved in autophagocytosis during starvation	2
+R	Predicted hydrolase	1
+J	60S ribosomal protein L30	6
+S	C2C2-type Zn-finger protein	1
+A	Splicing regulator	1
+Y	Nucleolar GTPase/ATPase p130	3
+U	Cytoplasm to vacuole targeting protein	2
+L	Uracil DNA glycosylase	3
+S	FOG: SH3 domain	0
+T	Rho guanine nucleotide exchange factor VAV3	0
+R	F-box protein FBX9	1
+T	Regulator of Rac1, required for phagocytosis and cell migration	0
+DZ	Microtubule-binding protein involved in cell cycle control	3
+BK	Dosage compensation regulatory complex/histone acetyltransferase complex, subunit MSL-3/MRG15/EAF3, and related CHROMO domain-containing proteins	1
+O	Molecular chaperone of the GrpE family	4
+D	Meiotic chromosome segregation protein	1
+R	GIY-YIG type nuclease	2
+I	Transthyretin and related proteins	1
+E	Mu-crystallin	2
+F	Quinolinate phosphoribosyl transferase	2
+R	Predicted carbohydrate kinase, contains PfkB domain	2
+R	Methyltransferase	2
+A	Exosomal 3'-5' exoribonuclease complex, subunit Rrp4	1
+L	Protein involved in establishing cohesion between sister chromatids during DNA replication	1
+C	F1-ATP synthase assembly protein	1
+S	Defense-related protein containing SCP domain	13
+G	Malonyl-CoA decarboxylase	2
+F	Predicted nucleoside-diphosphate sugar epimerase	2
+L	TatD-related DNase	4
+D	Predicted ATPase, nucleotide-binding	6
+E	Glutamate-cysteine ligase regulatory subunit	1
+C	Mitochondrial F1F0-ATP synthase, subunit c/ATP9/proteolipid	1
+A	Splicing factor SPF30	1
+MU	Mitochondrial outer membrane protein Metaxin 2, Metaxin 1-binding protein	0
+U	Translocase of outer mitochondrial membrane complex, subunit TOM37/Metaxin 1	1
+R	Glutathione S-transferase-related protein	1
+I	Lipid phosphate phosphatase and related enzymes of the PAP2 family	4
+J	Protein required for biogenesis of the ribosomal 60S subunit	3
+R	Predicted PhzC/PhzF-type epimerase	3
+R	Isoamyl acetate-hydrolyzing esterase and related enzymes	3
+I	Isoamyl acetate-hydrolyzing esterase	4
+R	Protein involved in cell differentiation/sexual development	2
+R	Cell membrane glycoprotein	2
+R	Histone acetyltransferase SAGA associated factor SGF29	2
+R	Predicted sugar phosphatase (HAD superfamily)	0
+L	Nucleoside diphosphate-sugar hydrolase of the MutT (NUDIX) family	1
+H	Panthothenate synthetase	2
+R	Predicted hydrolase related to dienelactone hydrolase	7
+A	Predicted RNA methylase involved in rRNA processing	1
+K	Transcription factor, subunit of SRB subcomplex of RNA polymerase II	2
+K	Predicted transcriptional regulator UXT	1
+O	Molecular chaperone Prefoldin, subunit 5	1
+C	Succinate dehydrogenase, Fe-S protein subunit	5
+OT	COP9 signalosome, subunit CSN6	3
+J	RNA binding/translational regulation protein of the SUA5 family	2
+C	Cytochrome c1	3
+E	Phosphoribosylformimino-5-aminoimidazole carboxamide ribonucleotide (ProFAR) isomerase	1
+D	Protein required for S-phase initiation or completion	1
+C	Cytochrome c oxidase, subunit VIb/COX12	3
+I	N-acetylglucosaminyltransferase complex, subunit PIG-C/GPI2, required for phosphatidylinositol biosynthesis	1
+O	Proteasome maturation factor	3
+R	RNA polymerase II elongator associated protein	2
+U	Membrane coat complex Retromer, subunit VPS26	3
+A	RNA-binding nuclear protein (MAK16) containing a distinct C4 Zn-finger	2
+U	SNAP-25 (synaptosome-associated protein) component of SNARE complex	3
+R	Translin-associated protein X	1
+R	Translin family protein	1
+L	Peroxisomal NUDIX hydrolase	2
+J	Predicted RNA-binding protein containing PIN domain and invovled in translation or RNA processing	8
+I	Fatty acyl-CoA elongase/Polyunsaturated fatty acid specific elongation enzyme	6
+I	Long chain fatty acid elongase	0
+J	Protein required for 18S rRNA maturation and 40S ribosome biogenesis	1
+K	Transcriptional regulator of the PUR family, single-stranded-DNA-binding	1
+G	Ribose 5-phosphate isomerase	5
+G	5'-phosphoribosylglycinamide formyltransferase	3
+F	Adenylate kinase	10
+F	Uridylate kinase/adenylate kinase	2
+A	Nucleolar protein-like/EBNA1-binding protein	3
+U	Vesicle coat complex COPI, epsilon subunit	1
+J	Methionyl-tRNA formyltransferase	1
+O	Prohibitin	4
+L	NADH pyrophosphatase I of the Nudix family of hydrolases	3
+R	Predicted dioxygenase	1
+U	Secretory carrier membrane protein	5
+R	Predicted DEAD-box-containing helicase	2
+O	Prohibitin-like protein	5
+YU	Nuclear pore complex, p54 component (sc Nup57)	1
+TDK	Casein kinase II, beta subunit	4
+H	5-formyltetrahydrofolate cyclo-ligase	4
+K	Transcription initiation factor IIE, beta subunit	1
+S	Spliceosome-associated coiled-coil protein	1
+F	Bisphosphate 3'-nucleotidase BPNT1/Inositol polyphosphate 1-phosphatase	0
+R	Esterase D	3
+U	Rab GTPase interacting factor, Golgi membrane protein	1
+K	Mod5 protein sorting/negative effector of RNA Pol III synthesis	1
+BD	DNA-binding centromere protein B (CENP-B)	1
+U	ER lumen protein retaining receptor	6
+R	Predicted haloacid dehalogenase-like hydrolase (eyes absent)	1
+L	Single-stranded DNA-binding replication protein A (RPA), medium (30 kD) subunit	4
+R	Haloacid dehalogenase-like hydrolase	4
+H	Riboflavin kinase	2
+G	D-ribulose-5-phosphate 3-epimerase	7
+R	Methyltransferase-like protein	2
+R	Predicted C3H1-type Zn-finger protein	1
+A	Protein involved in rRNA processing	2
+B	Disrupter of silencing SAS10	1
+K	Basic region leucine zipper transcription factor	0
+R	Predicted haloacid dehalogenase-like hydrolase	3
+Z	Dynactin, subunit p25	1
+K	DNA-directed RNA polymerase III subunit	1
+J	Diphthine synthase	2
+E	Pyrroline-5-carboxylate reductase	2
+F	Thymidine kinase	1
+P	Porin/voltage-dependent anion-selective channel protein	7
+F	Deoxycytidylate deaminase	2
+O	26S proteasome regulatory complex, subunit PSMD9	1
+A	m3G-cap-specific nuclear import receptor (Snurportin1)	1
+U	40 kDa farnesylated protein associated with peroxisomes	3
+R	1,4-benzoquinone reductase-like; Trp repressor binding protein-like/protoplast-secreted protein	5
+J	Peptide deformylase	2
+R	Predicted N-acetyltransferase	3
+R	N-acetyltransferase	4
+J	Mitochondrial/chloroplast ribosomal protein L3	4
+U	Prenylated rab acceptor 1	9
+E	Imidazoleglycerol-phosphate dehydratase	2
+MO	Ethanolamine-P-transferase GPI11/PIG-F, involved in glycosylphosphatidylinositol anchor biosynthesis	1
+E	Cystine transporter Cystinosin	1
+I	Dolichyl pyrophosphate phosphatase and related acid phosphatases	3
+G	6-phosphogluconolactonase - like protein	5
+G	Glucosamine-6-phosphate isomerase	2
+K	Transcription initiation factor IIF, auxiliary subunit	1
+O	26S proteasome regulatory complex, subunit RPN12/PSMD8	3
+K	TBP-binding protein, activator of basal transcription (contains rrm motif)	2
+H	Thiamine pyrophosphokinase	2
+Z	Actin-related protein Arp2/3 complex, subunit ARPC3	1
+R	Proline synthetase co-transcribed protein	2
+O	HSP90 co-chaperone p23	4
+H	Lipoate-protein ligase A	1
+O	Gamma-interferon inducible lysosomal thiol reductase	2
+J	Mitochondrial/chloroplast ribosomal protein S18	3
+R	Uncharacterized conserved protein related to ribosomal protein S8E	4
+R	Uncharacterized proteins of PilT N-term./Vapc superfamily	3
+R	Predicted nucleic-acid-binding protein, contains PIN domain	1
+J	60S ribosomal protein L7A	6
+A	Box H/ACA snoRNP component, involved in ribosomal RNA pseudouridinylation	4
+K	U1 snRNP component	4
+K	RNA polymerase II transcriptional regulation mediator	1
+T	Conserved phosducin-like protein	1
+A	Small nuclear ribonucleoprotein Sm D3	2
+R	Predicted Zn-finger protein	9
+Z	F-actin capping protein, beta subunit	2
+R	Protein phosphatase 4 regulatory subunit 2 related protein	1
+L	Predicted alpha-helical protein, potentially involved in replication/repair	2
+I	Oligoketide cyclase/lipid transport protein	2
+R	Hydroxyindole-O-methyltransferase and related SAM-dependent methyltransferases	10
+F	Predicted glutamine synthetase	2
+C	Electron transfer flavoprotein, beta subunit	2
+J	40S ribosomal protein S3	6
+P	Predicted cation transporter	4
+J	60S ribosomal protein L7	9
+J	Translation initiation factor 6 (eIF-6)	4
+D	Mitotic spindle checkpoint protein	1
+R	Protein tyrosine phosphatase-like protein PTPLA (contains Pro instead of catalytic Arg)	3
+I	Phosphomannomutase	2
+J	Predicted N6-DNA-methyltransferase	1
+O	Mitochondrial J-type chaperone	1
+P	K+ channel subunit	0
+DL	Checkpoint 9-1-1 complex, RAD1 component	0
+R	Uncharacterized membrane protein NPD008/CGI-148	1
+C	NADH:ubiquinone oxidoreductase, NDUFV2/24 kD subunit	2
+R	Predicted hydrolases of HD superfamily	2
+U	Signal recognition particle, subunit Srp19	1
+H	Nicotinamide mononucleotide adenylyl transferase	3
+U	SNARE protein TLG1/Syntaxin 6	3
+J	Mitochondrial/chloroplast ribosomal protein L13	2
+J	60S ribosomal protein L13a	5
+T	Rho GDP-dissociation inhibitor	2
+O	Alpha-tubulin folding cofactor B	1
+O	Beta-tubulin folding cofactor E	0
+U	SNARE protein GS28	2
+R	WW domain-containing protein	0
+H	Imidazoleglycerol-phosphate synthase subunit H-like	1
+R	Predicted endoplasmic reticulum membrane protein Lec35/MPDU1 involved in monosaccharide-P-dolichol utilization	1
+S	Uncharacterized conserved protein related to IojAP	1
+K	Transcription factor IIB	1
+S	Uncharacterized Zn ribbon-containing protein	3
+E	Diamine acetyltransferase	1
+K	RNA polymerase, 25-kDa subunit (common to polymerases I, II and III)	2
+K	Transcription initiation factor TFIID, subunit TAF11	1
+H	Similar to bacterial dephospho-CoA kinase	2
+G	Glycolipid transfer protein	2
+F	Inosine triphosphate pyrophosphatase	2
+U	Mitochondrial import inner membrane translocase, subunit TIM22	3
+L	DNA repair protein	1
+K	Calcium-responsive transcription coactivator	3
+U	Vacuolar sorting protein VPS24	1
+U	Vacuolar assembly/sorting protein DID4	3
+U	Predicted assembly/vacuolar sorting protein	0
+U	Vacuolar assembly/sorting protein DID2	3
+K	RNA polymerase III, subunit C34	1
+R	Acetyltransferase, (GNAT) family	1
+R	Subunit of the major N alpha-acetyltransferase	2
+P	Chloride ion current inducer protein	1
+R	Density-regulated protein related to translation initiation factor 1 (eIF-1/SUI1)	1
+I	Phosphatidylinositol synthase	2
+A	Oligoribonuclease (3'->5' exoribonuclease)	2
+H	6,7-dimethyl-8-ribityllumazine synthase	1
+H	Protein involved in ubiquinone biosynthesis	1
+R	Sentrin-specific cysteine protease (Ulp1 family)	1
+K	Transcription factor TCF-4	0
+OT	COP9 signalosome, subunit CSN7	1
+U	Golgi SNAP receptor complex member	2
+J	Mitochondrial/chloroplast ribosomal protein L6	2
+J	60S ribosomal protein L9	4
+C	NADH:ubiquinone oxidoreductase, NDUFS8/23 kDa subunit	6
+J	Mitochondrial/chloroplast ribosomal protein L11	3
+O	Parvulin-like peptidyl-prolyl cis-trans isomerase	2
+T	Calcyclin-binding protein CacyBP	1
+J	H/ACA small nucleolar RNP component GAR1	4
+R	Nucleic acid binding protein	2
+KB	Histone chaperone involved in gene silencing	4
+E	Predicted glycine cleavage system H protein	1
+J	Translation initiation factor 5A (eIF-5A)	5
+R	Predicted coiled-coil protein	4
+O	Predicted RNA-binding protein Pno1p interacting with Nob1p and involved in 26S proteasome assembly	1
+S	Uncharacterized conserved protein, AMMECR1	2
+T	Zinc-binding protein of the histidine triad (HIT) family	5
+S	Uncharacterized conserved protein, contains YggU domain	2
+J	Mitochondrial/chloroplast ribosomal protein L28	2
+S	Uncharacterized conserved protein (melanoma antigen P15)	0
+J	Mitochondrial/chloroplast ribosomal protein L17	4
+O	Mitochondrial F1-ATPase assembly protein	2
+J	40S ribosomal protein S8	5
+U	Vacuolar sorting protein VPS28	2
+DZ	Spindle assembly checkpoint protein	1
+R	Selenoprotein T	1
+U	Membrane trafficking protein, emp24/gp25L/p24 family	0
+TO	OTU-like cysteine protease	1
+R	Uncharacterized conserved protein encoded by sequence overlapping the COX4 gene	1
+I	Peroxisomal phytanoyl-CoA hydroxylase	2
+J	Ribosomal protein S7	5
+A	Small nuclear ribonucleoprotein (snRNP)	1
+T	WW domain binding protein WBP-2, contains GRAM domain	1
+J	60S Ribosomal protein L13	6
+U	Translocase of outer mitochondrial membrane complex, subunit TOM40	2
+K	DNA-directed RNA polymerase subunit E'	4
+CD	NADH:ubiquinone oxidoreductase, B16.6 subunit/cell death-regulatory protein	1
+J	Ribosomal protein S4	5
+K	TATA-box binding protein (TBP), component of TFIID and TFIIIB	5
+R	Surfeit family protein 5	1
+H	Molybdopterin converting factor subunit 2	2
+F	Uncharacterized protein of the uridine kinase family	0
+C	Ferredoxin	6
+H	Riboflavin synthase alpha chain	2
+J	Ribosomal protein S18	8
+O	Molecular chaperone Prefoldin, subunit 3	1
+L	Ku70-binding protein	1
+U	Transport protein particle (TRAPP) complex subunit	6
+U	Translocon-associated complex TRAP, beta subunit	1
+J	40S ribosomal protein S7	4
+J	Mitochondrial ribosomal protein S10	0
+A	Ribonucleases P/MRP protein subunit	2
+J	D-Tyr-tRNA (Tyr) deacylase	1
+U	Mitochondrial import inner membrane translocase, subunit TIM23	4
+U	Membrane coat complex Retromer, subunit VPS29/PEP11	1
+F	Thymidylate kinase/adenylate kinase	2
+R	HGG motif-containing thioesterase	4
+T	RAN guanine nucleotide release factor	1
+J	Mitochondrial/chloroplast ribosomal protein L4/L29	1
+M	N-acetylglucosaminyl phosphatidylinositol de-N-acetylase	2
+J	Mitochondrial/chloroplast ribosomal protein L18	0
+K	Transcription initiation factor TFIID, subunit TAF9 (also component of histone acetyltransferase SAGA)	2
+U	Predicted member of the intramitochondrial sorting protein family	1
+U	Protein similar to predicted member of the intramitochondrial sorting protein family	1
+P	Divalent cation tolerance-related protein	1
+R	Predicted glycosyltransferase	3
+G	Alpha-L-fucosidase	1
+K	RNA polymerase II transcription factor complex subunit	1
+U	Signal peptidase I	1
+U	Vesicle coat complex COPI, zeta subunit	4
+J	40s ribosomal protein s10	6
+R	Phosphatidylethanolamine binding protein	6
+F	Predicted nucleotide kinase/nuclear protein involved oxidative stress response	2
+T	BolA (bacterial stress-induced morphogen)-related protein	2
+R	Predicted nucleotidyltransferase	1
+C	Cytochrome c oxidase, subunit Vb/COX4	3
+J	60S ribosomal protein L22	10
+G	Gluconate kinase	2
+O	Mitochondrial sulfhydryl oxidase involved in the biogenesis of cytosolic Fe/S proteins	1
+R	Uncharacterized secreted protein SDF2 (Stromal cell-derived factor 2), contains MIR domains	2
+O	Dolichyl-phosphate-mannose:protein O-mannosyl transferase	2
+C	Acylphosphatase	1
+C	Iron binding protein involved in Fe-S cluster formation	2
+R	Predicted BBOX Zn-finger protein	1
+S	Uncharacterized conserved nuclear protein	2
+M	Membrane protein involved in organellar division	2
+C	NADH:ubiquinone oxidoreductase, NDUFA5/B13 subunit	2
+C	Mitochondrial F1F0-ATP synthase, subunit d/ATP7	2
+F	Hypoxanthine-guanine phosphoribosyltransferase	1
+F	dUTPase	2
+U	Signal peptidase complex subunit	3
+E	Glycine cleavage system H protein (lipoate-binding)	4
+K	Cellular repressor of transcription	1
+R	Phosphoprotein/predicted coiled-coil protein	2
+C	Globins and related hemoproteins	4
+FR	Diadenosine polyphosphate hydrolase and related proteins of the histidine triad (HIT) family	2
+Z	Actin-related protein Arp2/3 complex, subunit ARPC5	2
+C	NADH:ubiquinone oxidoreductase, B17.2 subunit	1
+R	Selenoprotein	1
+P	Copper transporter	5
+AJ	60S ribosomal protein 15.5kD/SNU13, NHP2/L7A family (includes ribonuclease P subunit p38), involved in splicing	6
+L	Predicted transcription regulator/nuclease, contains ParB domain	1
+C	NADH:ubiquinone oxidoreductase, NDUFS4/18 kDa subunit	3
+K	General control of amino-acid synthesis 5-like 1	1
+K	Transcriptional co-repressor component	2
+A	Exon-exon junction complex, Magoh component	2
+R	Protein OS-9	1
+M	Glucosamine-phosphate N-acetyltransferase	1
+R	Acetyltransferases	0
+K	Transcription factor MBF1	5
+R	Predicted Yippee-type zinc-binding protein	6
+K	RNA polymerase subunit 8	2
+J	60S ribosomal protein L26	5
+J	Translation initiation factor 1A (eIF-1A)	3
+K	G10 protein/predicted nuclear transcription regulator	1
+K	RNA polymerase subunit K	2
+J	40S ribosomal protein S12	3
+A	U1-like Zn-finger-containing protein, probabl erole in RNA processing/splicing	1
+J	Exosomal 3'-5' exoribonuclease complex, subunit ski4 (Csl4)	1
+S	Conserved alpha-helical protein	1
+J	40S ribosomal protein S19	7
+J	60S ribosomal protein L28	4
+P	Mitochondrial matrix protein frataxin, involved in Fe/S protein biosynthesis	1
+AD	Component of the U4/U6.U5 snRNP/mitosis protein DIM1	3
+U	Putative Rab5-interacting protein	1
+R	Predicted nucleic acid binding protein	1
+T	Ras1 guanine nucleotide exchange factor	1
+J	60S ribosomal protein L27	6
+J	Mitochondrial/chloroplast ribosomal protein S16	2
+J	Predicted RNA methylase	2
+J	60S ribosomal protein L14	5
+J	Mitochondrial ribosomal protein L16	1
+K	Transcription initiation factor TFIID, subunit TAF10 (also component of histone acetyltransferase SAGA)	1
+J	40S ribosomal protein S24	3
+C	NADH:ubiquinone oxidoreductase, NDUFA6/B14 subunit	2
+K	Polyglutamine tract-binding protein PQBP-1	2
+A	Small nuclear ribonucleoprotein SMD1 and related snRNPs	2
+J	Predicted peptidyl-tRNA hydrolase	2
+Z	Dynein light chain type 1	6
+D	Apoptosis-related protein/predicted DNA-binding protein	1
+C	Vacuolar H+-ATPase V1 sector, subunit F	1
+DR	Protein involved in meiotic recombination/predicted coiled-coil protein	2
+J	Mitochondrial/chloroplast ribosomal protein L54/L37	1
+J	60S ribosomal protein L35	4
+DO	Anaphase-promoting complex (APC), subunit 10	2
+K	DNA-directed RNA polymerase, subunit L	1
+O	Protein conjugation factor involved in autophagy	2
+C	Ubiquinol cytochrome c reductase, subunit QCR7	3
+J	Mitochondrial ribosomal protein L14	0
+J	Mitochondrial/chloroplast ribosomal protein 36a	2
+C	NADH:ubiquinone oxidoreductase NDUFA2/B8 subunit	1
+J	Mitochondrial/chloroplast ribosomal S17-like protein	0
+A	Predicted snRNP core protein	2
+J	60S acidic ribosomal protein P2	5
+R	Huntingtin interacting protein HYPK	1
+J	60S ribosomal protein L36	7
+C	Cytochrome c	4
+A	U1 snRNP-specific protein C	3
+C	NADH:ubiquinone oxidoreductase, NDUFS6/13 kDa subunit	2
+O	Sec61 protein translocation complex, beta subunit	3
+C	NADH:ubiquinone oxidoreductase, NDUFA8/PGIV/19 kDa subunit	1
+A	Small nuclear ribonucleoprotein (snRNP) Sm core protein	2
+A	Small nuclear ribonucleoprotein (snRNP) LSM3	2
+R	CDGSH-type Zn-finger containing protein	1
+K	Transcription initiation factor IIA, gamma subunit	1
+J	60S ribosomal protein L44	3
+U	Signal recognition particle, subunit Srp9	1
+C	NADH:ubiquinone oxidoreductase, NDUFB9/B22 subunit	1
+B	Histone H4	4
+C	NADH:ubiquinone oxidoreductase, NDUFB7/B18 subunit	1
+C	Cytochrome c oxidase, subunit VIa/COX13	2
+O	Beta-tubulin folding cofactor A	1
+KL	RNA polymerase II transcription initiation/nucleotide excision repair factor TFIIH, subunit TFB2	3
+S	Predicted small membrane protein	1
+K	RNA polymerase II transcription elongation factor Elongin/SIII, subunit elongin C	2
+C	Molybdopterin converting factor, small subunit	1
+Z	Microtubule-associated protein CRIPT	1
+C	Putative cytochrome c oxidase, subunit COX19	2
+O	Prefoldin subunit 6, KE2 family	1
+U	Mitochondrial import inner membrane translocase, subunit TIM9	1
+U	Mitochondrial import inner membrane translocase, subunits TIM10/TIM12	1
+A	Small nuclear ribonucleoprotein (snRNP) SMF	3
+D	Cyclin-dependent protein kinase CDC28, regulatory subunit CKS1, and related proteins	1
+J	40S ribosomal protein S21	4
+U	TRAPP 20 K subunit	3
+O	Dolichol phosphate-mannose regulatory protein (DPM2)	1
+U	Mitochondrial import inner membrane translocase, subunit TIM8	2
+K	Transcription elongation factor SPT4	1
+J	Ribosome biogenesis protein NIP7	1
+O	Ubiquitin-like protein	3
+C	Ubiquinol cytochrome c oxidoreductase, subunit QCR9	2
+C	Mitochondrial F1F0-ATP synthase, subunit epsilon/ATP15	2
+O	Cytochrome c oxidase assembly protein/Cu2+ chaperone COX17	1
+K	DNA-directed RNA polymerase, subunit RPB10	1
+U	Preprotein translocase, gamma subunit	1
+J	60S ribosomal protein L38	4
+C	Vacuolar H+-ATPase V0 sector, subunit M9.7 (M9.2)	3
+O	Molecular chaperone Prefoldin, subunit 1	1
+J	40S ribosomal protein S28	4
+A	H/ACA snoRNP complex, subunit NOP10	3
+J	60S ribosomal protein L29	3
+J	Mitochondrial/chloroplast ribosomal protein L33-like	2
+J	40S ribosomal protein S29	3
+K	DNA-directed RNA polymerase, subunit RPB7.0	1
+R	GTPase-activating protein	3
+O	Basement membrane-specific heparan sulfate proteoglycan (HSPG) core protein	0
+T	FOG: Immunoglobulin C-2 Type/fibronectin type III domains	1
+R	Sortilin and related receptors	4
+T	Netrin, axonal chemotropic factor	0
+T	Neural cell adhesion molecule L1	1
+T	Neurexin III-alpha	2
+R	Predicted transmembrane protein of the immunoglobulin family of cell adhesion molecules	0
+T	Neurexin IV	1
+K	Transcription factor PAX1/9	0
+R	Putative guanine nucleotide exchange factor	0
+T	Invasion-inducing protein TIAM1/CDC24 and related RhoGEF GTPases	1
+T	Predicted guanine nucleotide exchange factor	1
+T	Putative guanine nucleotide exchange factor TIM	0
+T	Predicted guanine nucleotide exchange factor (PEBBLE)	1
+O	Subtilisin-like proprotein convertase	3
+R	Erythrocyte membrane protein 4.1 and related proteins of the ERM family	0
+S	FOG: PDZ domain	1
+R	Radixin, moesin and related proteins of the ERM family	1
+R	FERM domain protein EHM2	0
+T	Rho guanine nucleotide exchange factor CDEP	0
+R	Predicted protein kinase	0
+T	Inositol 1,4,5-trisphosphate receptor	0
+R	p53 inducible protein PIR121	1
+T	Adaptor protein Disabled	0
+R	Adaptor protein CED-6, contains PTB domain	0
+T	Adaptor protein NUMB	0
+O	Disintegrin metalloproteinases with thrombospondin repeats	0
+W	Spondins, extracellular matrix proteins	0
+R	Beta amyloid precursor protein	0
+T	Ca2+-dependent activator protein	1
+W	Collagens (type IV and type XIII), and related proteins	0
+W	Olfactomedin and related extracellular matrix glycoproteins	0
+W	Collagens (type XV)	0
+R	Bestrophin (Best vitelliform macular dystrophy-associated protein)	0
+L	DNA damage checkpoint protein RHP9/CRB2/53BP1	0
+W	Syntrophins (type gamma)	0
+W	Receptor targeting protein Lin-7	0
+W	Syntrophins (type beta)	0
+R	FERM domain protein FRM-8	0
+M	Tax interaction protein TIP1	0
+B	Histone deacetylase complex, MTA1 component	1
+R	Ca2+-binding proteoglycan Testican	1
+R	Familial cylindromatosis protein	0
+T	Epidermal growth factor receptor kinase substrate	0
+TK	Hypoxia-inducible factor 1/Neuronal PAS domain protein NPAS1	0
+K	Transcriptional regulator SIM1	0
+K	Aryl-hydrocarbon receptor	0
+K	Aryl-hydrocarbon receptor nuclear translocator	2
+K	Forkhead/HNF-3-related transcription factor	0
+Z	Cdc42-interacting protein CIP4	2
+O	Glycosylphosphatidylinositol anchor attachment protein GAA1	1
+O	Peptidylglycine alpha-amidating monooxygenase	0
+E	Dopamine beta-monooxygenase	1
+T	RAS signaling inhibitor ST5	0
+T	MAPK-activating protein DENN	0
+R	Dishevelled 3 and related proteins	0
+T	Uncharacterized conserved protein, contains DEP domain	0
+D	Caspase, apoptotic cysteine protease	0
+P	Acetyl-CoA transporter	0
+T	FOG: Hormone receptors	0
+K	Ovo and related transcription factors	0
+T	Smoothened and related G-protein-coupled receptors	0
+T	Tight junction proteins	1
+C	Creatine kinases	1
+K	Mlx interactors and related transcription factors	0
+K	cAMP response element binding protein and related transcription factors	0
+K	TBX2 and related T-box transcription factors	0
+K	TBX1 and related T-box transcription factors	1
+W	Galectin, galactose-binding lectin	0
+G	Chondroitin synthase 1	0
+T	G protein signaling regulators	1
+T	Protein kinase A anchoring protein	0
+O	Alpha crystallins	2
+Z	Microtubule-associated proteins	0
+T	Predicted receptor-like serine/threonine kinase	0
+S	FOG: Cadherin repeats	1
+Z	Dyneins, heavy chain	2
+R	Proteoglycan	0
+K	Thyroid hormone receptor-associated protein complex, subunit TRAP230	1
+PT	Ca2+-modulated nonselective cation channel polycystin	0
+K	Thyroid hormone receptor-associated protein complex, subunit TRAP240	1
+T	Adaptor protein GRB2, contains SH2 and SH3 domains	1
+R	Predicted phospholipase D	2
+S	Pecanex	0
+R	Beta amyloid precursor-binding protein	0
+T	Cell polarity protein PAR6	0
+O	Meltrins, fertilins and related Zn-dependent metalloproteinases of the ADAMs family	0
+R	Zn finger proteins	0
+PT	Receptor-activated Ca2+-permeable cation channels (STRPC family)	0
+T	Plexins (functional semaphorin receptors)	0
+T	Semaphorins	1
+K	Dopey and related predicted leucine zipper transcription factors	0
+PT	Ca2+/Mg2+-permeable cation channels (LTRPC family)	0
+K	Selective LIM binding factor	0
+R	WD40 and TPR repeat-containing protein	0
+R	Adenylyl cyclase	0
+C	Adenylate/guanylate cyclase	0
+K	Homeobox transcription factor SIP1	0
+E	M13 family peptidase	3
+G	Alpha amylase	0
+Q	Organic anion transporter	2
+E	Trypsin	9
+R	Predicted AMP-binding protein	2
+T	Guanine-nucleotide releasing factor	0
+YU	Nuclear pore complex, Nup214/CAN component	0
+Z	Alpha-parvin and related focal adhesion proteins	0
+TZ	Peripheral benzodiazepine receptor PRAX-1	0
+O	BAG family molecular chaperone regulator 2	0
+Z	Troponin	0
+G	Phosphorylase kinase	0
+R	Uncharacterized conserved protein, contains TBC and Rhodanese domains	0
+W	Vitronectin receptor, alpha subunit	0
+T	Sonic hedgehog and related proteins	0
+R	C2 Ca2+-binding motif-containing protein	0
+DZ	Actin binding protein Anillin	1
+E	Zinc carboxypeptidase	0
+T	GABA receptor	0
+T	Ligand-gated ion channel	0
+T	Acetylcholine receptor	0
+U	Acetylcholine receptor	0
+U	Golgi apparatus protein (cysteine-rich fibroblast growth factor receptor)	0
+R	FOG: Kazal-type serine protease inhibitor domain	0
+T	Protein kinase C, alpha binding protein	0
+T	Transforming growth factor beta/activin receptor subfamily of serine/threonine kinases	0
+Z	Uncharacterized CH domain protein	0
+Z	Drebrins and related actin binding proteins	0
+R	FOG: 7 transmembrane receptor	0
+L	Mitochondrial DNA polymerase gamma, catalytic subunit	1
+W	Tumor necrosis factor-alpha-converting enzyme (TACE/ADAM17) and related metalloproteases	0
+T	Sodium-neurotransmitter symporter	0
+L	Cell division control protein/predicted DNA repair exonuclease	2
+K	Nuclear factor I	0
+T	Predicted patched transmembrane receptor	0
+R	ZYG-1-like serine/threonine protein kinases	0
+KT	STAT protein	0
+IT	Phosphatidylinositol transfer protein	2
+R	Uncharacterized conserved protein, contains dysferlin, TECPR and PH domains	0
+I	Phospholipase	0
+TZ	Actin regulatory protein (Wiskott-Aldrich syndrome protein)	0
+R	Histidine acid phosphatase	0
+A	FtsJ-like RNA methyltransferase	1
+R	Dipeptidyl peptidase III	1
+PT	Ca2+-permeable cation channel OSM-9 and related channels (OTRPC family)	0
+JK	RNA polymerase I-associated factor - PAF67	2
+W	SARM protein (with sterile alpha and armadillo motifs)	0
+W	Alpha-catenin	0
+S	Predicted membrane protein (associated with esophageal cancer in humans)	1
+P	Ca2+-activated K+ channel proteins (intermediate/small conductance classes)	0
+T	Rap1-GTPase-activating protein (Rap1GAP)	1
+DT	Tuberin - Rap/ran-GTPase-activating protein	0
+T	Cyclic GMP phosphodiesterase	0
+T	Cyclic nucleotide phosphodiesterase	1
+E	Angiotensin I-converting enzymes - M2 family peptidases	0
+U	Exocyst complex subunit Sec8	0
+D	Protein required for meiosis	1
+O	Aspartyl beta-hydroxylase	0
+T	Adaptor protein SHC and related proteins	0
+O	Hyaluronoglucosaminidase	0
+TZ	Cytoskeletal protein Adducin	3
+R	Predicted acyltransferase	0
+TK	TGFbeta receptor signaling protein SMAD and related proteins	1
+A	Nuclear polyadenylated RNA binding protein	1
+O	Heparan sulfate N-deacetylase/N-sulfotransferase	0
+O	Heparan sulfate D-glucosaminyl 3-O-sulfotransferase	0
+O	Glycoprotein 6-alpha-L-fucosyltransferase	0
+U	PACS-1 cytosolic sorting protein	0
+T	EGL-Nine (EGLN) protein	0
+K	RFX family transcription factor	0
+P	Voltage-gated K+ channel KCNB/KCNC	1
+O	Meprin A metalloprotease	0
+UE	LST7 amino acid permease Golgi transport protein	0
+I	Carnitine O-acyltransferase CPTI	1
+I	Carnitine O-acyltransferase CRAT	2
+I	Carnitine O-acyltransferase CROT	0
+I	Carnitine O-acyltransferase CPT2/YAT1	1
+I	Lysosomal & prostatic acid phosphatases	1
+F	Mitochondrial endonuclease	1
+V	Lipocalin-interacting membrane receptor (LIMR)	0
+T	PH domain protein Melted	0
+U	Negative regulator of COPII vesicle formation	1
+T	SH3 domain protein SH3GLB	0
+D	Mitogen inducible gene product (contains ERM and PH domains)	0
+F	Uridine phosphorylase	0
+I	Mitochondrial glycerol-3-phosphate acyltransferase GPAT	0
+I	Acyl-CoA:dihydroxyactetone-phosphate acyltransferase DHAPAT	0
+G	Sulfatases	1
+UK	Staufen and related double-stranded-RNA-binding proteins	0
+P	Mucolipidin and related proteins (TRML subfamily of transient receptor potential proteins)	0
+G	Predicted phosphoglycerate mutase	5
+Z	Tropomodulin and leiomodulin	0
+O	Polypeptide N-acetylgalactosaminyltransferase	1
+O	Predicted polypeptide N-acetylgalactosaminyltransferase	0
+T	Stress-activated MAP kinase-interacting protein, Sin1p	0
+A	Poly(A) ribonuclease subunit	1
+G	Glycogen synthase	0
+K	Recombination signal binding protein-J kappa(CBF1, Su(H), HS2NF5)	0
+U	Exocyst subunit - Sec10p	4
+FP	Concentrative Na+-nucleoside cotransporter CNT1/CNT2	3
+C	Phosphoenolpyruvate carboxykinase	3
+I	Inositol phospholipid synthesis protein, Scs3p	0
+T	Growth factor receptor-bound proteins (GRB7, GRB10, GRB14)	0
+L	Ribonuclease H	1
+T	Circadian clock protein period	0
+H	Gamma-glutamylcysteine synthetase	0
+K	SATB1 matrix attachment region binding protein	0
+Z	Pinin (desmosome-associated protein)	1
+DZ	Microtubule assembly protein Doublecortin and related proteins, contain DCX domain	0
+T	Uncharacterized RUN domain protein	0
+G	Heparan sulfate-glucuronic acid C5-epimerase	0
+I	Choline transporter	0
+R	Predicted transporter	0
+A	mRNA export factor TAP/MEX67	1
+U	Vesicular amine transporter	0
+G	Predicted glycosyltransferase	1
+K	Polycomb group protein SCM/L(3)MBT (tumor-supressor in Drosophila and humans)	0
+R	Sideroflexin	0
+R	DEAD box RNA helicase	0
+J	Ribonuclease III domain proteins	1
+I	Acid sphingomyelinase and PHM5 phosphate metabolism protein	0
+U	Amphiphysin	1
+D	M-phase inducer phosphatase	1
+U	Adiponutrin and related vesicular transport proteins; predicted alpha/beta hydrolase	1
+T	Uncharacterized conserved protein Lama	0
+T	Mitogen-activated protein kinase scaffold protein JIP	0
+T	Plasma membrane glycoprotein CD36 and related membrane receptors	1
+K	Homeobox transcription factor prospero	0
+R	Thioredoxin binding protein TBP-2/VDUP1	1
+W	Dystroglycan	0
+R	Predicted membrane protein, contains type II SA sequence	0
+RTU	Sorting nexin protein SNX27	0
+K	RNA polymerase II assessory factor Cdc73p	1
+E	Glutamate/aspartate and neutral amino acid transporters	1
+P	Predicted divalent cation transporter	0
+P	Nitrogen permease regulator NLRG/NPR2	0
+JT	Predicted RNA-binding protein involved in translational regulation	1
+R	Transcription factor NFAT, subunit NF90	2
+K	Transcription factor NFAT, subunit NF45	0
+K	CBF1-interacting corepressor CIR and related proteins	1
+UR	Ammonium transporter RHBG	0
+T	Peripheral-type benzodiazepine receptor and related proteins	2
+R	Predicted Zn-dependent hydrolase (beta-lactamase superfamily)	3
+U	Rab3 effector RIM1 and related proteins, contain Rab3a binding domain	0
+O	Predicted E3 ubiquitin ligase containing RING finger, subunit of transcription/repair factor TFIIH and CDK-activating kinase assembly factor	1
+A	Uncharacterized conserved protein BCN92	1
+K	Transcription factor OCT-1, contains POU and HOX domains	0
+K	Transcription factor containing C2HC type Zn finger	0
+K	Transcription factor NERF and related proteins, contain ETS domain	0
+K	ERG and related ETS transcription factors	0
+K	Predicted transcription factor	0
+R	Predicted membrane protein ST7 (tumor suppressor in humans)	0
+Z	Microtubule-binding protein MIP-T3	0
+H	Micronutrient transporters (folate transporter family)	0
+K	Transcription factor AP-2	0
+PT	L-type voltage-dependent Ca2+ channel, beta subunit	0
+R	Uncharacterized conserved protein (tumor-suppressor AXUD1 in humans)	0
+T	Signaling protein van gogh/strabismus	0
+K	Transcription factor Doublesex	0
+T	Cell differentiation regulator of the Headcase family	0
+L	DNA polymerase epsilon, subunit B	1
+S	Uncharacterized conserved proteins (Hepatitis delta antigen-interacting protein A)	0
+E	Aromatic amino acid hydroxylase	1
+T	Heparin sulfate cell surface proteoglycan	0
+C	Succinyl-CoA:alpha-ketoacid-CoA transferase	4
+R	Huntingtin interacting protein HYPE	0
+L	Deoxyribonuclease II	2
+P	Na+/H+ antiporter	1
+P	Inward rectifier K+ channel	1
+R	Predicted amino acid transporter	1
+S	Uncharacterized conserved protein, contains RtcB domain	0
+U	Golgi reassembly stacking protein GRASP65, contains PDZ domain	0
+K	Transcriptional corepressor NAB1	0
+K	HLH transcription factor EBF/Olf-1 and related DNA binding proteins	0
+R	Uncharacterized conserved protein, contains DM14 and C2 domains	0
+U	Mannose lectin ERGIC-53, involved in glycoprotein traffic	0
+U	Lectin VIP36, involved in the transport of glycoproteins carrying high mannose-type glycans	0
+R	Uncharaterized conserved protein, contains BTB/POZ domain	0
+K	TEF-1 and related transcription factor, TEAD family	0
+T	Adaptor protein Pellino	0
+J	Predicted serine hydroxymethyltransferase SLA/LP (autoimmune hepatitis marker in humans)	0
+B	Predicted component of NuA3 histone acetyltransferase complex	1
+I	MLN, STAR and related lipid-binding proteins	0
+E	L-kynurenine hydrolase	0
+I	Phospholipase A2 (platelet-activating factor acetylhydrolase in humans)	0
+W	Extracellular protein TEM7, contains PSI domain (tumor endothelial marker in humans)	0
+O	GDP-fucose protein O-fucosyltransferase	0
+C	Sulfide:quinone oxidoreductase/flavo-binding protein	3
+T	Inositol monophosphatase	0
+S	SPRT-like metalloprotease	0
+HC	Monooxygenase involved in coenzyme Q (ubiquinone) biosynthesis	3
+C	Alcohol dehydrogenase, class IV	3
+T	Ephrin, ligand for Eph receptor tyrosine kinase	0
+D	Septins (P-loop GTPases)	1
+T	Acyltransferase required for palmitoylation of Hedgehog (Hh) family of secreted signaling proteins	2
+W	Sensory cilia assembly protein	0
+K	Transcription factor PAX2/5/8, contains PAX domain	0
+K	bZIP transcription factor NRF1	0
+T	Arrestin	0
+R	DNA-binding protein of the nucleobindin family	0
+R	Sulfatase	0
+C	Vacuolar H+-ATPase V0 sector, accessory subunit S1 (Ac45)	0
+W	Cell adhesion complex protein bystin	2
+T	FOG: FHA domain	1
+T	Sphingomyelinase family protein	0
+U	Peroxisomal biogenesis protein peroxin	1
+T	Arfaptin and related proteins	0
+C	NADH:ubiquinone oxidoreductase, NDUFA10/42kDa subunit	1
+U	Protein involved in maintenance of Golgi structure and ER-Golgi transport	0
+R	Predicted small molecule transporter involved in cellular pH homeostasis (Batten disease protein in human)	0
+R	Tetraspanin family integral membrane protein	2
+T	Ras family small GTPase	0
+T	Neural proliferation, differentiation and control protein	0
+T	Fibroblast growth factor	0
+T	GTP-binding protein	0
+U	Predicted small GTPase involved in nuclear protein import	0
+I	Gamma-butyrobetaine,2-oxoglutarate dioxygenase	1
+I	Predicted gamma-butyrobetaine,2-oxoglutarate dioxygenase	0
+J	Mitochondrial 28S ribosomal protein S22	0
+TU	Secretory vesicle-associated protein ICA69, contains Arfaptin domain	0
+G	N-acetyl-glucosamine-6-phosphate deacetylase	1
+U	SNARE protein Syntaxin 18/UFE1	1
+TU	Synaptic vesicle protein Synapsin	0
+N	Dynactin, subunit p62	0
+S	Conserved protein Knockout	0
+K	Transcription factor NeuroD and related HTH proteins	0
+T	Transforming growth factor beta, bone morphogenetic protein and related proteins	0
+K	Transcription initiation factor IID subunit	2
+K	Histone acetyltransferase PCAF/SAGA, subunit SUPT3H/SPT3	0
+D	Mitotic checkpoint protein PRCC	1
+S	Predicted hydrolase RP2 (NUDIX/MutT superfamily)	0
+N	Dynein light intermediate chain	0
+E	Tryptophan 2,3-dioxygenase	2
+U	ZIP-like zinc transporter proteins	0
+A	Queuine-tRNA ribosyltransferase	5
+K	Helix loop helix transcription factor	0
+A	Nucleolar protein NOP52/RRP1	2
+R	Predicted integral membrane protein	0
+T	Wnt family of developmental regulators	0
+S	WD repeat protein WDR4	1
+K	Transcription regulator dachshund, contains SKI/SNO domain	0
+G	UDP-Gal:glucosylceramide beta-1,4-galactosyltransferase	0
+G	Beta-1,4-galactosyltransferase B4GALT7/SQV-3	0
+U	Kinesin-associated fasciculation and elongation protein involved in axonal transport	0
+O	Sulfotransferases	0
+E	D-aspartate oxidase	1
+DK	Putative protein methyltransferase involved in meiosis and transcriptional silencing (Dot1)	0
+E	F-box proteins	0
+P	Na+/K+ ATPase, beta subunit	0
+J	Mitochondrial ribosome small subunit component, mediator of apoptosis DAP3	2
+D	CDK5 kinase activator p35/Nck5a	0
+J	Mitochondrial ribosomal protein S28	2
+A	Histone mRNA stem-loop binding protein	0
+G	Predicted glycerate kinase	1
+C	Nitroreductases	0
+TU	RGS-GAIP interacting protein GIPC, contains PDZ domain	0
+T	Selenophosphate synthetase	2
+T	Intermediate in Toll signal transduction pathway (ECSIT)	0
+J	MIF4G domain-containing protein	0
+R	THUMP domain-containing proteins	2
+O	Glutaminyl cyclase	0
+R	Phosphoesterases	0
+A	Mediator of U snRNA nuclear export PHAX	1
+BK	RNA polymerase II elongator complex, subunit ELP4	1
+Z	Gamma/delta sarcoglycan	0
+R	SOCS box protein SSB-1, contains SPRY domain	1
+C	Electron transfer flavoprotein, alpha subunit	5
+MG	Heparan sulfate 6-O-sulfotransferase	0
+OUTIV	Alpha 2-macroglobulin receptor-associated protein	0
+I	Predicted L-carnitine dehydratase/alpha-methylacyl-CoA racemase	3
+Z	Putative dynamitin	0
+R	2-Oxoglutarate- and iron-dependent dioxygenase-related proteins	0
+K	Myogenic helix-loop-helix transcription factor	0
+Z	Predicted actin-bundling protein	0
+T	Mab-21-like cell fate specification proteins	1
+I	Phosphatidylglycerolphosphate synthase	0
+TV	p53-mediated apoptosis protein EI24/PIG8	0
+FQ	Atrazine chlorohydrolase/guanine deaminase	4
+T	SAP-90/PSD-95 associated protein-related protein (Vulcan)	1
+S	Uncharacterized conserved glycine-rich protein	0
+C	Mitochondrial F1F0-ATP synthase, subunit b/ATP4	2
+Z	Troponin I	0
+T	FGF receptor activating protein 1	0
+A	RNA 3'-terminal phosphate cyclase	2
+F	Deoxyribose-phosphate aldolase	0
+K	Runt and related transcription factors	0
+U	Golgi protein	0
+F	Purine nucleoside phosphorylase	0
+F	Methylthioadenosine phosphorylase MTAP	3
+OT	Protein phosphatase, regulatory subunit PPP1R3C/D	0
+S	Uncharacterized conserved protein DREV/CGI-81	0
+O	Protein-tyrosine sulfotransferase TPST1/TPST2	0
+W	Beta-2-glycoprotein I	0
+K	Transcription factor (contains Zn finger)	0
+E	3-hydroxyanthranilate oxygenase HAAO	0
+CO	Holocytochrome c synthase/heme-lyase	2
+L	Major apurinic/apyrimidinic endonuclease/3'-repair diesterase APN1	1
+U	Putative cargo transport protein ERV29	0
+DL	Checkpoint 9-1-1 complex, HUS1 component	1
+Z	Axonemal dynein light chain	0
+S	Uncharacterized integral membrane protein	1
+V	Pyrazinamidase/nicotinamidase PNC1	1
+W	Matricellular protein Osteonectin/SPARC/BM-40	0
+K	Transcription factor XBP-1	0
+TR	Anti-proliferation factor BTG1/TOB	1
+A	rRNA processing protein RRP7	1
+C	NADH-ubiquinone oxidoreductase, subunit NDUFB10/PDSW	1
+R	Coiled-coil protein TPD52	0
+K	Transcription initiation factor TFIID, subunit TAF7	2
+B	Histone H1	0
+P	Predicted Cu2+ homeostasis protein CutC	0
+S	Uncharacterized conserved protein (contains TPR repeat)	0
+I	Fatty acid-binding protein FABP	1
+TU	Synaptic vesicle protein Synaptogyrin involved in regulation of Ca2+-dependent exocytosis	0
+L	DNA excision repair protein XPA/XPAC/RAD14	0
+S	Uncharacterized conserved protein, contains RWD domain	1
+TR	Calcineurin-mediated signaling pathway inhibitor DSCR1	2
+S	Protein DRE2, required for cell viability	1
+J	Mitochondrial ribosomal protein S18b	0
+E	Dihydropteridine reductase DHPR/QDPR	0
+V	Complement component 1, Q subcomponent binding protein/mRNA splicing factor SF2, subunit P32	0
+S	Putative apoptosis related protein	0
+K	Transcription factor HAND2/Transcription factor TAL1/TAL2/LYL1	0
+S	Uncharacterized conserved protein, contains SPRY domain	0
+U	Vesicle coat protein clathrin, light chain	1
+S	Uncharacterized conserved protein NOF (Neighbor of FAU)	0
+TZ	Coeffector of mDia Rho GTPase, regulates actin polymerization and cell adhesion turnover	0
+UT	Photoreceptor synaptic vesicle protein HRG4/UNC-119	0
+T	cGMP-phosphodiesterase, delta subunit	0
+T	Serine/threonine kinase TIP30/CC3	1
+C	NADH:ubiquinone oxidoreductase, NDUFB8/ASHI subunit	1
+OT	Protein phosphatase 1, regulatory (inhibitor) subunit PPP1R2	0
+UZ	Dynactin subunit p27/WS-3, involved in transport of organelles along microtubules	0
+R	Mitochondrial associated endoribonuclease MAR1 (isochorismatase superfamily)	0
+A	RNase MRP and P, subunit POP4/p29	1
+T	Docking protein 1 (p62dok)	0
+S	Proliferation-related protein MLF	0
+ET	Glutamate transporter EAAC1-interacting protein GTRAP3-18	0
+S	Ataxin-1, involved in Ca2+ homeostasis	0
+U	Translocase of outer mitochondrial membrane complex, subunit TOM20	1
+R	DMQ mono-oxygenase/Ubiquinone biosynthesis protein COQ7/CLK-1/CAT5	0
+L	6-O-methylguanine-DNA methyltransferase MGMT/MGT1, involved in DNA repair	0
+S	Major epididymal secretory protein HE1	0
+E	Cysteine dioxygenase CDO1	1
+S	Cell growth regulatory protein CGR11	1
+RT	Putative signal transduction protein p25	0
+U	Signal peptidase complex, subunit SPC25	0
+K	Pterin carbinolamine dehydratase PCBD/dimerization cofactor of HNF1	1
+S	Leucine zipper nuclear factor	0
+C	Cytochrome c oxidase, subunit IV/COX5b	3
+TU	Regulator of ATP-sensitive K+ channels Alpha-endosulfine/ARPP-19 and related cAMP-regulated phosphoproteins	0
+C	Cytochrome c oxidase, subunit Va/COX6	1
+J	Putative mitochondrial ribosomal protein mRpS35	0
+J	Putative mitochondrial ribosomal protein mRpS25	1
+J	Mitochondrial ribosomal protein L32	0
+N	Dynein light chain	1
+K	Head-elevated expression protein	0
+KL	Transcriptional regulator SOH1	1
+I	Phospholipase A2	0
+U	Translocon-associated complex TRAP, delta subunit	1
+J	Predicted mitochondrial ribosomal protein L23	1
+K	Transcription factor	0
+C	Mitochondrial F1F0-ATP synthase, subunit f	1
+R	Uncharacterized conserved protein (tumor-specific protein BCL7 in humans)	1
+CU	Succinate dehydrogenase membrane anchor subunit and related proteins	1
+O	Molecular chaperone Prefoldin, subunit 2	2
+R	Cysteine-rich hydrophobic proteins	0
+C	Mitochondrial F1F0-ATP synthase, subunit g/ATP20	1
+T	Ganglioside-induced differentiation associated protein 3	0
+H	6-pyruvoyl tetrahydrobiopterin synthase	0
+T	MP1 adaptor interacting protein P14	0
+K	Histone H3 (Lys4) methyltransferase complex, subunit CPS25/DPY-30	0
+C	NADH:ubiquinone oxidoreductase, NDUFS5/15kDa	0
+U	Translocase of outer mitochondrial membrane complex, subunit TOM22	1
+U	Signal peptidase subunit	1
+TU	Guanine nucleotide exchange factor	0
+O	Cytochrome c oxidase assembly protein PET191	1
+DN	Dynein-associated protein Roadblock	1
+C	Ubiquinol cytochrome c reductase, subunit QCR8	2
+KO	Heat shock factor binding protein	0
+T	G protein gamma subunit	0
+L	G/T mismatch-specific thymine DNA glycosylase	0
+YU	Nuclear pore complex, Nup133 component (sc Nup133)	0
+J	Mitochondrial/chloroplast ribosomal protein L36	2
+G	Putative alpha 1,2 mannosyltransferase	0
+KD	Putative transcriptional repressor regulating G2/M transition	2
+G	Acid trehalase	1
+P	Alkaline phosphatase	4
+O	Renal dipeptidase	1
+E	Bleomycin hydrolases and aminopeptidases of cysteine protease family	1
+C	Exopolyphosphatases and related proteins	0
+O	Prenyl protein protease	1
+R	Ngg1-interacting factor 3 protein NIF3L1	0
+H	Uroporphyrinogen III synthase UROS/HEM4	0
+J	tRNA splicing endonuclease	1
+K	DNA-dependent RNA polymerase I	0
+G	Predicted phosphoglucosamine acetyltransferase	1
+TI	Predicted mitochondrial cholesterol transporter	0
+R	Unchracterized conserved protein (estrogen up-regulated protein E2IG2 in human)	0
+LD	Protein kinase essential for the initiation of DNA replication	1
+B	Nuclear protein Ataxin-7	0
+L	DNA repair and recombination protein RAD52/RAD22	0
+I	Phospholipid methyltransferase	0
+T	Sigma receptor and C-8 sterol isomerase	0
+R	Arylalkylamine N-acetyltransferase	0
+F	Allantoicase	1
+A	Predicted ATP-dependent RNA helicase	2
+ODR	Myosin assembly protein/sexual cycle protein and related proteins	4
+DK	Host cell transcription factor HCFC1	1
+G	Fructose 1,6-bisphosphate aldolase	3
+R	Arginine-rich protein	0
+R	FOG: WD40 repeat	12
+DT	Claspin, protein mediating phosphorylation and activation of Chk1 protein kinase in the DNA replication checkpoint response	0
+GO	beta-1,6-N-acetylglucosaminyltransferase, contains WSC domain	2
+T	BRPK/PTEN-induced protein kinase	1
+V	BPI/LBP/CETP family protein	2
+KB	Methyl-CpG binding transcription regulators	4
+T	Predicted calmodulin-binding protein	3
+D	Cyclin ik3-1/CABLES	0
+E	Gamma-glutamyl phosphate reductase	5
+K	Predicted DNA-binding protein, contains SANT and ELM2 domains	0
+K	Predicted RNA polymerase III subunit C17	1
+IR	15-hydroxyprostaglandin dehydrogenase and related dehydrogenases	2
+I	2-enoyl-CoA hydratase/3-hydroxyacyl-CoA dehydrogenase/Peroxisomal 3-ketoacyl-CoA-thiolase, sterol-binding domain and related enzymes	3
+F	Adenylate/guanylate kinase	0
+U	Alpha-SNAP protein	1
+E	Tryptophan synthase alpha chain	2
+M	Ankyrin	1
+I	Soluble epoxide hydrolase	7
+O	Lysyl hydrolase/glycosyltransferase family 25	0
+K	RNA polymerase I 49 kDa subunit	1
+GR	Predicted sugar kinase	0
+U	Peroxisomal biogenesis protein (peroxin)	3
+OU	Proprotein convertase (PC) 2 chaperone involved in secretion (neuroendocrine protein 7B2)	0
+B	Histone acetyltransferases PCAF/SAGA/ADA, subunit TADA3L/NGG1	0
+T	G protein-coupled receptors	1
+T	Membrane glycoprotein LIG-1	0
+P	Transient receptor potential-related channel 7	1
+K	bZIP transcription factor MafK	0
+R	FOG: PPR repeat	388
+R	RNA-binding Ran Zn-finger protein and related proteins	8
+E	Anthranilate synthase component II	3
+E	Phosphoribosylanthranilate isomerase	1
+TZ	Armadillo/beta-Catenin/plakoglobin	12
+B	Histone deacetylase complex, SIN3 component	6
+A	RNA-binding protein musashi/mRNA cleavage and polyadenylation factor I complex, subunit HRP1	8
+A	Spliceosomal protein snRNP-U1A/U2B	4
+A	Predicted splicing factor, SR protein superfamily	3
+R	Nucleolar RNA-binding protein NIFK	2
+A	Splicing factor RNPS1, SR protein superfamily	3
+K	Nuclear localization sequence binding protein	6
+A	Splicing factor hnRNP-F and related RNA-binding proteins	2
+A	RNA-binding protein hnRNP-M	0
+A	RNA-binding protein La	0
+K	Myotrophin and similar proteins	1
+K	Hepatocyte nuclear factor 4 and similar steroid hormone receptors	0
+K	Steroid hormone nuclear receptor	0
+K	Nuclear receptors of the nerve growth factor-induced protein B type	0
+K	Nuclear hormone receptor betaFTZ-F1	0
+T	G protein-coupled receptor	0
+T	Muscarinic acetylcholine receptor	0
+T	Receptor mediating netrin-dependent axon guidance	0
+T	Axon guidance receptor Dscam	0
+TU	Reticulocalbin, calumenin, DNA supercoiling factor, and related Ca2+-binding proteins of the CREC family (EF-Hand protein superfamily)	2
+U	Armadillo repeat protein VAC8 required for vacuole fusion, inheritance and cytosol-to-vacuole protein targeting	1
+T	Sorbin and SH3 domain-containing protein	0
+T	Adaptor protein NCK/Dock, contains SH2 and SH3 domains	0
+N	Myosin VII, myosin IXB and related myosins	1
+H	C1-tetrahydrofolate synthase	3
+I	Intracellular membrane-bound Ca2+-independent phospholipase A2	2
+I	Delta 6-fatty acid desaturase/delta-8 sphingolipid desaturase	2
+BL	DNA-bridging protein BAF	0
+F	Mitochondrial thymidine kinase 2/deoxyguanosine kinase	1
+T	Serine/threonine protein kinase PKC mu/PKD and related proteins	0
+WT	Extracellular matrix protein slit, contains leucine-rich and EGF-like repeats	0
+F	Bifunctional ATP sulfurylase/adenosine 5'-phosphosulfate kinase	0
+T	Ras GTPase effector RASSF2	0
+T	Multidomain protein, contains SPEC repeats, PH, SH3, and separate rac-specific and rho-specific guanine nucleotide exchange factor domains	1
+J	Mitochondrial ribosomal protein L10	0
+N	Predicted myosin-I-binding protein	0
+V	Macrophage maturation-associated protein	1
+T	Failed axon connections (fax) protein/glutathione S-transferase-like protein	1
+R	Predicted metal-dependent hydrolase of the TIM-barrel fold	0
+R	Predicted DNA-binding protein, contains SAP domain	1
+L	Mitochondrial DNA polymerase accessory subunit	0
+O	Ubiquitin-like protein, regulator of apoptosis	2
+T	TANK binding protein kinase TBK1	0
+R	Calcium binding protein	0
+R	Tryptophan-rich basic nuclear protein	0
+H	Phytoene desaturase	3
+D	Kinetochore component	0
+T	Focal adhesion tyrosine kinase FAK, contains FERM domain	0
+T	Insulin/growth factor receptor (contains protein kinase domain)	0
+D	Putative nucleic acid-binding protein Hcc-1/proliferation associated cytokine-inducible protein, contains SAP domain	0
+Z	Talin	0
+T	Putative receptor CCR1	0
+R	Nucleo-cytoplasmic protein MLN51	0
+O	Subtilisin kexin isozyme-1/site 1 protease, subtilase superfamily	1
+S	Uncharacterized conserved protein containing PAP2 domain	1
+T	Rac GTPase-activating protein BCR/ABR	2
+T	GTPase-activator protein	6
+T	Rho-GTPase activating protein	3
+R	Predicted GTP-binding protein	1
+K	Positive cofactor 2 (PC2), subunit of a multiprotein coactivator of RNA polymerase II	0
+R	Predicted hormone receptor interactor	1
+R	Uncharacterized conserved protein, contains thioredoxin domain	0
+K	Transcription factor GT-2 and related proteins, contains trihelix DNA-binding/SANT domain	18
+KL	Transcription-coupled repair protein CSA, contains WD40 domain	2
+K	DEAD box protein	0
+D	Mitotic phosphoprotein	1
+NTZ	Dystrophin-like protein	1
+M	Pectin acetylesterase and similar proteins	11
+T	Cadherin EGF LAG seven-pass G-type receptor	1
+W	Mucin/alpha-tectorin	0
+H	Cubilin, multiligand receptor mediating cobalamin absorption	0
+T	Predicted membrane protein, contains DoH and Cytochrome b-561/ferric reductase transmembrane domains	10
+PT	Non voltage-gated ion channels (DEG/ENaC family)	0
+O	Serine proteinase inhibitor (KU family)	0
+T	Epithelin/granulin	1
+TV	C-type lectin	1
+A	CAP-binding protein complex interacting protein 2	0
+Z	Beta-dystrobrevin	0
+DZ	Microtubule-associated protein essential for anaphase spindle elongation	7
+ET	Vesicular inhibitory amino acid transporter	0
+K	Transcriptional repressors of the hairy/E(spl) family (contains HLH)	1
+T	RhoGEF GTPase	1
+T	Glycosylphosphatidylinositol-specific phospholipase C	1
+R	RNA binding protein RBM12/SWAN	0
+S	LRR-containing protein	4
+K	Transcription mediator-related factor	0
+U	Synapse-associated protein	0
+F	Thiamine pyrophosphokinase	3
+R	Predicted carbohydrate/phosphate translocator	0
+R	G-patch nucleic acid binding protein	2
+S	Predicted Zn-finger protein	1
+A	Bicoid mRNA stability factor	0
+K	DNA-binding nuclear protein p8	0
+I	Predicted phosphate acyltransferases	0
+DO	Anaphase-promoting complex (APC), subunit 5	1
+R	Polycomb-like PHD Zn-finger protein	0
+C	Mitochondrial F1F0-ATP synthase, subunit e	0
+A	mRNA splicing protein SMN (survival motor neuron)	0
+S	WD40 protein	2
+R	DNA-binding protein	0
+R	Polytopic membrane protein Prominin	0
+G	Predicted sugar transporter	4
+DK	Nuclear DEAF-1 related transcriptional regulator (suppressin) and related SAND domain proteins	0
+R	Uncharacterized conserved protein, contains double-stranded RNA-binding motif and WW domain	0
+T	FERM domain-containing protein KRIT1	0
+K	TBP-associated transcription factor Prodos	0
+IU	Microsomal triglyceride transfer protein	0
+I	Predicted lipoprotein	1
+R	RPEL repeat-containing protein	0
+R	F-box protein containing LRR	1
+G	Alpha-mannosidase	1
+K	bZIP transcription factor ATF6	0
+T	NF-kappa B regulator AP20/Cezanne	0
+R	GTPase-activating protein VRP	0
+T	Adaptor protein CMS/SETA	0
+T	Fas-mediated apoptosis inhibitor FAIM	0
+A	RNA export factor NXT1	0
+E	N-acetyl-gamma-glutamyl-phosphate reductase	2
+R	Predicted Fe-S oxidoreductase	2
+R	Uncharacterized conserved protein (involved in mesoderm differentiation in humans)	0
+R	Protein kinase C inhibitor-like protein	1
+S	Uncharacterized coiled coil protein	1
+T	BCL2-associated athanogene-like proteins and related BAG family chaperone regulators	3
+LK	Transcriptional regulator BRCA1	2
+T	Putative growth response protein	1
+B	Chromatin assembly factor-I	1
+R	Predicted thioesterase	0
+R	Predicted RNA binding protein, contains SWAP, RPR and G-patch domains	0
+T	RTK signaling protein MASK/UNC-44	0
+T	Ral-GTPase effector RLIP76	0
+T	Membrane-associated protein tyrosine phosphatase PTP-BAS and related proteins, contain FERM domain	0
+R	Predicted 3'-5' exonuclease	6
+A	RNA-binding protein Bicaudal-C	4
+T	Scaffold protein Shank and related SAM domain proteins	0
+T	Nuclear protein COP1	1
+S	Uncharacterized conserved protein (tumor antigen CML66 in humans)	0
+R	Carnitine deficiency associated protein	1
+T	RUN domain-containing protein	0
+S	Uncharacterized conserved protein, contains DTW domain	2
+R	Uncharacterized SAM domain protein	1
+K	Predicted forkhead transcription factor	0
+E	Ornithine decarboxylase antizyme	1
+I	Hormone-sensitive lipase HSL	0
+T	Acetylcholinesterase/Butyrylcholinesterase	0
+P	Voltage-gated A-type K+ channel KCND	0
+R	Predicted alpha/beta hydrolase BEM46	2
+K	RNA polymerase, subunit L	2
+AJ	Predicted pseudouridylate synthase	2
+A	RNase P subunit that is not also a subunit of RNase MRP, involved in pre-tRNA processing	0
+K	Transcription factor Atonal, contains HTH domain	0
+S	Predicted membrane-anchored protein	0
+R	C2HC-type Zn-finger protein	0
+O	E3 ubiquitin ligase interacting with arginine methyltransferase	3
+R	Cell surface glycoprotein STIM, contains SAM domain	0
+P	Tandem pore domain K+ channel TASK3/THIK-1	0
+TU	GDP dissociation inhibitor	1
+TZ	CDC42 Rho GTPase-activating protein	1
+R	Predicted Rho GTPase-activating protein	0
+P	Putative Mg2+ and Co2+ transporter CorD	3
+I	Phytoene/squalene synthetase	2
+O	26S proteasome regulatory complex, subunit PSMD10	1
+O	26S proteasome regulatory complex, subunit PSMD5	1
+OT	COP9 signalosome, subunit CSN8	1
+R	Predicted endonuclease	1
+F	5' nucleotidase	1
+S	Uncharacterized conserved protein (Ganglioside-induced differentiation associated protein 1, GDAP1)	1
+T	GTP-binding protein-like, RAS superfamily	0
+T	Predicted Rho/Rac guanine nucleotide exchange factor/faciogenital dysplasia protein 3	0
+T	Inositol-polyphosphate 4-phosphatase	0
+R	Uncharacterized conserved protein, contains SH3 and FCH domains	0
+K	Topoisomerase I-binding arginine-serine-rich protein	3
+R	Uncharacterized protein, induced by hypoxia	1
+R	Uncharacterized NUDIX family hydrolase	0
+R	Tweety transmembrane/cell surface protein	0
+UO	Molecular chaperone SEC63, endoplasmic reticulum translocon component	0
+IT	Predicted lipid kinase	0
+R	Predicted GTPase activator NB4S/EVI5 (contains TBC domain)/Calmodulin-binding protein Pollux (contains PTB and TBC domains)	1
+L	ATP-dependent DNA ligase III	0
+D	Centromere-associated protein NUF2	1
+KL	RNA polymerase II transcription termination factor TTF2/lodestar, DEAD-box superfamily	0
+PET	NMDA selective glutamate-gated ion channel receptor subunit GRIN1	0
+TR	Proteins containing BTB/POZ and Kelch domains, involved in regulatory/signal transduction processes	6
+U	Clathrin coat binding protein/Huntingtin interacting protein HIP1, involved in regulation of endocytosis	2
+R	Putative transcription factor HALR/MLL3, involved in embryonic development	2
+MU	Peroxisomal assembly protein PEX3	1
+K	Transcription factor TWIST	0
+S	Uncharacterized conserved protein, contains phosphotyrosine interaction (PI) domain	0
+U	Translocase of outer mitochondrial membrane complex, subunit TOM7	1
+S	Uncharacterized conserved protein (tumor-associated antigen HCA127 in humans)	0
+S	Predicted ER membrane protein	3
+R	RNA binding protein (RRM superfamily)	0
+D	Inner centromere protein (INCENP), C-terminal domain	0
+T	Nitric oxide synthase-binding protein, contains PTB domain	0
+S	Membrane-associated proteoglycan Leprecan	1
+YU	Nuclear pore complex, Nup88/rNup84 component	1
+J	Mitochondrial 28S ribosomal protein S30	0
+Z	WASP-interacting protein VRP1/WIP, contains WH2 domain	0
+T	Signaling protein RIC-8/synembryn (regulates neurotransmitter secretion)	0
+DK	Component of histone deacetylase complex (breast carcinoma metastasis suppressor 1 protein in human)	0
+K	Polycomb-group transcriptional regulator	1
+O	Proteasome activator subunit	1
+IU	Phosphatidylinositol 3-phosphate 3-phosphatase myotubularin MTM1	3
+G	Glycolipid 2-alpha-mannosyltransferase (alpha-1,2-mannosyltransferase)	2
+RP	FOG: Immunoglobin and related proteins	0
+TG	Gluconate transport-inducing protein	0
+K	RING1 interactor RYBP and related Zn-finger-containing proteins	0
+K	Transcription factor e(y)2	1
+P	Heme oxygenase	2
+S	Sarcoglycan complex, alpha/epsilon subunits	0
+R	Uncharacterized conserved protein, contains ankyrin and FN3 repeats	0
+L	3-methyladenine DNA glycosylase	1
+R	Small EDRK-rich protein H4F5	1
+S	Uncharacterized conserved protein BC10 (implicated in bladder cancer in humans)	1
+U	Translocon-associated complex TRAP, gamma subunit	0
+E	Chorismate synthase	2
+F	Cell surface ATP diphosphohydrolase Apyrase	0
+K	RNA polymerase II transcription elongation factor Elongin/SIII, subunit elongin B	1
+R	Uncharacterized conserved protein WDR8, contains WD repeats	2
+PT	Ca2+-binding protein Regucalcin/SMP30	1
+T	Rho/Rac GTPase guanine nucleotide exchange factor smgGDS/Vimar	0
+K	Transcription coactivator complex, P100 component	1
+S	Uncharacterized conserved membrane protein	1
+TU	Cation-independent mannose-6-phosphate receptor CI-MPR	1
+S	Uncharacterized conserved protein, contains TPR repeats	0
+R	Permease of the drug/metabolite transporter (DMT) superfamily	0
+KT	Vitamin D3 receptor interacting protein	0
+C	NADH:ubiquinone oxidoreductase, NDUFC2/B14.5B subunit	0
+G	Hydroxypyruvate isomerase	2
+I	Phosphomevalonate kinase	1
+YU	Nuclear pore complex, Nup160 component	1
+K	RNA polymerase II transcription mediator	1
+R	Jacalin-like lectin domain-containing protein	0
+C	Cytochrome c oxidase, subunit VIIc/COX8	0
+R	Predicted flavoprotein	1
+D	M phase phosphoprotein 6	0
+R	WD40-like repeat containing protein	0
+R	HEAT and armadillo repeat-containing protein	2
+DV	Zn-ribbon-containing protein implicated in mitosis	0
+UI	Putative lipase essential for disintegration of autophagic bodies inside the vacuole	0
+YU	Nuclear transport receptor exportin 4 (importin beta superfamily)	1
+U	Peroxisomal biogenesis protein (peroxin 16)	1
+J	Mitochondrial ribosomal protein L17	1
+R	Magnesium-dependent phosphatase	1
+MO	GPI-GlcNAc transferase complex, PIG-H component, involved in glycosylphosphatidylinositol anchor biosynthesis	1
+K	Vitamin-D-receptor interacting protein complex component	0
+P	Protein involved in inorganic phosphate transport	1
+S	TPR repeat-containing protein	0
+L	Origin recognition complex, subunit 6	1
+K	Transcription factor IIIC box B binding (alpha) subunit	0
+S	Uncharacterized conserved protein (tumor-rejection antigen MAGE in humans)	1
+BD	Cell cycle-regulated histone H1-binding protein	2
+T	Adenylate cyclase-coupled calcitonin receptor	0
+K	E93 protein involved in programmed cell death, putative transcription regulator	0
+T	Cytokine-inducible SH2 protein	0
+ZR	Cytoskeleton-associated protein and related proteins	0
+I	Predicted lipase	16
+K	Activating transcription factor 4	0
+KRT	Predicted DNA-binding transcription factor, interacts with stathmin	0
+U	Phosphoprotein involved in cytoplasm to vacuole targeting and autophagy	2
+R	RNA-binding protein (contains RRM and Pumilio-like repeats)	1
+D	TGc (transglutaminase/protease-like) domain-containing protein involved in cytokinesis	0
+C	Sulfite oxidase, heme-binding component	0
+K	Transcription factor LIM3, contains LIM and HOX domains	0
+R	Uncharacterized conserved protein, contains KAZAL and TY domains	0
+R	Leucine-rich repeat (LRR) protein associated with apoptosis in muscle tissue	0
+UO	Component of vacuolar transporter chaperone (Vtc) involved in vacuole fusion	1
+R	Uncharacterized conserved protein, contains ZZ-type Zn-finger	2
+O	Membrane-associated ER protein involved in stress response (contains ubiquitin-like domain)	0
+L	Predicted transposase	14
+R	CUB domain-containing protein	0
+D	Cell division protein FtsJ	1
+T	Signal transduction protein Enabled, contains WH1 domain	0
+D	Mitotic checkpoint protein MAD1	1
+LKR	Sequence-specific single-stranded-DNA-binding protein	0
+O	Serine proteinase inhibitor (KU family) with thrombospondin repeats	1
+O	Putative ubiquitin-specific protease	0
+J	Putative mitochondrial/chloroplast ribosomal protein L45	1
+J	Mitochondrial ribosomal protein MRP7 (L2)	3
+R	Nanos and related proteins	0
+T	TBP-1 interacting protein	1
+S	Uncharacterized conserved protein containing CDGSH-type Zn-finger	0
+J	Mitochondrial ribosomal protein L9	2
+R	Predicted phosphoglycerate mutase	0
+J	Mitochondrial ribosomal protein L34	1
+RD	Predicted component of DNA replication checkpoint response mechanism (S-M checkpoint)	0
+O	Inner membrane protein required for assembly of the F0 sector of ATP synthase	1
+J	Mitochondrial ribosomal protein L55	0
+R	Predicted nucleotide kinase	0
+T	Notch signaling protein Neuralized, Nuez domain	0
+GOT	O-linked N-acetylglucosamine transferase OGT	3
+E	Kynurenine formamidase	1
+M	Predicted mechanosensitive ion channel	7
+C	NADH:ubiquinone oxidoreductase, NDUFA7/B14.5A subunit	1
+C	NADH:ubiquinone oxidoreductase, NDUFB3/B12 subunit	0
+C	NADH:ubiquinone oxidoreductase, NDUFB5/SGDH subunit	1
+C	NADH:ubiquinone oxidoreductase, NDUFB6/B17 subunit	0
+C	Mitochondrial F1F0-ATP synthase, subunit Cf6 (coupling factor 6)	0
+U	Vacuolar import and degradation protein	2
+S	Uncharacterized conserved protein with TLDc domain	1
+T	Adaptor for phosphoinositide 3-kinase	0
+J	RNase P/RNase MRP subunit POP5	1
+DO	Anaphase-promoting complex (APC), subunit 4	1
+T	FOG: Toll/interleukin receptor and related proteins containing LRR and TIR repeats	0
+O	Chaperone-dependent E3 ubiquitin protein ligase (contains TPR repeats)	1
+S	Uncharacterized coiled-coil protein	0
+G	L-fucose kinase	1
+T	MAPKKK (MAP kinase kinase kinase) SSK2 and related serine/threonine protein kinases	2
+S	Uncharacterized conserved protein, contains ARM repeats	1
+S	Uncharacterized conserved protein, contains LRR repeats	1
+Q	PQQ (pyrrolo-quinoline quinone) repeat protein	1
+R	Predicted steroid reductase	3
+MW	Chondroitin 6-sulfotransferase and related sulfotransferases	0
+B	HORMA domain	1
+P	Copper chaperone for superoxide dismutase	1
+T	Apoptotic ATPase	37
+S	Uncharacterized conserved protein (Rhs family)	1
+D	Protein Mei2, essential for commitment to meiosis, and related proteins	2
+K	Hsp27-ERE-TATA-binding protein/Scaffold attachment factor (SAF-B)	1
+C	NADH dehydrogenase subunit 3 and related proteins	3
+C	Cytochrome oxidase subunit III and related proteins	4
+C	ATP synthase F0 subunit 6 and related proteins	5
+I	Predicted esterase	3
+C	NADH dehydrogenase subunits 2, 5, and related proteins	4
+C	NADH dehydrogenase subunit 4L and related proteins	0
+R	Brain cell membrane protein 1 (BCMP1)	0
+S	Uncharacterized conserved low complexity protein	1
+K	Transcription factor TMF, TATA element modulatory factor	1
+S	Uncharacterized conserved coiled-coil protein	1
+R	Uncharacterized conserved protein, contains ENT domain	3
+A	Splicing factor, arginine/serine-rich	0
+UR	Golgi integral membrane protein	0
+R	FOG: Calponin homology domain	0
+R	Uncharacterized protein PSP1 (suppressor of DNA polymerase alpha mutations in yeast)	0
+R	Uncharacterized conserved protein, contains ML domain	2
+R	Uncharacterized conserved protein, contains C4-type Zn-finger	0
+J	tRNA splicing endonuclease SEN2	2
+T	Putative beta-catenin-Tcf/Lef signaling pathway component DRCTNNB1A	2
+A	Predicted RNase	0
+R	Uncharacterized conserved protein, contains kelch repeat	1
+U	Integral membrane protein involved in transport between the late Golgi and endosome	1
+U	Preprotein translocase subunit Sec66	1
+R	Uncharacterized homolog of ribosome-binding factor A	0
+M	Chitinase	1
+J	Mitochondrial/chloroplast ribosomal protein L20	2
+J	Mitochondrial ribosomal protein MRP17	2
+O	E3 ubiquitin ligase, VHL component (von Hippel-Lindau tumor suppressor in humans)	0
+R	Predicted membrane protein	10
+TD	Cyclin-dependent kinase 2-associated protein	0
+Y	Nucleoporin	0
+B	SWI/SNF-related matrix-associated actin-dependent regulator of chromatin	1
+B	Non-SMC (structural maintenance of chromosomes) element 1 protein (NSE1)	1
+YU	Nuclear pore complex protein	0
+I	Ethanolamine kinase	2
+T	Serine/threonine protein kinase, contains leucine zipper domain	0
+W	Ultrahigh sulfur keratin-associated protein	0
+R	U1-like Zn-finger protein	1
+T	Anti-apoptotic Bcl-2 family proteins, prevent opening of mitochondrial porin channel	0
+R	Galactoside-binding lectin	0
+V	D-arabinono-1, 4-lactone oxidase	5
+D	Protein predicted to be involved in spindle matrix formation, contains DM13, DoH, and DOMON domains	1
+S	Extracellular protein with conserved cysteines	2
+C	ATPase membrane sector associated protein	0
+P	Predicted metallothionein	2
+DR	Uncharacterized protein involved in synaptonemal complex formation	0
+R	Predicted chitinase	10
+T	Cyclin-dependent kinase inhibitor	1
+R	Metalloproteinase inhibitor TIMP and related proteins	0
+A	Small nuclear RNA activating complex (SNAPc), subunit SNAP43	0
+T	Two-component phosphorelay intermediate involved in MAP kinase cascade regulation	3
+GM	Subunit of Golgi mannosyltransferase complex	5
+T	Inositol polyphosphate kinase	1
+E	Serine O-acetyltransferase	6
+L	DNA recombinational repair protein BRCA2	1
+J	Ribosomal protein L41	0
+O	Predicted pyroglutamyl peptidase	2
+J	Mitochondrial ribosomal protein L27	1
+R	Predicted telomere binding protein	1
+J	Ribosome recycling factor	2
+O	Proteasome formation inhibitor PI31	1
+L	DNA replication factor	1
+C	Ubiquinol-cytochrome c reductase hinge protein	1
+C	Cytochrome c oxidase, subunit II, and related proteins	3
+A	Mitochondrial mRNA maturase	2
+C	Cytochrome c oxidase, subunit I	4
+C	NADH dehydrogenase subunit 1	2
+J	Nucleolar protein (NOP16) involved in 60S ribosomal subunit biogenesis	1
+J	Predicted tRNA-splicing endonuclease subunit	2
+C	NADPH oxidase	1
+D	Uncharacterized protein SFI1 involved in G(2)-M transition	0
+S	Uncharacterized conserved protein BCNT	1
+E	Aspartate-semialdehyde dehydrogenase	1
+J	Mitochondrial ribosomal protein L28	0
+K	Transcription factor CBF, beta subunit	0
+KT	Ubinuclein, nuclear protein interacting with cellular and viral transcription factors	0
+V	Members of chemokine-like factor super family and related proteins	0
+T	Crk family adapters	0
+L	Three prime repair exonuclease	1
+N	Thymosin beta	0
+K	Protein associated with transcriptional elongation factor ELL	2
+K	RNA polymerase II elongation factor	0
+J	Mitochondrial ribosomal protein L30	0
+X	Neuronal membrane glycoprotein/Myelin proteolipid protein	0
+T	Member of the steroid/thyroid receptor superfamily	0
+W	Adhesion-type protein	0
+Z	F-actin binding protein, regulates actin cytoskeletal organization	0
+U	Rab6 GTPase-interacting protein involved in endosome-to-TGN transport	0
+R	Golgi-associated protein/Nedd4 WW domain-binding protein	0
+J	Translation initiation factor eIF3, p35 subunit	3
+R	Muscular protein implicated in muscular dystrophy phenotype	0
+X	Unnamed protein	1
+R	Lysosomal-associated membrane protein	0
+R	Involved in anesthetic response in C.elegans	0
+R	Predicted Na+-dependent cotransporter	1
+AT	Predicted nuclear membrane protein involved in mRNA transport and sex determination via splicing modulation	1
+M	Apolipoprotein D/Lipocalin	3
+T	Component of synaptic membrane glycine-, glutamate- and thienylcyclohexylpiperidine-binding glycoprotein (43kDa)	0
+I	C-8,7 sterol isomerase	1
+R	Predicted DNA-binding protein, contains SANT domain	0
+L	DNA-binding protein C1D involved in regulation of double-strand break repair	1
+OT	Dolichol-phosphate mannosyltransferase, subunit 3	0
+D	Protein involved in sister chromatid separation and/or segregation	1
+J	Mitochondrial ribosomal protein S27	2
+C	NADH dehydrogenase, subunit 4	3
+T	Nuclear receptor	0
+R	Coiled coil protein involved in linking membrane proteins to cytoskeleton	0
+WV	Extracellular matrix-associated peroxidase	0
+A	mRNA cleavage factor I subunit/CPSF subunit	0
