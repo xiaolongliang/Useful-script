@@ -14,3 +14,14 @@ python 02.shipx.py > 20220512_results.txt
 ```
 Rscript 03.GoEnrich.R
 ```
+
+### FindCloserTSSinCNE
+- 11.tss.bed TSS位点文件
+- 10.20bp.bed CNE文件
+- 找出CNE区域左右两侧离得最近的TSS位点（同一条染色体上）
+```python
+python FindCloserTSSinCNE.py > results.txt
+``` 
+ 
+
+
